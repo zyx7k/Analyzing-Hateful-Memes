@@ -1,0 +1,3000 @@
+Image File Name: 79846.png
+Extracted_text - Classification: hateful, Confidence: 0.7749
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.7213
+
+Image File Name: 80156.png
+Extracted_text - Classification: hateful, Confidence: 0.9712
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.7430
+
+Image File Name: 80169.png
+Extracted_text - Classification: not hateful, Confidence: 0.9940
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9489
+
+Image File Name: 80172.png
+Extracted_text - Classification: hateful, Confidence: 0.9214
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.8416
+
+Image File Name: 80195.png
+Extracted_text - Classification: hateful, Confidence: 0.9000
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: hateful, Confidence: 0.7333
+
+Image File Name: 80259.png
+Extracted_text - Classification: not hateful, Confidence: 0.8310
+Image_caption - Classification: not hateful, Confidence: 0.9887
+Combined_text - Classification: not hateful, Confidence: 0.8821
+
+Image File Name: 80265.png
+Extracted_text - Classification: not hateful, Confidence: 0.9975
+Image_caption - Classification: hateful, Confidence: 0.8286
+Combined_text - Classification: not hateful, Confidence: 0.9321
+
+Image File Name: 80316.png
+Extracted_text - Classification: hateful, Confidence: 0.8608
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.5220
+
+Image File Name: 80361.png
+Extracted_text - Classification: not hateful, Confidence: 0.8249
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9754
+
+Image File Name: 80397.png
+Extracted_text - Classification: hateful, Confidence: 0.9203
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.7882
+
+Image File Name: 80451.png
+Extracted_text - Classification: not hateful, Confidence: 0.5254
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.8227
+
+Image File Name: 80453.png
+Extracted_text - Classification: hateful, Confidence: 0.9261
+Image_caption - Classification: not hateful, Confidence: 0.7111
+Combined_text - Classification: hateful, Confidence: 0.8649
+
+Image File Name: 80534.png
+Extracted_text - Classification: not hateful, Confidence: 0.9668
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9918
+
+Image File Name: 80537.png
+Extracted_text - Classification: not hateful, Confidence: 0.8916
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9580
+
+Image File Name: 80576.png
+Extracted_text - Classification: not hateful, Confidence: 0.8156
+Image_caption - Classification: not hateful, Confidence: 0.9912
+Combined_text - Classification: hateful, Confidence: 0.9631
+
+Image File Name: 80612.png
+Extracted_text - Classification: not hateful, Confidence: 0.9978
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9955
+
+Image File Name: 80742.png
+Extracted_text - Classification: not hateful, Confidence: 0.9249
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9756
+
+Image File Name: 80764.png
+Extracted_text - Classification: hateful, Confidence: 0.9184
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.5719
+
+Image File Name: 80765.png
+Extracted_text - Classification: hateful, Confidence: 0.9879
+Image_caption - Classification: not hateful, Confidence: 0.9917
+Combined_text - Classification: not hateful, Confidence: 0.7216
+
+Image File Name: 80924.png
+Extracted_text - Classification: not hateful, Confidence: 0.7805
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9202
+
+Image File Name: 80945.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9995
+
+Image File Name: 80965.png
+Extracted_text - Classification: hateful, Confidence: 0.9669
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9536
+
+Image File Name: 80967.png
+Extracted_text - Classification: hateful, Confidence: 0.5705
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9461
+
+Image File Name: 80972.png
+Extracted_text - Classification: hateful, Confidence: 0.9533
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.9553
+
+Image File Name: 81027.png
+Extracted_text - Classification: not hateful, Confidence: 0.9515
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9599
+
+Image File Name: 81079.png
+Extracted_text - Classification: not hateful, Confidence: 0.9896
+Image_caption - Classification: not hateful, Confidence: 0.9880
+Combined_text - Classification: not hateful, Confidence: 0.9430
+
+Image File Name: 81092.png
+Extracted_text - Classification: not hateful, Confidence: 0.7630
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.8478
+
+Image File Name: 81094.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9988
+
+Image File Name: 81203.png
+Extracted_text - Classification: hateful, Confidence: 0.7634
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8027
+
+Image File Name: 81245.png
+Extracted_text - Classification: hateful, Confidence: 0.5589
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.6574
+
+Image File Name: 81259.png
+Extracted_text - Classification: not hateful, Confidence: 0.7657
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8334
+
+Image File Name: 81260.png
+Extracted_text - Classification: hateful, Confidence: 0.5812
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8246
+
+Image File Name: 81279.png
+Extracted_text - Classification: not hateful, Confidence: 0.9834
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9901
+
+Image File Name: 81294.png
+Extracted_text - Classification: hateful, Confidence: 0.9957
+Image_caption - Classification: not hateful, Confidence: 0.9953
+Combined_text - Classification: hateful, Confidence: 0.9545
+
+Image File Name: 81305.png
+Extracted_text - Classification: hateful, Confidence: 0.9259
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9020
+
+Image File Name: 81365.png
+Extracted_text - Classification: not hateful, Confidence: 0.7357
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.6914
+
+Image File Name: 81374.png
+Extracted_text - Classification: not hateful, Confidence: 0.9205
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9966
+
+Image File Name: 81423.png
+Extracted_text - Classification: not hateful, Confidence: 0.9730
+Image_caption - Classification: not hateful, Confidence: 0.9969
+Combined_text - Classification: not hateful, Confidence: 0.9807
+
+Image File Name: 81457.png
+Extracted_text - Classification: hateful, Confidence: 0.9183
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.7604
+
+Image File Name: 81529.png
+Extracted_text - Classification: hateful, Confidence: 0.9874
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.9402
+
+Image File Name: 81536.png
+Extracted_text - Classification: hateful, Confidence: 0.9866
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9760
+
+Image File Name: 81540.png
+Extracted_text - Classification: not hateful, Confidence: 0.8640
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.8719
+
+Image File Name: 81546.png
+Extracted_text - Classification: hateful, Confidence: 0.8913
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.6802
+
+Image File Name: 81602.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9993
+
+Image File Name: 81603.png
+Extracted_text - Classification: hateful, Confidence: 0.7590
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.8107
+
+Image File Name: 81624.png
+Extracted_text - Classification: hateful, Confidence: 0.6061
+Image_caption - Classification: not hateful, Confidence: 0.9953
+Combined_text - Classification: not hateful, Confidence: 0.7084
+
+Image File Name: 81759.png
+Extracted_text - Classification: hateful, Confidence: 0.8937
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.5984
+
+Image File Name: 81904.png
+Extracted_text - Classification: not hateful, Confidence: 0.8991
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.8979
+
+Image File Name: 81942.png
+Extracted_text - Classification: hateful, Confidence: 0.9673
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9294
+
+Image File Name: 81953.png
+Extracted_text - Classification: not hateful, Confidence: 0.7983
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.8651
+
+Image File Name: 81975.png
+Extracted_text - Classification: hateful, Confidence: 0.8422
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: hateful, Confidence: 0.6082
+
+Image File Name: 81976.png
+Extracted_text - Classification: not hateful, Confidence: 0.8914
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9403
+
+Image File Name: 82016.png
+Extracted_text - Classification: not hateful, Confidence: 0.9928
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: not hateful, Confidence: 0.9907
+
+Image File Name: 82045.png
+Extracted_text - Classification: hateful, Confidence: 0.8992
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: hateful, Confidence: 0.8293
+
+Image File Name: 82079.png
+Extracted_text - Classification: not hateful, Confidence: 0.7282
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8003
+
+Image File Name: 82094.png
+Extracted_text - Classification: not hateful, Confidence: 0.9566
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9335
+
+Image File Name: 82104.png
+Extracted_text - Classification: not hateful, Confidence: 0.9962
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9925
+
+Image File Name: 82134.png
+Extracted_text - Classification: hateful, Confidence: 0.9945
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: hateful, Confidence: 0.9849
+
+Image File Name: 82139.png
+Extracted_text - Classification: hateful, Confidence: 0.5391
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8185
+
+Image File Name: 82150.png
+Extracted_text - Classification: not hateful, Confidence: 0.7936
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9389
+
+Image File Name: 82154.png
+Extracted_text - Classification: hateful, Confidence: 0.8861
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.8558
+
+Image File Name: 82163.png
+Extracted_text - Classification: not hateful, Confidence: 0.9718
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9849
+
+Image File Name: 82316.png
+Extracted_text - Classification: hateful, Confidence: 0.8978
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.5920
+
+Image File Name: 82359.png
+Extracted_text - Classification: not hateful, Confidence: 0.9975
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9573
+
+Image File Name: 82367.png
+Extracted_text - Classification: not hateful, Confidence: 0.9943
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9909
+
+Image File Name: 82369.png
+Extracted_text - Classification: not hateful, Confidence: 0.5148
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.8067
+
+Image File Name: 82379.png
+Extracted_text - Classification: hateful, Confidence: 0.9855
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9552
+
+Image File Name: 82413.png
+Extracted_text - Classification: not hateful, Confidence: 0.9795
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9875
+
+Image File Name: 82461.png
+Extracted_text - Classification: not hateful, Confidence: 0.7558
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.7781
+
+Image File Name: 82510.png
+Extracted_text - Classification: not hateful, Confidence: 0.9945
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.9888
+
+Image File Name: 82539.png
+Extracted_text - Classification: not hateful, Confidence: 0.9894
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9447
+
+Image File Name: 82540.png
+Extracted_text - Classification: not hateful, Confidence: 0.9997
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9985
+
+Image File Name: 82593.png
+Extracted_text - Classification: hateful, Confidence: 0.9982
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9912
+
+Image File Name: 82609.png
+Extracted_text - Classification: hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9982
+
+Image File Name: 82693.png
+Extracted_text - Classification: not hateful, Confidence: 0.9841
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9837
+
+Image File Name: 82697.png
+Extracted_text - Classification: hateful, Confidence: 0.9945
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9463
+
+Image File Name: 82705.png
+Extracted_text - Classification: not hateful, Confidence: 0.6676
+Image_caption - Classification: not hateful, Confidence: 0.9982
+Combined_text - Classification: not hateful, Confidence: 0.8102
+
+Image File Name: 82714.png
+Extracted_text - Classification: not hateful, Confidence: 0.9972
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9976
+
+Image File Name: 82719.png
+Extracted_text - Classification: not hateful, Confidence: 0.9691
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9946
+
+Image File Name: 82736.png
+Extracted_text - Classification: not hateful, Confidence: 0.9986
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9981
+
+Image File Name: 82756.png
+Extracted_text - Classification: not hateful, Confidence: 0.9203
+Image_caption - Classification: not hateful, Confidence: 0.9895
+Combined_text - Classification: not hateful, Confidence: 0.9184
+
+Image File Name: 82761.png
+Extracted_text - Classification: hateful, Confidence: 0.9973
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9980
+
+Image File Name: 82941.png
+Extracted_text - Classification: not hateful, Confidence: 0.8853
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9757
+
+Image File Name: 82943.png
+Extracted_text - Classification: not hateful, Confidence: 0.9991
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9912
+
+Image File Name: 82946.png
+Extracted_text - Classification: hateful, Confidence: 0.8913
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8813
+
+Image File Name: 82963.png
+Extracted_text - Classification: not hateful, Confidence: 0.9814
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9611
+
+Image File Name: 83024.png
+Extracted_text - Classification: hateful, Confidence: 0.9985
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9959
+
+Image File Name: 83025.png
+Extracted_text - Classification: not hateful, Confidence: 0.9925
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9830
+
+Image File Name: 83052.png
+Extracted_text - Classification: hateful, Confidence: 0.5673
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.7520
+
+Image File Name: 83056.png
+Extracted_text - Classification: not hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9993
+
+Image File Name: 83076.png
+Extracted_text - Classification: not hateful, Confidence: 0.9949
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9711
+
+Image File Name: 83095.png
+Extracted_text - Classification: not hateful, Confidence: 0.9936
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.9825
+
+Image File Name: 83125.png
+Extracted_text - Classification: hateful, Confidence: 0.8824
+Image_caption - Classification: not hateful, Confidence: 0.9764
+Combined_text - Classification: hateful, Confidence: 0.9404
+
+Image File Name: 83152.png
+Extracted_text - Classification: not hateful, Confidence: 0.9940
+Image_caption - Classification: not hateful, Confidence: 0.9977
+Combined_text - Classification: not hateful, Confidence: 0.9746
+
+Image File Name: 83201.png
+Extracted_text - Classification: not hateful, Confidence: 0.8797
+Image_caption - Classification: not hateful, Confidence: 0.9970
+Combined_text - Classification: not hateful, Confidence: 0.9403
+
+Image File Name: 83206.png
+Extracted_text - Classification: hateful, Confidence: 0.8626
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.5023
+
+Image File Name: 83219.png
+Extracted_text - Classification: not hateful, Confidence: 0.7060
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8361
+
+Image File Name: 83246.png
+Extracted_text - Classification: hateful, Confidence: 0.9984
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9908
+
+Image File Name: 83256.png
+Extracted_text - Classification: hateful, Confidence: 0.9184
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.7053
+
+Image File Name: 83271.png
+Extracted_text - Classification: hateful, Confidence: 0.8795
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.6884
+
+Image File Name: 83415.png
+Extracted_text - Classification: not hateful, Confidence: 0.9972
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9940
+
+Image File Name: 83427.png
+Extracted_text - Classification: not hateful, Confidence: 0.9998
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9987
+
+Image File Name: 83429.png
+Extracted_text - Classification: hateful, Confidence: 0.5037
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8454
+
+Image File Name: 83456.png
+Extracted_text - Classification: not hateful, Confidence: 0.6901
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.6958
+
+Image File Name: 83490.png
+Extracted_text - Classification: not hateful, Confidence: 0.7510
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8417
+
+Image File Name: 83504.png
+Extracted_text - Classification: hateful, Confidence: 0.7167
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.5060
+
+Image File Name: 83509.png
+Extracted_text - Classification: not hateful, Confidence: 0.9988
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9977
+
+Image File Name: 83527.png
+Extracted_text - Classification: not hateful, Confidence: 0.9994
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9943
+
+Image File Name: 83547.png
+Extracted_text - Classification: hateful, Confidence: 0.8586
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.5725
+
+Image File Name: 83549.png
+Extracted_text - Classification: not hateful, Confidence: 0.9778
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9811
+
+Image File Name: 83579.png
+Extracted_text - Classification: not hateful, Confidence: 0.9961
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9839
+
+Image File Name: 83602.png
+Extracted_text - Classification: not hateful, Confidence: 0.8872
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9737
+
+Image File Name: 83619.png
+Extracted_text - Classification: hateful, Confidence: 0.9558
+Image_caption - Classification: not hateful, Confidence: 0.9983
+Combined_text - Classification: not hateful, Confidence: 0.8355
+
+Image File Name: 83624.png
+Extracted_text - Classification: not hateful, Confidence: 0.9796
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9929
+
+Image File Name: 83650.png
+Extracted_text - Classification: not hateful, Confidence: 0.7381
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.7785
+
+Image File Name: 83657.png
+Extracted_text - Classification: not hateful, Confidence: 0.9949
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9899
+
+Image File Name: 83719.png
+Extracted_text - Classification: not hateful, Confidence: 0.6479
+Image_caption - Classification: not hateful, Confidence: 0.9937
+Combined_text - Classification: not hateful, Confidence: 0.7075
+
+Image File Name: 83764.png
+Extracted_text - Classification: not hateful, Confidence: 0.9027
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9260
+
+Image File Name: 83907.png
+Extracted_text - Classification: not hateful, Confidence: 0.9851
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9983
+
+Image File Name: 83914.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9935
+
+Image File Name: 83921.png
+Extracted_text - Classification: not hateful, Confidence: 0.9980
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9939
+
+Image File Name: 83927.png
+Extracted_text - Classification: not hateful, Confidence: 0.9792
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9805
+
+Image File Name: 83957.png
+Extracted_text - Classification: not hateful, Confidence: 0.7679
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9310
+
+Image File Name: 83964.png
+Extracted_text - Classification: hateful, Confidence: 0.9923
+Image_caption - Classification: not hateful, Confidence: 0.9903
+Combined_text - Classification: hateful, Confidence: 0.9921
+
+Image File Name: 83965.png
+Extracted_text - Classification: hateful, Confidence: 0.9988
+Image_caption - Classification: not hateful, Confidence: 0.9875
+Combined_text - Classification: hateful, Confidence: 0.9961
+
+Image File Name: 84016.png
+Extracted_text - Classification: hateful, Confidence: 0.9968
+Image_caption - Classification: not hateful, Confidence: 0.9932
+Combined_text - Classification: hateful, Confidence: 0.7613
+
+Image File Name: 84059.png
+Extracted_text - Classification: hateful, Confidence: 0.7091
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.7287
+
+Image File Name: 84069.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9996
+
+Image File Name: 84097.png
+Extracted_text - Classification: not hateful, Confidence: 0.9916
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.9923
+
+Image File Name: 84106.png
+Extracted_text - Classification: hateful, Confidence: 0.9316
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.8253
+
+Image File Name: 84152.png
+Extracted_text - Classification: not hateful, Confidence: 0.9940
+Image_caption - Classification: not hateful, Confidence: 0.9880
+Combined_text - Classification: not hateful, Confidence: 0.8267
+
+Image File Name: 84192.png
+Extracted_text - Classification: not hateful, Confidence: 0.8741
+Image_caption - Classification: not hateful, Confidence: 0.9921
+Combined_text - Classification: not hateful, Confidence: 0.8837
+
+Image File Name: 84237.png
+Extracted_text - Classification: not hateful, Confidence: 0.6624
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9040
+
+Image File Name: 84269.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9989
+
+Image File Name: 84291.png
+Extracted_text - Classification: hateful, Confidence: 0.6463
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.7646
+
+Image File Name: 84295.png
+Extracted_text - Classification: not hateful, Confidence: 0.8540
+Image_caption - Classification: not hateful, Confidence: 0.9968
+Combined_text - Classification: not hateful, Confidence: 0.9034
+
+Image File Name: 84327.png
+Extracted_text - Classification: not hateful, Confidence: 0.9885
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9935
+
+Image File Name: 84329.png
+Extracted_text - Classification: hateful, Confidence: 0.5180
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8093
+
+Image File Name: 84502.png
+Extracted_text - Classification: hateful, Confidence: 0.8056
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.7819
+
+Image File Name: 84516.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9988
+
+Image File Name: 84521.png
+Extracted_text - Classification: hateful, Confidence: 0.9757
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9870
+
+Image File Name: 84527.png
+Extracted_text - Classification: hateful, Confidence: 0.9491
+Image_caption - Classification: not hateful, Confidence: 0.9855
+Combined_text - Classification: hateful, Confidence: 0.9574
+
+Image File Name: 84531.png
+Extracted_text - Classification: hateful, Confidence: 0.7794
+Image_caption - Classification: not hateful, Confidence: 0.9975
+Combined_text - Classification: hateful, Confidence: 0.5203
+
+Image File Name: 84537.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9947
+
+Image File Name: 84563.png
+Extracted_text - Classification: not hateful, Confidence: 0.8623
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8606
+
+Image File Name: 84576.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 84592.png
+Extracted_text - Classification: hateful, Confidence: 0.9974
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9980
+
+Image File Name: 84596.png
+Extracted_text - Classification: not hateful, Confidence: 0.9927
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9907
+
+Image File Name: 84620.png
+Extracted_text - Classification: not hateful, Confidence: 0.9775
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9944
+
+Image File Name: 84653.png
+Extracted_text - Classification: hateful, Confidence: 0.8096
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.6767
+
+Image File Name: 84673.png
+Extracted_text - Classification: not hateful, Confidence: 0.9242
+Image_caption - Classification: not hateful, Confidence: 0.9849
+Combined_text - Classification: not hateful, Confidence: 0.9692
+
+Image File Name: 84910.png
+Extracted_text - Classification: hateful, Confidence: 0.8066
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: not hateful, Confidence: 0.5859
+
+Image File Name: 84913.png
+Extracted_text - Classification: not hateful, Confidence: 0.9760
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9725
+
+Image File Name: 84926.png
+Extracted_text - Classification: not hateful, Confidence: 0.9991
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9923
+
+Image File Name: 84965.png
+Extracted_text - Classification: not hateful, Confidence: 0.9827
+Image_caption - Classification: not hateful, Confidence: 0.9961
+Combined_text - Classification: not hateful, Confidence: 0.9933
+
+Image File Name: 84970.png
+Extracted_text - Classification: hateful, Confidence: 0.9976
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9919
+
+Image File Name: 85034.png
+Extracted_text - Classification: hateful, Confidence: 0.9951
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.9695
+
+Image File Name: 85062.png
+Extracted_text - Classification: hateful, Confidence: 0.9952
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.9924
+
+Image File Name: 85096.png
+Extracted_text - Classification: not hateful, Confidence: 0.8841
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9732
+
+Image File Name: 85097.png
+Extracted_text - Classification: not hateful, Confidence: 0.9617
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.9866
+
+Image File Name: 85139.png
+Extracted_text - Classification: hateful, Confidence: 0.9997
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.9995
+
+Image File Name: 85146.png
+Extracted_text - Classification: hateful, Confidence: 0.9204
+Image_caption - Classification: not hateful, Confidence: 0.9939
+Combined_text - Classification: hateful, Confidence: 0.8552
+
+Image File Name: 85172.png
+Extracted_text - Classification: not hateful, Confidence: 0.9503
+Image_caption - Classification: not hateful, Confidence: 0.9873
+Combined_text - Classification: not hateful, Confidence: 0.8732
+
+Image File Name: 85269.png
+Extracted_text - Classification: not hateful, Confidence: 0.9777
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9707
+
+Image File Name: 85291.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 85307.png
+Extracted_text - Classification: not hateful, Confidence: 0.9526
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8081
+
+Image File Name: 85314.png
+Extracted_text - Classification: hateful, Confidence: 0.9835
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9111
+
+Image File Name: 85316.png
+Extracted_text - Classification: not hateful, Confidence: 0.9802
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9939
+
+Image File Name: 85324.png
+Extracted_text - Classification: hateful, Confidence: 0.9978
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9967
+
+Image File Name: 85379.png
+Extracted_text - Classification: not hateful, Confidence: 0.9641
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9202
+
+Image File Name: 85392.png
+Extracted_text - Classification: not hateful, Confidence: 0.8663
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9883
+
+Image File Name: 85394.png
+Extracted_text - Classification: not hateful, Confidence: 0.9921
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9937
+
+Image File Name: 85429.png
+Extracted_text - Classification: not hateful, Confidence: 0.9525
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9746
+
+Image File Name: 85439.png
+Extracted_text - Classification: hateful, Confidence: 0.9858
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9448
+
+Image File Name: 85461.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9983
+
+Image File Name: 85716.png
+Extracted_text - Classification: hateful, Confidence: 0.9859
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9514
+
+Image File Name: 85721.png
+Extracted_text - Classification: not hateful, Confidence: 0.9975
+Image_caption - Classification: not hateful, Confidence: 0.9896
+Combined_text - Classification: not hateful, Confidence: 0.8893
+
+Image File Name: 85730.png
+Extracted_text - Classification: hateful, Confidence: 0.8735
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: not hateful, Confidence: 0.5303
+
+Image File Name: 85930.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 85936.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: hateful, Confidence: 0.8163
+
+Image File Name: 85976.png
+Extracted_text - Classification: not hateful, Confidence: 0.9759
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9964
+
+Image File Name: 86023.png
+Extracted_text - Classification: hateful, Confidence: 0.9213
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.6572
+
+Image File Name: 86024.png
+Extracted_text - Classification: not hateful, Confidence: 0.5408
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.7832
+
+Image File Name: 86031.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9903
+Combined_text - Classification: not hateful, Confidence: 0.9990
+
+Image File Name: 86045.png
+Extracted_text - Classification: not hateful, Confidence: 0.9866
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9920
+
+Image File Name: 86071.png
+Extracted_text - Classification: not hateful, Confidence: 0.9221
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9395
+
+Image File Name: 86072.png
+Extracted_text - Classification: hateful, Confidence: 0.7868
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.5121
+
+Image File Name: 86075.png
+Extracted_text - Classification: not hateful, Confidence: 0.9883
+Image_caption - Classification: not hateful, Confidence: 0.9971
+Combined_text - Classification: not hateful, Confidence: 0.9692
+
+Image File Name: 86103.png
+Extracted_text - Classification: not hateful, Confidence: 0.8153
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9562
+
+Image File Name: 86104.png
+Extracted_text - Classification: not hateful, Confidence: 0.8964
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9671
+
+Image File Name: 86125.png
+Extracted_text - Classification: not hateful, Confidence: 0.9531
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9681
+
+Image File Name: 86142.png
+Extracted_text - Classification: not hateful, Confidence: 0.9976
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9971
+
+Image File Name: 86159.png
+Extracted_text - Classification: not hateful, Confidence: 0.9916
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9910
+
+Image File Name: 86172.png
+Extracted_text - Classification: not hateful, Confidence: 0.8065
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9214
+
+Image File Name: 86205.png
+Extracted_text - Classification: not hateful, Confidence: 0.6614
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.7791
+
+Image File Name: 86217.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9991
+
+Image File Name: 86249.png
+Extracted_text - Classification: hateful, Confidence: 0.6546
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.7184
+
+Image File Name: 86250.png
+Extracted_text - Classification: hateful, Confidence: 0.9982
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9971
+
+Image File Name: 86307.png
+Extracted_text - Classification: not hateful, Confidence: 0.8141
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: not hateful, Confidence: 0.8638
+
+Image File Name: 86329.png
+Extracted_text - Classification: not hateful, Confidence: 0.7754
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.7912
+
+Image File Name: 86351.png
+Extracted_text - Classification: not hateful, Confidence: 0.9693
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9811
+
+Image File Name: 86479.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9798
+Combined_text - Classification: not hateful, Confidence: 0.9938
+
+Image File Name: 86509.png
+Extracted_text - Classification: not hateful, Confidence: 0.6980
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.7998
+
+Image File Name: 86540.png
+Extracted_text - Classification: not hateful, Confidence: 0.6181
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9421
+
+Image File Name: 86543.png
+Extracted_text - Classification: not hateful, Confidence: 0.9970
+Image_caption - Classification: not hateful, Confidence: 0.9903
+Combined_text - Classification: not hateful, Confidence: 0.9966
+
+Image File Name: 86701.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9947
+
+Image File Name: 86713.png
+Extracted_text - Classification: not hateful, Confidence: 0.9682
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8617
+
+Image File Name: 86725.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9985
+
+Image File Name: 86730.png
+Extracted_text - Classification: not hateful, Confidence: 0.9057
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9911
+
+Image File Name: 86750.png
+Extracted_text - Classification: not hateful, Confidence: 0.5101
+Image_caption - Classification: not hateful, Confidence: 0.9976
+Combined_text - Classification: not hateful, Confidence: 0.8619
+
+Image File Name: 86910.png
+Extracted_text - Classification: hateful, Confidence: 0.6782
+Image_caption - Classification: not hateful, Confidence: 0.9938
+Combined_text - Classification: not hateful, Confidence: 0.8244
+
+Image File Name: 86912.png
+Extracted_text - Classification: hateful, Confidence: 0.9271
+Image_caption - Classification: not hateful, Confidence: 0.9958
+Combined_text - Classification: hateful, Confidence: 0.9411
+
+Image File Name: 86914.png
+Extracted_text - Classification: not hateful, Confidence: 0.5039
+Image_caption - Classification: not hateful, Confidence: 0.9982
+Combined_text - Classification: not hateful, Confidence: 0.7747
+
+Image File Name: 86925.png
+Extracted_text - Classification: not hateful, Confidence: 0.9639
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9734
+
+Image File Name: 87023.png
+Extracted_text - Classification: hateful, Confidence: 0.8809
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: hateful, Confidence: 0.8001
+
+Image File Name: 87054.png
+Extracted_text - Classification: not hateful, Confidence: 0.9433
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9736
+
+Image File Name: 87059.png
+Extracted_text - Classification: not hateful, Confidence: 0.9984
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9958
+
+Image File Name: 87063.png
+Extracted_text - Classification: hateful, Confidence: 0.5043
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.7041
+
+Image File Name: 87065.png
+Extracted_text - Classification: hateful, Confidence: 0.9320
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.8884
+
+Image File Name: 87140.png
+Extracted_text - Classification: hateful, Confidence: 0.9993
+Image_caption - Classification: not hateful, Confidence: 0.9903
+Combined_text - Classification: hateful, Confidence: 0.7295
+
+Image File Name: 87149.png
+Extracted_text - Classification: hateful, Confidence: 0.6720
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.6090
+
+Image File Name: 87190.png
+Extracted_text - Classification: hateful, Confidence: 0.8988
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.6150
+
+Image File Name: 87209.png
+Extracted_text - Classification: not hateful, Confidence: 0.9994
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9988
+
+Image File Name: 87219.png
+Extracted_text - Classification: hateful, Confidence: 0.9711
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9134
+
+Image File Name: 87230.png
+Extracted_text - Classification: not hateful, Confidence: 0.9476
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.9065
+
+Image File Name: 87234.png
+Extracted_text - Classification: not hateful, Confidence: 0.9136
+Image_caption - Classification: not hateful, Confidence: 0.9958
+Combined_text - Classification: not hateful, Confidence: 0.9367
+
+Image File Name: 87239.png
+Extracted_text - Classification: not hateful, Confidence: 0.5156
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9471
+
+Image File Name: 87253.png
+Extracted_text - Classification: hateful, Confidence: 0.9981
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9982
+
+Image File Name: 87261.png
+Extracted_text - Classification: not hateful, Confidence: 0.9151
+Image_caption - Classification: not hateful, Confidence: 0.9961
+Combined_text - Classification: not hateful, Confidence: 0.9423
+
+Image File Name: 87263.png
+Extracted_text - Classification: hateful, Confidence: 0.8092
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.5851
+
+Image File Name: 87296.png
+Extracted_text - Classification: hateful, Confidence: 0.8366
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.5841
+
+Image File Name: 87340.png
+Extracted_text - Classification: not hateful, Confidence: 0.9915
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9945
+
+Image File Name: 87341.png
+Extracted_text - Classification: not hateful, Confidence: 0.9111
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9594
+
+Image File Name: 87345.png
+Extracted_text - Classification: not hateful, Confidence: 0.8383
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9568
+
+Image File Name: 87365.png
+Extracted_text - Classification: not hateful, Confidence: 0.9953
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9976
+
+Image File Name: 87409.png
+Extracted_text - Classification: hateful, Confidence: 0.8499
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.8546
+
+Image File Name: 87426.png
+Extracted_text - Classification: not hateful, Confidence: 0.5653
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.7201
+
+Image File Name: 87429.png
+Extracted_text - Classification: hateful, Confidence: 0.8000
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.7083
+
+Image File Name: 87436.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 87453.png
+Extracted_text - Classification: not hateful, Confidence: 0.9434
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9772
+
+Image File Name: 87519.png
+Extracted_text - Classification: not hateful, Confidence: 0.9745
+Image_caption - Classification: not hateful, Confidence: 0.9910
+Combined_text - Classification: not hateful, Confidence: 0.9710
+
+Image File Name: 87539.png
+Extracted_text - Classification: not hateful, Confidence: 0.8921
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.6242
+
+Image File Name: 87564.png
+Extracted_text - Classification: not hateful, Confidence: 0.9590
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9519
+
+Image File Name: 87592.png
+Extracted_text - Classification: not hateful, Confidence: 0.9715
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9801
+
+Image File Name: 87604.png
+Extracted_text - Classification: not hateful, Confidence: 0.5373
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.7230
+
+Image File Name: 87615.png
+Extracted_text - Classification: not hateful, Confidence: 0.6883
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.7737
+
+Image File Name: 87620.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 87625.png
+Extracted_text - Classification: not hateful, Confidence: 0.9877
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9892
+
+Image File Name: 87645.png
+Extracted_text - Classification: hateful, Confidence: 0.9995
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.9994
+
+Image File Name: 87693.png
+Extracted_text - Classification: not hateful, Confidence: 0.6172
+Image_caption - Classification: not hateful, Confidence: 0.9984
+Combined_text - Classification: not hateful, Confidence: 0.6482
+
+Image File Name: 87695.png
+Extracted_text - Classification: not hateful, Confidence: 0.9886
+Image_caption - Classification: not hateful, Confidence: 0.9891
+Combined_text - Classification: not hateful, Confidence: 0.9450
+
+Image File Name: 87902.png
+Extracted_text - Classification: not hateful, Confidence: 0.9981
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9974
+
+Image File Name: 87934.png
+Extracted_text - Classification: not hateful, Confidence: 0.8440
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9532
+
+Image File Name: 89025.png
+Extracted_text - Classification: hateful, Confidence: 0.9626
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.7197
+
+Image File Name: 89034.png
+Extracted_text - Classification: not hateful, Confidence: 0.6575
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.7888
+
+Image File Name: 89035.png
+Extracted_text - Classification: not hateful, Confidence: 0.9761
+Image_caption - Classification: hateful, Confidence: 0.8609
+Combined_text - Classification: not hateful, Confidence: 0.9278
+
+Image File Name: 89042.png
+Extracted_text - Classification: not hateful, Confidence: 0.8378
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9490
+
+Image File Name: 89056.png
+Extracted_text - Classification: not hateful, Confidence: 0.9147
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9173
+
+Image File Name: 89067.png
+Extracted_text - Classification: hateful, Confidence: 0.9981
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9955
+
+Image File Name: 89072.png
+Extracted_text - Classification: not hateful, Confidence: 0.9051
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9311
+
+Image File Name: 89076.png
+Extracted_text - Classification: not hateful, Confidence: 0.9604
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9768
+
+Image File Name: 89102.png
+Extracted_text - Classification: hateful, Confidence: 0.9756
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.6859
+
+Image File Name: 89123.png
+Extracted_text - Classification: not hateful, Confidence: 0.9946
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9992
+
+Image File Name: 89126.png
+Extracted_text - Classification: hateful, Confidence: 0.9773
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.8660
+
+Image File Name: 89142.png
+Extracted_text - Classification: not hateful, Confidence: 0.5978
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.6182
+
+Image File Name: 89146.png
+Extracted_text - Classification: hateful, Confidence: 0.9968
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9720
+
+Image File Name: 89156.png
+Extracted_text - Classification: not hateful, Confidence: 0.9301
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8560
+
+Image File Name: 89165.png
+Extracted_text - Classification: not hateful, Confidence: 0.6889
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.8529
+
+Image File Name: 89206.png
+Extracted_text - Classification: hateful, Confidence: 0.9192
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.8466
+
+Image File Name: 89245.png
+Extracted_text - Classification: not hateful, Confidence: 0.9780
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9833
+
+Image File Name: 89264.png
+Extracted_text - Classification: hateful, Confidence: 0.9701
+Image_caption - Classification: not hateful, Confidence: 0.9971
+Combined_text - Classification: hateful, Confidence: 0.9835
+
+Image File Name: 89275.png
+Extracted_text - Classification: hateful, Confidence: 0.9722
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.9160
+
+Image File Name: 89302.png
+Extracted_text - Classification: not hateful, Confidence: 0.6057
+Image_caption - Classification: not hateful, Confidence: 0.9849
+Combined_text - Classification: hateful, Confidence: 0.5440
+
+Image File Name: 89406.png
+Extracted_text - Classification: not hateful, Confidence: 0.8365
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.7781
+
+Image File Name: 89412.png
+Extracted_text - Classification: hateful, Confidence: 0.5440
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9689
+
+Image File Name: 89437.png
+Extracted_text - Classification: not hateful, Confidence: 0.7236
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9326
+
+Image File Name: 89450.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9938
+
+Image File Name: 89503.png
+Extracted_text - Classification: not hateful, Confidence: 0.9966
+Image_caption - Classification: not hateful, Confidence: 0.9948
+Combined_text - Classification: not hateful, Confidence: 0.8549
+
+Image File Name: 89504.png
+Extracted_text - Classification: hateful, Confidence: 0.9435
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.9245
+
+Image File Name: 89517.png
+Extracted_text - Classification: not hateful, Confidence: 0.9167
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9271
+
+Image File Name: 89521.png
+Extracted_text - Classification: not hateful, Confidence: 0.9994
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: not hateful, Confidence: 0.9730
+
+Image File Name: 89523.png
+Extracted_text - Classification: not hateful, Confidence: 0.9106
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9802
+
+Image File Name: 89526.png
+Extracted_text - Classification: not hateful, Confidence: 0.7215
+Image_caption - Classification: not hateful, Confidence: 0.9917
+Combined_text - Classification: not hateful, Confidence: 0.8811
+
+Image File Name: 89541.png
+Extracted_text - Classification: hateful, Confidence: 0.8834
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.5558
+
+Image File Name: 89561.png
+Extracted_text - Classification: not hateful, Confidence: 0.7093
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8591
+
+Image File Name: 89621.png
+Extracted_text - Classification: not hateful, Confidence: 0.7680
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.8334
+
+Image File Name: 89632.png
+Extracted_text - Classification: not hateful, Confidence: 0.7489
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8570
+
+Image File Name: 89634.png
+Extracted_text - Classification: hateful, Confidence: 0.9799
+Image_caption - Classification: not hateful, Confidence: 0.9985
+Combined_text - Classification: hateful, Confidence: 0.9485
+
+Image File Name: 89640.png
+Extracted_text - Classification: not hateful, Confidence: 0.6922
+Image_caption - Classification: not hateful, Confidence: 0.9967
+Combined_text - Classification: not hateful, Confidence: 0.7451
+
+Image File Name: 89723.png
+Extracted_text - Classification: not hateful, Confidence: 0.9178
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9568
+
+Image File Name: 89732.png
+Extracted_text - Classification: not hateful, Confidence: 0.8862
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8582
+
+Image File Name: 89740.png
+Extracted_text - Classification: not hateful, Confidence: 0.9952
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9956
+
+Image File Name: 89745.png
+Extracted_text - Classification: hateful, Confidence: 0.9981
+Image_caption - Classification: not hateful, Confidence: 0.9937
+Combined_text - Classification: hateful, Confidence: 0.7467
+
+Image File Name: 89761.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9988
+
+Image File Name: 90125.png
+Extracted_text - Classification: not hateful, Confidence: 0.9884
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9952
+
+Image File Name: 90126.png
+Extracted_text - Classification: not hateful, Confidence: 0.8733
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9370
+
+Image File Name: 90136.png
+Extracted_text - Classification: hateful, Confidence: 0.9979
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: hateful, Confidence: 0.9901
+
+Image File Name: 90183.png
+Extracted_text - Classification: not hateful, Confidence: 0.9779
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9875
+
+Image File Name: 90214.png
+Extracted_text - Classification: not hateful, Confidence: 0.9616
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9851
+
+Image File Name: 90247.png
+Extracted_text - Classification: hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9984
+
+Image File Name: 90278.png
+Extracted_text - Classification: hateful, Confidence: 0.7426
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8648
+
+Image File Name: 90351.png
+Extracted_text - Classification: not hateful, Confidence: 0.9525
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9749
+
+Image File Name: 90365.png
+Extracted_text - Classification: not hateful, Confidence: 0.7782
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.7555
+
+Image File Name: 90413.png
+Extracted_text - Classification: not hateful, Confidence: 0.9507
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.9576
+
+Image File Name: 90468.png
+Extracted_text - Classification: not hateful, Confidence: 0.8021
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9678
+
+Image File Name: 90471.png
+Extracted_text - Classification: hateful, Confidence: 0.9887
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.8942
+
+Image File Name: 90483.png
+Extracted_text - Classification: hateful, Confidence: 0.6288
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8920
+
+Image File Name: 90513.png
+Extracted_text - Classification: hateful, Confidence: 0.9040
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.6902
+
+Image File Name: 90516.png
+Extracted_text - Classification: not hateful, Confidence: 0.9390
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9912
+
+Image File Name: 90531.png
+Extracted_text - Classification: not hateful, Confidence: 0.6419
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8430
+
+Image File Name: 90564.png
+Extracted_text - Classification: hateful, Confidence: 0.5205
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8778
+
+Image File Name: 90572.png
+Extracted_text - Classification: not hateful, Confidence: 0.9462
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9968
+
+Image File Name: 90573.png
+Extracted_text - Classification: not hateful, Confidence: 0.7747
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9444
+
+Image File Name: 90574.png
+Extracted_text - Classification: not hateful, Confidence: 0.9750
+Image_caption - Classification: not hateful, Confidence: 0.9956
+Combined_text - Classification: not hateful, Confidence: 0.9744
+
+Image File Name: 90583.png
+Extracted_text - Classification: hateful, Confidence: 0.8231
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9809
+
+Image File Name: 90587.png
+Extracted_text - Classification: hateful, Confidence: 0.9206
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.7902
+
+Image File Name: 90614.png
+Extracted_text - Classification: hateful, Confidence: 0.8553
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.5409
+
+Image File Name: 90618.png
+Extracted_text - Classification: not hateful, Confidence: 0.9641
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9908
+
+Image File Name: 90625.png
+Extracted_text - Classification: not hateful, Confidence: 0.8033
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9338
+
+Image File Name: 90648.png
+Extracted_text - Classification: hateful, Confidence: 0.6474
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9946
+
+Image File Name: 90673.png
+Extracted_text - Classification: hateful, Confidence: 0.9980
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.7493
+
+Image File Name: 90718.png
+Extracted_text - Classification: not hateful, Confidence: 0.8338
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8098
+
+Image File Name: 90723.png
+Extracted_text - Classification: not hateful, Confidence: 0.9994
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: hateful, Confidence: 0.9788
+
+Image File Name: 90725.png
+Extracted_text - Classification: not hateful, Confidence: 0.9156
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8379
+
+Image File Name: 90728.png
+Extracted_text - Classification: not hateful, Confidence: 0.8814
+Image_caption - Classification: not hateful, Confidence: 0.9798
+Combined_text - Classification: not hateful, Confidence: 0.8308
+
+Image File Name: 90748.png
+Extracted_text - Classification: hateful, Confidence: 0.9986
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9932
+
+Image File Name: 90753.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9991
+
+Image File Name: 90786.png
+Extracted_text - Classification: not hateful, Confidence: 0.9560
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9906
+
+Image File Name: 90817.png
+Extracted_text - Classification: not hateful, Confidence: 0.8951
+Image_caption - Classification: not hateful, Confidence: 0.9860
+Combined_text - Classification: not hateful, Confidence: 0.9603
+
+Image File Name: 90826.png
+Extracted_text - Classification: not hateful, Confidence: 0.8119
+Image_caption - Classification: not hateful, Confidence: 0.9989
+Combined_text - Classification: not hateful, Confidence: 0.8942
+
+Image File Name: 90861.png
+Extracted_text - Classification: not hateful, Confidence: 0.9064
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9683
+
+Image File Name: 91024.png
+Extracted_text - Classification: not hateful, Confidence: 0.9117
+Image_caption - Classification: not hateful, Confidence: 0.9980
+Combined_text - Classification: not hateful, Confidence: 0.9792
+
+Image File Name: 91027.png
+Extracted_text - Classification: not hateful, Confidence: 0.7657
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.6757
+
+Image File Name: 91042.png
+Extracted_text - Classification: not hateful, Confidence: 0.9998
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9996
+
+Image File Name: 91045.png
+Extracted_text - Classification: hateful, Confidence: 0.9946
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9953
+
+Image File Name: 91052.png
+Extracted_text - Classification: hateful, Confidence: 0.8937
+Image_caption - Classification: not hateful, Confidence: 0.9920
+Combined_text - Classification: not hateful, Confidence: 0.7708
+
+Image File Name: 91056.png
+Extracted_text - Classification: not hateful, Confidence: 0.6934
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.8179
+
+Image File Name: 91064.png
+Extracted_text - Classification: not hateful, Confidence: 0.9040
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9777
+
+Image File Name: 91065.png
+Extracted_text - Classification: not hateful, Confidence: 0.9572
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: not hateful, Confidence: 0.9549
+
+Image File Name: 91075.png
+Extracted_text - Classification: hateful, Confidence: 0.9673
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.5381
+
+Image File Name: 91082.png
+Extracted_text - Classification: hateful, Confidence: 0.9720
+Image_caption - Classification: not hateful, Confidence: 0.9892
+Combined_text - Classification: hateful, Confidence: 0.9539
+
+Image File Name: 91234.png
+Extracted_text - Classification: hateful, Confidence: 0.9916
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.8879
+
+Image File Name: 91320.png
+Extracted_text - Classification: not hateful, Confidence: 0.9621
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9538
+
+Image File Name: 91340.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9987
+Combined_text - Classification: not hateful, Confidence: 0.9989
+
+Image File Name: 91345.png
+Extracted_text - Classification: not hateful, Confidence: 0.8738
+Image_caption - Classification: not hateful, Confidence: 0.9958
+Combined_text - Classification: not hateful, Confidence: 0.9240
+
+Image File Name: 91356.png
+Extracted_text - Classification: not hateful, Confidence: 0.8084
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9037
+
+Image File Name: 91358.png
+Extracted_text - Classification: hateful, Confidence: 0.5829
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.7718
+
+Image File Name: 91367.png
+Extracted_text - Classification: not hateful, Confidence: 0.9087
+Image_caption - Classification: not hateful, Confidence: 0.9980
+Combined_text - Classification: not hateful, Confidence: 0.7901
+
+Image File Name: 91372.png
+Extracted_text - Classification: hateful, Confidence: 0.9118
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.6268
+
+Image File Name: 91423.png
+Extracted_text - Classification: hateful, Confidence: 0.9959
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9901
+
+Image File Name: 91432.png
+Extracted_text - Classification: not hateful, Confidence: 0.5542
+Image_caption - Classification: hateful, Confidence: 0.8595
+Combined_text - Classification: not hateful, Confidence: 0.5715
+
+Image File Name: 91462.png
+Extracted_text - Classification: not hateful, Confidence: 0.6528
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.7392
+
+Image File Name: 91476.png
+Extracted_text - Classification: hateful, Confidence: 0.8941
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.8818
+
+Image File Name: 91486.png
+Extracted_text - Classification: hateful, Confidence: 0.8692
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.7882
+
+Image File Name: 91526.png
+Extracted_text - Classification: hateful, Confidence: 0.9937
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9892
+
+Image File Name: 91530.png
+Extracted_text - Classification: hateful, Confidence: 0.9486
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: hateful, Confidence: 0.8956
+
+Image File Name: 91537.png
+Extracted_text - Classification: hateful, Confidence: 0.9986
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.9949
+
+Image File Name: 91674.png
+Extracted_text - Classification: not hateful, Confidence: 0.9935
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9725
+
+Image File Name: 91683.png
+Extracted_text - Classification: hateful, Confidence: 0.6942
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.6697
+
+Image File Name: 91704.png
+Extracted_text - Classification: not hateful, Confidence: 0.9710
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9916
+
+Image File Name: 91730.png
+Extracted_text - Classification: not hateful, Confidence: 0.6534
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.9288
+
+Image File Name: 91750.png
+Extracted_text - Classification: not hateful, Confidence: 0.5038
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.8133
+
+Image File Name: 91786.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9764
+Combined_text - Classification: hateful, Confidence: 0.9962
+
+Image File Name: 91803.png
+Extracted_text - Classification: hateful, Confidence: 0.9931
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.6997
+
+Image File Name: 91840.png
+Extracted_text - Classification: not hateful, Confidence: 0.5908
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9292
+
+Image File Name: 91842.png
+Extracted_text - Classification: hateful, Confidence: 0.9486
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.5185
+
+Image File Name: 91853.png
+Extracted_text - Classification: not hateful, Confidence: 0.6632
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9265
+
+Image File Name: 91862.png
+Extracted_text - Classification: not hateful, Confidence: 0.9575
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9915
+
+Image File Name: 91863.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 92016.png
+Extracted_text - Classification: not hateful, Confidence: 0.6455
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8238
+
+Image File Name: 92041.png
+Extracted_text - Classification: not hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9984
+
+Image File Name: 92051.png
+Extracted_text - Classification: not hateful, Confidence: 0.8249
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9756
+
+Image File Name: 92056.png
+Extracted_text - Classification: hateful, Confidence: 0.9942
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.9956
+
+Image File Name: 92064.png
+Extracted_text - Classification: hateful, Confidence: 0.8243
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.6980
+
+Image File Name: 92140.png
+Extracted_text - Classification: hateful, Confidence: 0.9993
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.9979
+
+Image File Name: 92148.png
+Extracted_text - Classification: hateful, Confidence: 0.9954
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9941
+
+Image File Name: 92154.png
+Extracted_text - Classification: hateful, Confidence: 0.9423
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8200
+
+Image File Name: 92160.png
+Extracted_text - Classification: not hateful, Confidence: 0.9871
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9942
+
+Image File Name: 92168.png
+Extracted_text - Classification: hateful, Confidence: 0.9748
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8508
+
+Image File Name: 92170.png
+Extracted_text - Classification: not hateful, Confidence: 0.8432
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9235
+
+Image File Name: 92308.png
+Extracted_text - Classification: not hateful, Confidence: 0.9843
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9867
+
+Image File Name: 92314.png
+Extracted_text - Classification: not hateful, Confidence: 0.9981
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9982
+
+Image File Name: 92357.png
+Extracted_text - Classification: not hateful, Confidence: 0.9556
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9542
+
+Image File Name: 92364.png
+Extracted_text - Classification: not hateful, Confidence: 0.9864
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9729
+
+Image File Name: 92365.png
+Extracted_text - Classification: not hateful, Confidence: 0.7448
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.6828
+
+Image File Name: 92375.png
+Extracted_text - Classification: not hateful, Confidence: 0.9538
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9769
+
+Image File Name: 92381.png
+Extracted_text - Classification: hateful, Confidence: 0.6957
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.5530
+
+Image File Name: 92407.png
+Extracted_text - Classification: not hateful, Confidence: 0.9696
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9096
+
+Image File Name: 92430.png
+Extracted_text - Classification: hateful, Confidence: 0.7947
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.6043
+
+Image File Name: 92436.png
+Extracted_text - Classification: hateful, Confidence: 0.6912
+Image_caption - Classification: not hateful, Confidence: 0.9961
+Combined_text - Classification: not hateful, Confidence: 0.7748
+
+Image File Name: 92437.png
+Extracted_text - Classification: not hateful, Confidence: 0.9352
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9723
+
+Image File Name: 92473.png
+Extracted_text - Classification: hateful, Confidence: 0.9877
+Image_caption - Classification: not hateful, Confidence: 0.9985
+Combined_text - Classification: hateful, Confidence: 0.9404
+
+Image File Name: 92481.png
+Extracted_text - Classification: not hateful, Confidence: 0.9780
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9985
+
+Image File Name: 92501.png
+Extracted_text - Classification: hateful, Confidence: 0.9019
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8296
+
+Image File Name: 92614.png
+Extracted_text - Classification: not hateful, Confidence: 0.9934
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9954
+
+Image File Name: 92637.png
+Extracted_text - Classification: hateful, Confidence: 0.7860
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.5343
+
+Image File Name: 92641.png
+Extracted_text - Classification: not hateful, Confidence: 0.8696
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9431
+
+Image File Name: 92645.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9997
+
+Image File Name: 92718.png
+Extracted_text - Classification: not hateful, Confidence: 0.8685
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9719
+
+Image File Name: 92768.png
+Extracted_text - Classification: not hateful, Confidence: 0.5967
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8244
+
+Image File Name: 92780.png
+Extracted_text - Classification: hateful, Confidence: 0.6825
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.5089
+
+Image File Name: 92814.png
+Extracted_text - Classification: hateful, Confidence: 0.9805
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9128
+
+Image File Name: 92817.png
+Extracted_text - Classification: hateful, Confidence: 0.9304
+Image_caption - Classification: not hateful, Confidence: 0.9962
+Combined_text - Classification: hateful, Confidence: 0.8345
+
+Image File Name: 92835.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 92851.png
+Extracted_text - Classification: hateful, Confidence: 0.9379
+Image_caption - Classification: not hateful, Confidence: 0.9985
+Combined_text - Classification: hateful, Confidence: 0.9028
+
+Image File Name: 92870.png
+Extracted_text - Classification: hateful, Confidence: 0.9874
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.8963
+
+Image File Name: 92876.png
+Extracted_text - Classification: not hateful, Confidence: 0.9901
+Image_caption - Classification: not hateful, Confidence: 0.9974
+Combined_text - Classification: not hateful, Confidence: 0.9845
+
+Image File Name: 93016.png
+Extracted_text - Classification: not hateful, Confidence: 0.8613
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9008
+
+Image File Name: 93027.png
+Extracted_text - Classification: hateful, Confidence: 0.9930
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.8358
+
+Image File Name: 93072.png
+Extracted_text - Classification: not hateful, Confidence: 0.5866
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.7739
+
+Image File Name: 93084.png
+Extracted_text - Classification: hateful, Confidence: 0.9896
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9548
+
+Image File Name: 93086.png
+Extracted_text - Classification: hateful, Confidence: 0.9737
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9194
+
+Image File Name: 93128.png
+Extracted_text - Classification: hateful, Confidence: 0.8475
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: not hateful, Confidence: 0.5074
+
+Image File Name: 93142.png
+Extracted_text - Classification: hateful, Confidence: 0.9948
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.8983
+
+Image File Name: 93165.png
+Extracted_text - Classification: not hateful, Confidence: 0.9989
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9885
+
+Image File Name: 93187.png
+Extracted_text - Classification: hateful, Confidence: 0.6116
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8830
+
+Image File Name: 93208.png
+Extracted_text - Classification: hateful, Confidence: 0.5451
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9097
+
+Image File Name: 93268.png
+Extracted_text - Classification: hateful, Confidence: 0.9844
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.7121
+
+Image File Name: 93275.png
+Extracted_text - Classification: not hateful, Confidence: 0.9768
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9873
+
+Image File Name: 93280.png
+Extracted_text - Classification: not hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9765
+
+Image File Name: 93287.png
+Extracted_text - Classification: not hateful, Confidence: 0.9953
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9832
+
+Image File Name: 93405.png
+Extracted_text - Classification: not hateful, Confidence: 0.9205
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9614
+
+Image File Name: 93512.png
+Extracted_text - Classification: not hateful, Confidence: 0.9908
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9530
+
+Image File Name: 93521.png
+Extracted_text - Classification: not hateful, Confidence: 0.5456
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.7202
+
+Image File Name: 93547.png
+Extracted_text - Classification: not hateful, Confidence: 0.9934
+Image_caption - Classification: not hateful, Confidence: 0.9955
+Combined_text - Classification: not hateful, Confidence: 0.9910
+
+Image File Name: 93572.png
+Extracted_text - Classification: not hateful, Confidence: 0.7398
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8311
+
+Image File Name: 93578.png
+Extracted_text - Classification: hateful, Confidence: 0.9944
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9784
+
+Image File Name: 93605.png
+Extracted_text - Classification: hateful, Confidence: 0.9172
+Image_caption - Classification: not hateful, Confidence: 0.9955
+Combined_text - Classification: not hateful, Confidence: 0.7424
+
+Image File Name: 93648.png
+Extracted_text - Classification: hateful, Confidence: 0.8802
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9099
+
+Image File Name: 93685.png
+Extracted_text - Classification: hateful, Confidence: 0.9858
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9591
+
+Image File Name: 93728.png
+Extracted_text - Classification: hateful, Confidence: 0.9994
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9992
+
+Image File Name: 93786.png
+Extracted_text - Classification: not hateful, Confidence: 0.9733
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9914
+
+Image File Name: 93841.png
+Extracted_text - Classification: hateful, Confidence: 0.9468
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.7925
+
+Image File Name: 93854.png
+Extracted_text - Classification: not hateful, Confidence: 0.8533
+Image_caption - Classification: not hateful, Confidence: 0.9739
+Combined_text - Classification: not hateful, Confidence: 0.9276
+
+Image File Name: 94013.png
+Extracted_text - Classification: not hateful, Confidence: 0.9959
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9952
+
+Image File Name: 94015.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9990
+
+Image File Name: 94017.png
+Extracted_text - Classification: not hateful, Confidence: 0.9816
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9872
+
+Image File Name: 94031.png
+Extracted_text - Classification: hateful, Confidence: 0.9715
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.5859
+
+Image File Name: 94067.png
+Extracted_text - Classification: hateful, Confidence: 0.9972
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9731
+
+Image File Name: 94068.png
+Extracted_text - Classification: hateful, Confidence: 0.8690
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9323
+
+Image File Name: 94078.png
+Extracted_text - Classification: not hateful, Confidence: 0.9991
+Image_caption - Classification: not hateful, Confidence: 0.9960
+Combined_text - Classification: not hateful, Confidence: 0.9615
+
+Image File Name: 94085.png
+Extracted_text - Classification: not hateful, Confidence: 0.5774
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.7871
+
+Image File Name: 94087.png
+Extracted_text - Classification: not hateful, Confidence: 0.8337
+Image_caption - Classification: hateful, Confidence: 0.8759
+Combined_text - Classification: not hateful, Confidence: 0.8604
+
+Image File Name: 94130.png
+Extracted_text - Classification: hateful, Confidence: 0.9428
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.8595
+
+Image File Name: 94138.png
+Extracted_text - Classification: not hateful, Confidence: 0.9838
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9960
+
+Image File Name: 94176.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9989
+
+Image File Name: 94236.png
+Extracted_text - Classification: not hateful, Confidence: 0.5110
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8165
+
+Image File Name: 94237.png
+Extracted_text - Classification: not hateful, Confidence: 0.7141
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.8559
+
+Image File Name: 94350.png
+Extracted_text - Classification: not hateful, Confidence: 0.9256
+Image_caption - Classification: not hateful, Confidence: 0.9983
+Combined_text - Classification: not hateful, Confidence: 0.9443
+
+Image File Name: 94351.png
+Extracted_text - Classification: not hateful, Confidence: 0.9856
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9940
+
+Image File Name: 94352.png
+Extracted_text - Classification: hateful, Confidence: 0.8719
+Image_caption - Classification: not hateful, Confidence: 0.9958
+Combined_text - Classification: hateful, Confidence: 0.8617
+
+Image File Name: 94360.png
+Extracted_text - Classification: not hateful, Confidence: 0.6240
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.7987
+
+Image File Name: 94370.png
+Extracted_text - Classification: not hateful, Confidence: 0.9976
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9976
+
+Image File Name: 94523.png
+Extracted_text - Classification: not hateful, Confidence: 0.8688
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9686
+
+Image File Name: 94532.png
+Extracted_text - Classification: hateful, Confidence: 0.5108
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.6955
+
+Image File Name: 94563.png
+Extracted_text - Classification: not hateful, Confidence: 0.9970
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9973
+
+Image File Name: 94571.png
+Extracted_text - Classification: not hateful, Confidence: 0.9743
+Image_caption - Classification: not hateful, Confidence: 0.9959
+Combined_text - Classification: not hateful, Confidence: 0.9871
+
+Image File Name: 94615.png
+Extracted_text - Classification: not hateful, Confidence: 0.9978
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9989
+
+Image File Name: 94628.png
+Extracted_text - Classification: not hateful, Confidence: 0.9993
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9994
+
+Image File Name: 94687.png
+Extracted_text - Classification: hateful, Confidence: 0.9320
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.7688
+
+Image File Name: 94710.png
+Extracted_text - Classification: not hateful, Confidence: 0.9416
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.8957
+
+Image File Name: 94732.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9956
+
+Image File Name: 94780.png
+Extracted_text - Classification: not hateful, Confidence: 0.9989
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9976
+
+Image File Name: 94783.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9990
+
+Image File Name: 94871.png
+Extracted_text - Classification: not hateful, Confidence: 0.7584
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8295
+
+Image File Name: 95024.png
+Extracted_text - Classification: not hateful, Confidence: 0.9920
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9829
+
+Image File Name: 95062.png
+Extracted_text - Classification: not hateful, Confidence: 0.8834
+Image_caption - Classification: not hateful, Confidence: 0.9988
+Combined_text - Classification: not hateful, Confidence: 0.9337
+
+Image File Name: 95078.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9944
+
+Image File Name: 95081.png
+Extracted_text - Classification: not hateful, Confidence: 0.7910
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8718
+
+Image File Name: 95201.png
+Extracted_text - Classification: hateful, Confidence: 0.8302
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.6947
+
+Image File Name: 95263.png
+Extracted_text - Classification: hateful, Confidence: 0.5159
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8945
+
+Image File Name: 95278.png
+Extracted_text - Classification: not hateful, Confidence: 0.5180
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8107
+
+Image File Name: 95283.png
+Extracted_text - Classification: not hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9958
+Combined_text - Classification: not hateful, Confidence: 0.9901
+
+Image File Name: 95317.png
+Extracted_text - Classification: not hateful, Confidence: 0.9051
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.8422
+
+Image File Name: 95326.png
+Extracted_text - Classification: not hateful, Confidence: 0.9858
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9974
+
+Image File Name: 95387.png
+Extracted_text - Classification: not hateful, Confidence: 0.6050
+Image_caption - Classification: not hateful, Confidence: 0.9984
+Combined_text - Classification: not hateful, Confidence: 0.7305
+
+Image File Name: 95426.png
+Extracted_text - Classification: hateful, Confidence: 0.9985
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: hateful, Confidence: 0.9952
+
+Image File Name: 95427.png
+Extracted_text - Classification: not hateful, Confidence: 0.9971
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9968
+
+Image File Name: 95467.png
+Extracted_text - Classification: not hateful, Confidence: 0.9884
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9953
+
+Image File Name: 95478.png
+Extracted_text - Classification: not hateful, Confidence: 0.8605
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9725
+
+Image File Name: 95687.png
+Extracted_text - Classification: hateful, Confidence: 0.7335
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.5471
+
+Image File Name: 95712.png
+Extracted_text - Classification: hateful, Confidence: 0.9627
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: hateful, Confidence: 0.8625
+
+Image File Name: 95714.png
+Extracted_text - Classification: hateful, Confidence: 0.5780
+Image_caption - Classification: not hateful, Confidence: 0.9984
+Combined_text - Classification: not hateful, Confidence: 0.8807
+
+Image File Name: 95720.png
+Extracted_text - Classification: hateful, Confidence: 0.8636
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.6592
+
+Image File Name: 95726.png
+Extracted_text - Classification: not hateful, Confidence: 0.9612
+Image_caption - Classification: not hateful, Confidence: 0.9986
+Combined_text - Classification: not hateful, Confidence: 0.9688
+
+Image File Name: 95763.png
+Extracted_text - Classification: hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9046
+
+Image File Name: 95764.png
+Extracted_text - Classification: hateful, Confidence: 0.9024
+Image_caption - Classification: not hateful, Confidence: 0.9959
+Combined_text - Classification: hateful, Confidence: 0.9554
+
+Image File Name: 95780.png
+Extracted_text - Classification: not hateful, Confidence: 0.9845
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9831
+
+Image File Name: 95801.png
+Extracted_text - Classification: hateful, Confidence: 0.8749
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: hateful, Confidence: 0.7589
+
+Image File Name: 95803.png
+Extracted_text - Classification: not hateful, Confidence: 0.9596
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9451
+
+Image File Name: 95810.png
+Extracted_text - Classification: not hateful, Confidence: 0.7161
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.8251
+
+Image File Name: 95821.png
+Extracted_text - Classification: not hateful, Confidence: 0.9515
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9750
+
+Image File Name: 95846.png
+Extracted_text - Classification: hateful, Confidence: 0.8096
+Image_caption - Classification: not hateful, Confidence: 0.9983
+Combined_text - Classification: hateful, Confidence: 0.6326
+
+Image File Name: 96042.png
+Extracted_text - Classification: hateful, Confidence: 0.6981
+Image_caption - Classification: not hateful, Confidence: 0.9798
+Combined_text - Classification: hateful, Confidence: 0.5351
+
+Image File Name: 96073.png
+Extracted_text - Classification: hateful, Confidence: 0.8735
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.5202
+
+Image File Name: 96081.png
+Extracted_text - Classification: not hateful, Confidence: 0.9944
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9978
+
+Image File Name: 96123.png
+Extracted_text - Classification: hateful, Confidence: 0.9276
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.8587
+
+Image File Name: 96143.png
+Extracted_text - Classification: hateful, Confidence: 0.9725
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9663
+
+Image File Name: 96172.png
+Extracted_text - Classification: hateful, Confidence: 0.8007
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8329
+
+Image File Name: 96183.png
+Extracted_text - Classification: not hateful, Confidence: 0.9948
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9803
+
+Image File Name: 96204.png
+Extracted_text - Classification: hateful, Confidence: 0.6650
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.6348
+
+Image File Name: 96213.png
+Extracted_text - Classification: hateful, Confidence: 0.6492
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9137
+
+Image File Name: 96235.png
+Extracted_text - Classification: not hateful, Confidence: 0.9875
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9827
+
+Image File Name: 96258.png
+Extracted_text - Classification: not hateful, Confidence: 0.9747
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9486
+
+Image File Name: 96301.png
+Extracted_text - Classification: not hateful, Confidence: 0.9057
+Image_caption - Classification: not hateful, Confidence: 0.9983
+Combined_text - Classification: not hateful, Confidence: 0.9424
+
+Image File Name: 96302.png
+Extracted_text - Classification: not hateful, Confidence: 0.9998
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9997
+
+Image File Name: 96325.png
+Extracted_text - Classification: hateful, Confidence: 0.7148
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8962
+
+Image File Name: 96328.png
+Extracted_text - Classification: not hateful, Confidence: 0.9440
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9208
+
+Image File Name: 96354.png
+Extracted_text - Classification: not hateful, Confidence: 0.9275
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.5577
+
+Image File Name: 96402.png
+Extracted_text - Classification: not hateful, Confidence: 0.9944
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9796
+
+Image File Name: 96405.png
+Extracted_text - Classification: not hateful, Confidence: 0.8595
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.8860
+
+Image File Name: 96415.png
+Extracted_text - Classification: hateful, Confidence: 0.9948
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9449
+
+Image File Name: 96450.png
+Extracted_text - Classification: not hateful, Confidence: 0.7276
+Image_caption - Classification: not hateful, Confidence: 0.9870
+Combined_text - Classification: not hateful, Confidence: 0.8913
+
+Image File Name: 96452.png
+Extracted_text - Classification: hateful, Confidence: 0.8429
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9505
+
+Image File Name: 96470.png
+Extracted_text - Classification: hateful, Confidence: 0.5084
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8050
+
+Image File Name: 96485.png
+Extracted_text - Classification: hateful, Confidence: 0.8379
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.5204
+
+Image File Name: 96507.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9975
+Combined_text - Classification: not hateful, Confidence: 0.9977
+
+Image File Name: 96513.png
+Extracted_text - Classification: not hateful, Confidence: 0.7243
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8457
+
+Image File Name: 96517.png
+Extracted_text - Classification: hateful, Confidence: 0.9678
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: hateful, Confidence: 0.9815
+
+Image File Name: 96524.png
+Extracted_text - Classification: not hateful, Confidence: 0.8540
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9675
+
+Image File Name: 96570.png
+Extracted_text - Classification: hateful, Confidence: 0.6993
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.9571
+
+Image File Name: 96578.png
+Extracted_text - Classification: hateful, Confidence: 0.9897
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.9546
+
+Image File Name: 96587.png
+Extracted_text - Classification: not hateful, Confidence: 0.7010
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.8967
+
+Image File Name: 96701.png
+Extracted_text - Classification: hateful, Confidence: 0.8160
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.5692
+
+Image File Name: 96704.png
+Extracted_text - Classification: hateful, Confidence: 0.8474
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.7820
+
+Image File Name: 96801.png
+Extracted_text - Classification: not hateful, Confidence: 0.5922
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9338
+
+Image File Name: 96804.png
+Extracted_text - Classification: not hateful, Confidence: 0.9986
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9864
+
+Image File Name: 96840.png
+Extracted_text - Classification: not hateful, Confidence: 0.9977
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9868
+
+Image File Name: 96874.png
+Extracted_text - Classification: not hateful, Confidence: 0.9033
+Image_caption - Classification: not hateful, Confidence: 0.9939
+Combined_text - Classification: not hateful, Confidence: 0.8991
+
+Image File Name: 97013.png
+Extracted_text - Classification: not hateful, Confidence: 0.9995
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9970
+
+Image File Name: 97025.png
+Extracted_text - Classification: hateful, Confidence: 0.9662
+Image_caption - Classification: not hateful, Confidence: 0.9984
+Combined_text - Classification: hateful, Confidence: 0.9884
+
+Image File Name: 97035.png
+Extracted_text - Classification: not hateful, Confidence: 0.9983
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9975
+
+Image File Name: 97051.png
+Extracted_text - Classification: hateful, Confidence: 0.9946
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9465
+
+Image File Name: 97058.png
+Extracted_text - Classification: not hateful, Confidence: 0.9872
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9877
+
+Image File Name: 97102.png
+Extracted_text - Classification: not hateful, Confidence: 0.9254
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9502
+
+Image File Name: 97128.png
+Extracted_text - Classification: not hateful, Confidence: 0.9821
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9834
+
+Image File Name: 97153.png
+Extracted_text - Classification: not hateful, Confidence: 0.7306
+Image_caption - Classification: not hateful, Confidence: 0.6163
+Combined_text - Classification: not hateful, Confidence: 0.7473
+
+Image File Name: 97160.png
+Extracted_text - Classification: hateful, Confidence: 0.6211
+Image_caption - Classification: not hateful, Confidence: 0.9976
+Combined_text - Classification: hateful, Confidence: 0.7851
+
+Image File Name: 97180.png
+Extracted_text - Classification: not hateful, Confidence: 0.5897
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9323
+
+Image File Name: 97201.png
+Extracted_text - Classification: not hateful, Confidence: 0.9329
+Image_caption - Classification: not hateful, Confidence: 0.9975
+Combined_text - Classification: not hateful, Confidence: 0.9773
+
+Image File Name: 97204.png
+Extracted_text - Classification: not hateful, Confidence: 0.9961
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9965
+
+Image File Name: 97213.png
+Extracted_text - Classification: not hateful, Confidence: 0.9473
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9608
+
+Image File Name: 97230.png
+Extracted_text - Classification: hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: hateful, Confidence: 0.9988
+
+Image File Name: 97315.png
+Extracted_text - Classification: hateful, Confidence: 0.8449
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.7488
+
+Image File Name: 97316.png
+Extracted_text - Classification: not hateful, Confidence: 0.9114
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9893
+
+Image File Name: 97321.png
+Extracted_text - Classification: not hateful, Confidence: 0.8797
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.8526
+
+Image File Name: 97325.png
+Extracted_text - Classification: not hateful, Confidence: 0.6424
+Image_caption - Classification: not hateful, Confidence: 0.9987
+Combined_text - Classification: not hateful, Confidence: 0.7824
+
+Image File Name: 97348.png
+Extracted_text - Classification: hateful, Confidence: 0.9996
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: hateful, Confidence: 0.9985
+
+Image File Name: 97361.png
+Extracted_text - Classification: hateful, Confidence: 0.5077
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: not hateful, Confidence: 0.8656
+
+Image File Name: 97365.png
+Extracted_text - Classification: hateful, Confidence: 0.8107
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: not hateful, Confidence: 0.9163
+
+Image File Name: 97386.png
+Extracted_text - Classification: not hateful, Confidence: 0.9483
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9888
+
+Image File Name: 97402.png
+Extracted_text - Classification: not hateful, Confidence: 0.9975
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.9968
+
+Image File Name: 97436.png
+Extracted_text - Classification: hateful, Confidence: 0.6790
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.6524
+
+Image File Name: 97463.png
+Extracted_text - Classification: not hateful, Confidence: 0.9248
+Image_caption - Classification: not hateful, Confidence: 0.9979
+Combined_text - Classification: not hateful, Confidence: 0.9832
+
+Image File Name: 97521.png
+Extracted_text - Classification: hateful, Confidence: 0.8715
+Image_caption - Classification: not hateful, Confidence: 0.9873
+Combined_text - Classification: hateful, Confidence: 0.8748
+
+Image File Name: 97531.png
+Extracted_text - Classification: hateful, Confidence: 0.7201
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: hateful, Confidence: 0.6147
+
+Image File Name: 97562.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.9980
+
+Image File Name: 97623.png
+Extracted_text - Classification: not hateful, Confidence: 0.5180
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9299
+
+Image File Name: 97635.png
+Extracted_text - Classification: not hateful, Confidence: 0.9833
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9798
+
+Image File Name: 97810.png
+Extracted_text - Classification: hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9982
+
+Image File Name: 97814.png
+Extracted_text - Classification: hateful, Confidence: 0.8474
+Image_caption - Classification: not hateful, Confidence: 0.9990
+Combined_text - Classification: hateful, Confidence: 0.7119
+
+Image File Name: 97842.png
+Extracted_text - Classification: hateful, Confidence: 0.9807
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.8808
+
+Image File Name: 97845.png
+Extracted_text - Classification: not hateful, Confidence: 0.9980
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9864
+
+Image File Name: 97860.png
+Extracted_text - Classification: not hateful, Confidence: 0.9977
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9891
+
+Image File Name: 98016.png
+Extracted_text - Classification: hateful, Confidence: 0.9651
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: hateful, Confidence: 0.8854
+
+Image File Name: 98057.png
+Extracted_text - Classification: hateful, Confidence: 0.9023
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.5220
+
+Image File Name: 98075.png
+Extracted_text - Classification: not hateful, Confidence: 0.9827
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9823
+
+Image File Name: 98103.png
+Extracted_text - Classification: not hateful, Confidence: 0.7635
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: not hateful, Confidence: 0.8966
+
+Image File Name: 98124.png
+Extracted_text - Classification: not hateful, Confidence: 0.9939
+Image_caption - Classification: not hateful, Confidence: 0.9994
+Combined_text - Classification: not hateful, Confidence: 0.9977
+
+Image File Name: 98125.png
+Extracted_text - Classification: not hateful, Confidence: 0.8483
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: not hateful, Confidence: 0.8693
+
+Image File Name: 98134.png
+Extracted_text - Classification: hateful, Confidence: 0.8212
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: not hateful, Confidence: 0.5181
+
+Image File Name: 98203.png
+Extracted_text - Classification: hateful, Confidence: 0.6820
+Image_caption - Classification: not hateful, Confidence: 0.9944
+Combined_text - Classification: not hateful, Confidence: 0.8101
+
+Image File Name: 98241.png
+Extracted_text - Classification: hateful, Confidence: 0.9281
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: hateful, Confidence: 0.5720
+
+Image File Name: 98271.png
+Extracted_text - Classification: not hateful, Confidence: 0.9782
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9779
+
+Image File Name: 98276.png
+Extracted_text - Classification: hateful, Confidence: 0.9880
+Image_caption - Classification: not hateful, Confidence: 0.9998
+Combined_text - Classification: hateful, Confidence: 0.9599
+
+Image File Name: 98307.png
+Extracted_text - Classification: hateful, Confidence: 0.9528
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.8224
+
+Image File Name: 98362.png
+Extracted_text - Classification: hateful, Confidence: 0.9965
+Image_caption - Classification: not hateful, Confidence: 0.9940
+Combined_text - Classification: hateful, Confidence: 0.9816
+
+Image File Name: 98406.png
+Extracted_text - Classification: not hateful, Confidence: 0.9870
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9944
+
+Image File Name: 98412.png
+Extracted_text - Classification: not hateful, Confidence: 0.9792
+Image_caption - Classification: not hateful, Confidence: 0.9991
+Combined_text - Classification: not hateful, Confidence: 0.9763
+
+Image File Name: 98421.png
+Extracted_text - Classification: not hateful, Confidence: 0.8780
+Image_caption - Classification: not hateful, Confidence: 0.9980
+Combined_text - Classification: not hateful, Confidence: 0.8218
+
+Image File Name: 98425.png
+Extracted_text - Classification: hateful, Confidence: 0.8387
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: hateful, Confidence: 0.5565
+
+Image File Name: 98461.png
+Extracted_text - Classification: not hateful, Confidence: 0.9885
+Image_caption - Classification: not hateful, Confidence: 0.9992
+Combined_text - Classification: not hateful, Confidence: 0.9800
+
+Image File Name: 98523.png
+Extracted_text - Classification: not hateful, Confidence: 0.9650
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9176
+
+Image File Name: 98530.png
+Extracted_text - Classification: hateful, Confidence: 0.9990
+Image_caption - Classification: not hateful, Confidence: 0.9941
+Combined_text - Classification: hateful, Confidence: 0.9876
+
+Image File Name: 98531.png
+Extracted_text - Classification: not hateful, Confidence: 0.8923
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9206
+
+Image File Name: 98573.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9997
+
+Image File Name: 98603.png
+Extracted_text - Classification: hateful, Confidence: 0.9409
+Image_caption - Classification: not hateful, Confidence: 0.9978
+Combined_text - Classification: hateful, Confidence: 0.6079
+
+Image File Name: 98625.png
+Extracted_text - Classification: not hateful, Confidence: 0.9988
+Image_caption - Classification: not hateful, Confidence: 0.9985
+Combined_text - Classification: not hateful, Confidence: 0.9975
+
+Image File Name: 98643.png
+Extracted_text - Classification: not hateful, Confidence: 0.9800
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.9161
+
+Image File Name: 98657.png
+Extracted_text - Classification: not hateful, Confidence: 0.9962
+Image_caption - Classification: not hateful, Confidence: 0.9996
+Combined_text - Classification: not hateful, Confidence: 0.9947
+
+Image File Name: 98670.png
+Extracted_text - Classification: not hateful, Confidence: 0.9052
+Image_caption - Classification: not hateful, Confidence: 0.9963
+Combined_text - Classification: not hateful, Confidence: 0.9599
+
+Image File Name: 98714.png
+Extracted_text - Classification: not hateful, Confidence: 0.8485
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9612
+
+Image File Name: 98716.png
+Extracted_text - Classification: not hateful, Confidence: 0.9973
+Image_caption - Classification: not hateful, Confidence: 0.9961
+Combined_text - Classification: not hateful, Confidence: 0.9930
+
+Image File Name: 98723.png
+Extracted_text - Classification: hateful, Confidence: 0.9845
+Image_caption - Classification: not hateful, Confidence: 0.9995
+Combined_text - Classification: hateful, Confidence: 0.9837
+
+Image File Name: 98724.png
+Extracted_text - Classification: hateful, Confidence: 0.8716
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.9019
+
+Image File Name: 98726.png
+Extracted_text - Classification: not hateful, Confidence: 0.9999
+Image_caption - Classification: not hateful, Confidence: 0.9999
+Combined_text - Classification: not hateful, Confidence: 0.9998
+
+Image File Name: 98734.png
+Extracted_text - Classification: hateful, Confidence: 0.5276
+Image_caption - Classification: not hateful, Confidence: 0.9993
+Combined_text - Classification: not hateful, Confidence: 0.7143
+
+Image File Name: 98736.png
+Extracted_text - Classification: not hateful, Confidence: 0.9992
+Image_caption - Classification: not hateful, Confidence: 0.9969
+Combined_text - Classification: not hateful, Confidence: 0.9975
+
+Image File Name: 98754.png
+Extracted_text - Classification: hateful, Confidence: 0.8713
+Image_caption - Classification: not hateful, Confidence: 0.9997
+Combined_text - Classification: not hateful, Confidence: 0.6077
+
+Image File Name: 98756.png
+Extracted_text - Classification: not hateful, Confidence: 0.7977
+Image_caption - Classification: not hateful, Confidence: 0.9903
+Combined_text - Classification: not hateful, Confidence: 0.8351
+

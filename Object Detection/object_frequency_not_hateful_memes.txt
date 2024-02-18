@@ -1,0 +1,63 @@
+person: 1109
+tie: 133
+sheep: 59
+car: 50
+dog: 39
+cell phone: 32
+bottle: 25
+bowl: 23
+chair: 22
+cup: 21
+spoon: 13
+boat: 12
+potted plant: 11
+clock: 9
+bird: 9
+knife: 9
+cat: 8
+sports ball: 8
+backpack: 8
+laptop: 8
+dining table: 7
+book: 7
+truck: 7
+bed: 7
+handbag: 7
+motorcycle: 6
+horse: 6
+kite: 6
+bear: 6
+couch: 5
+toothbrush: 5
+skateboard: 4
+oven: 4
+vase: 4
+umbrella: 4
+sink: 3
+teddy bear: 3
+wine glass: 3
+cake: 3
+remote: 2
+refrigerator: 2
+cow: 2
+hair drier: 2
+pizza: 2
+scissors: 2
+baseball bat: 2
+sandwich: 2
+traffic light: 2
+baseball glove: 2
+suitcase: 2
+banana: 2
+apple: 1
+giraffe: 1
+elephant: 1
+donut: 1
+toilet: 1
+surfboard: 1
+keyboard: 1
+carrot: 1
+bench: 1
+mouse: 1
+train: 1
+stop sign: 1

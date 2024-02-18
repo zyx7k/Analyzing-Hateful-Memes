@@ -1,0 +1,2941 @@
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79428.png :
+Detected person with confidence 0.995 at location [95.49, 143.45, 752.64, 525.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79461.png :
+Detected person with confidence 0.998 at location [-0.07, 19.05, 285.9, 398.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79485.png :
+Detected person with confidence 0.939 at location [20.41, 58.26, 649.07, 543.87]
+Detected couch with confidence 0.985 at location [0.43, 252.24, 824.75, 544.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79512.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79568.png :
+Detected person with confidence 0.97 at location [108.61, 108.95, 797.69, 790.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79581.png :
+Detected person with confidence 0.961 at location [174.6, 164.92, 257.69, 364.98]
+Detected person with confidence 0.991 at location [61.42, 107.98, 94.23, 197.65]
+Detected person with confidence 0.992 at location [115.91, 77.4, 171.8, 187.45]
+Detected person with confidence 0.996 at location [28.15, 70.82, 70.78, 201.84]
+Detected person with confidence 0.994 at location [91.03, 111.51, 123.17, 192.24]
+Detected person with confidence 0.981 at location [93.45, 80.36, 125.62, 127.2]
+Detected person with confidence 0.943 at location [84.87, 84.01, 107.54, 127.1]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79584.png :
+Detected tie with confidence 0.913 at location [97.05, 130.41, 118.37, 167.96]
+Detected person with confidence 0.976 at location [214.51, 66.05, 263.31, 135.56]
+Detected person with confidence 0.992 at location [665.28, 36.72, 797.09, 339.6]
+Detected person with confidence 0.936 at location [635.46, 65.45, 685.63, 152.1]
+Detected tie with confidence 0.905 at location [452.84, 97.04, 474.22, 120.57]
+Detected tie with confidence 0.985 at location [350.72, 179.45, 373.3, 201.45]
+Detected person with confidence 0.992 at location [464.95, 20.72, 578.95, 187.79]
+Detected tie with confidence 0.939 at location [286.3, 130.0, 302.84, 151.49]
+Detected person with confidence 0.988 at location [226.34, 66.76, 321.53, 198.0]
+Detected person with confidence 0.994 at location [384.78, 40.71, 494.28, 186.09]
+Detected person with confidence 0.984 at location [23.01, 57.42, 222.41, 531.68]
+Detected tie with confidence 0.993 at location [742.37, 129.72, 758.12, 165.55]
+Detected person with confidence 0.929 at location [235.97, 71.62, 595.56, 538.57]
+Detected tie with confidence 0.95 at location [605.74, 149.52, 616.66, 203.38]
+Detected person with confidence 0.993 at location [552.29, 61.59, 669.01, 312.47]
+Detected motorcycle with confidence 0.949 at location [216.79, 211.69, 596.8, 545.6]
+Detected person with confidence 0.928 at location [641.08, 33.41, 731.15, 222.48]
+Detected person with confidence 0.967 at location [454.69, 102.63, 653.93, 443.1]
+Detected tie with confidence 0.966 at location [534.72, 100.9, 548.86, 119.33]
+Detected tie with confidence 0.9 at location [537.29, 197.21, 572.76, 227.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79610.png :
+Detected person with confidence 0.963 at location [310.47, 694.27, 393.3, 799.81]
+Detected person with confidence 0.99 at location [78.56, 277.01, 154.27, 512.24]
+Detected tie with confidence 0.998 at location [219.72, 207.95, 278.08, 278.21]
+Detected person with confidence 0.97 at location [144.18, 626.03, 230.42, 759.68]
+Detected person with confidence 0.964 at location [138.81, 721.44, 215.41, 799.97]
+Detected person with confidence 0.983 at location [153.18, 279.32, 228.02, 405.22]
+Detected tie with confidence 0.998 at location [243.59, 379.31, 272.37, 540.72]
+Detected person with confidence 0.998 at location [161.31, 302.02, 365.89, 621.24]
+Detected tie with confidence 0.923 at location [193.96, 314.98, 203.19, 330.13]
+Detected person with confidence 0.968 at location [224.65, 624.9, 255.02, 683.21]
+Detected person with confidence 0.981 at location [202.27, 661.54, 340.94, 799.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79638.png :
+Detected tie with confidence 0.942 at location [198.85, 373.87, 256.25, 524.81]
+Detected tie with confidence 0.955 at location [202.98, 374.96, 252.32, 419.76]
+Detected person with confidence 0.995 at location [1.98, 115.93, 515.91, 534.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79658.png :
+Detected person with confidence 0.987 at location [197.87, 68.28, 549.44, 362.55]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79681.png :
+Detected person with confidence 0.967 at location [0.15, 3.71, 335.58, 408.03]
+Detected tie with confidence 0.972 at location [122.16, 239.42, 201.83, 399.17]
+Detected person with confidence 0.996 at location [6.41, 431.4, 330.18, 790.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79803.png :
+Detected person with confidence 0.992 at location [137.74, 100.94, 439.29, 538.71]
+Detected person with confidence 0.999 at location [405.8, 3.03, 802.67, 536.11]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79845.png :
+Detected person with confidence 0.999 at location [10.44, 10.49, 530.73, 792.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79850.png :
+Detected person with confidence 0.913 at location [442.42, 402.42, 510.92, 558.05]
+Detected person with confidence 0.998 at location [-0.08, 84.3, 510.83, 795.77]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79853.png :
+Detected person with confidence 0.998 at location [53.33, 421.77, 351.84, 789.64]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\79854.png :
+Detected person with confidence 0.953 at location [0.01, 34.22, 132.92, 395.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80123.png :
+Detected cup with confidence 0.997 at location [81.36, 219.45, 160.71, 309.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80134.png :
+Detected clock with confidence 0.996 at location [185.58, 58.79, 373.66, 239.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80152.png :
+Detected person with confidence 1.0 at location [97.93, 81.12, 711.71, 519.11]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80153.png :
+Detected person with confidence 0.938 at location [423.05, 294.83, 586.91, 556.93]
+Detected person with confidence 0.987 at location [0.84, 102.3, 663.5, 790.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80154.png :
+Detected tie with confidence 0.998 at location [244.82, 245.36, 289.86, 309.92]
+Detected person with confidence 0.999 at location [73.72, 68.37, 532.27, 532.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80162.png :
+Detected person with confidence 0.996 at location [598.81, 87.73, 799.49, 526.79]
+Detected person with confidence 0.998 at location [98.33, 101.32, 623.28, 445.48]
+Detected dining table with confidence 0.951 at location [10.63, 388.84, 688.6, 527.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80165.png :
+Detected person with confidence 0.934 at location [400.41, 48.31, 550.92, 223.77]
+Detected person with confidence 0.999 at location [78.34, 60.25, 535.99, 605.44]
+Detected person with confidence 0.999 at location [400.81, 47.65, 710.92, 605.86]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80173.png :
+Detected tie with confidence 0.979 at location [154.51, 49.75, 364.52, 323.28]
+Detected person with confidence 0.991 at location [0.31, 0.88, 545.31, 306.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80174.png :
+Detected bird with confidence 0.999 at location [319.86, 100.55, 459.69, 203.18]
+Detected dog with confidence 0.998 at location [43.05, 62.51, 703.33, 653.7]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80193.png :
+Detected cell phone with confidence 0.915 at location [244.74, 135.17, 293.45, 289.03]
+Detected person with confidence 0.999 at location [88.97, 31.98, 454.81, 393.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80214.png :
+Detected chair with confidence 0.942 at location [85.59, 357.0, 178.57, 470.93]
+Detected person with confidence 0.937 at location [164.85, 248.34, 225.04, 431.31]
+Detected person with confidence 0.954 at location [166.61, 247.76, 220.32, 331.75]
+Detected person with confidence 0.999 at location [213.35, 75.87, 511.55, 510.28]
+Detected book with confidence 0.947 at location [539.82, 408.51, 600.81, 434.22]
+Detected person with confidence 0.948 at location [96.15, 252.82, 168.91, 365.58]
+Detected book with confidence 0.918 at location [635.34, 398.19, 718.87, 428.05]
+Detected cell phone with confidence 0.909 at location [510.88, 403.1, 546.01, 427.33]
+Detected cell phone with confidence 0.972 at location [500.94, 421.07, 541.06, 446.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80217.png :
+Detected person with confidence 1.0 at location [162.38, 28.22, 333.61, 362.82]
+Detected truck with confidence 0.939 at location [332.25, 108.55, 549.84, 354.07]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80247.png :
+Detected cat with confidence 0.988 at location [1.88, 141.12, 352.98, 358.44]
+Detected dog with confidence 0.998 at location [386.75, 57.89, 530.76, 362.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80269.png :
+Detected tie with confidence 0.942 at location [76.28, 243.7, 114.89, 321.76]
+Detected person with confidence 0.994 at location [484.46, 106.17, 593.89, 794.94]
+Detected person with confidence 0.962 at location [410.0, 33.46, 526.33, 274.17]
+Detected tie with confidence 0.978 at location [283.38, 258.92, 361.85, 506.93]
+Detected person with confidence 0.962 at location [15.61, 72.69, 204.5, 797.12]
+Detected person with confidence 0.946 at location [-0.19, 220.68, 107.8, 797.4]
+Detected person with confidence 0.999 at location [99.67, 58.47, 452.74, 795.35]
+Detected tie with confidence 0.989 at location [362.62, 248.51, 397.13, 285.86]
+Detected person with confidence 0.996 at location [325.67, 86.67, 531.53, 795.62]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80276.png :
+Detected tie with confidence 0.972 at location [376.23, 695.04, 403.9, 724.73]
+Detected person with confidence 0.997 at location [323.93, 13.91, 477.96, 288.77]
+Detected car with confidence 0.971 at location [173.63, 163.03, 566.93, 300.61]
+Detected person with confidence 0.99 at location [1.45, 314.69, 345.82, 794.95]
+Detected person with confidence 0.98 at location [314.91, 431.83, 708.94, 795.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80297.png :
+Detected person with confidence 0.998 at location [368.27, 1.24, 549.41, 362.25]
+Detected person with confidence 0.984 at location [84.75, 81.12, 155.82, 330.09]
+Detected person with confidence 0.963 at location [125.93, 82.74, 150.98, 107.15]
+Detected person with confidence 0.998 at location [111.63, 62.41, 228.37, 337.08]
+Detected person with confidence 0.97 at location [0.18, 51.25, 159.26, 363.53]
+Detected person with confidence 0.992 at location [192.28, 14.61, 370.82, 359.36]
+Detected person with confidence 0.982 at location [352.72, 96.2, 437.19, 344.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80317.png :
+Detected cell phone with confidence 0.92 at location [15.52, 58.7, 30.17, 71.16]
+Detected person with confidence 0.907 at location [4.13, 84.09, 63.35, 175.92]
+Detected person with confidence 0.924 at location [-0.07, 152.62, 34.54, 400.04]
+Detected person with confidence 0.999 at location [-0.06, 34.01, 258.94, 399.84]
+Detected person with confidence 0.918 at location [-0.04, 151.28, 32.76, 232.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80319.png :
+Detected person with confidence 0.956 at location [2.2, 0.36, 742.85, 393.25]
+Detected remote with confidence 0.914 at location [244.55, 249.54, 372.47, 381.59]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80356.png :
+Detected bird with confidence 0.998 at location [179.53, 96.83, 631.62, 653.62]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80365.png :
+Detected person with confidence 0.981 at location [263.77, 66.04, 291.27, 103.47]
+Detected person with confidence 0.997 at location [398.95, 20.17, 505.94, 320.16]
+Detected person with confidence 0.991 at location [494.81, 15.89, 549.94, 304.7]
+Detected person with confidence 0.909 at location [81.86, 104.48, 120.69, 229.91]
+Detected person with confidence 0.946 at location [293.06, 28.13, 342.28, 120.23]
+Detected person with confidence 0.971 at location [377.32, 50.77, 417.43, 117.78]
+Detected person with confidence 0.964 at location [287.08, 74.4, 313.0, 104.01]
+Detected person with confidence 0.99 at location [100.49, 58.01, 189.45, 306.73]
+Detected person with confidence 0.913 at location [24.25, 123.71, 101.34, 296.81]
+Detected person with confidence 0.994 at location [104.0, 26.16, 418.12, 316.03]
+Detected person with confidence 0.988 at location [161.02, 84.29, 209.62, 173.24]
+Detected person with confidence 0.914 at location [319.62, 20.68, 436.15, 303.2]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80379.png :
+Detected person with confidence 0.914 at location [513.03, 108.12, 549.96, 339.0]
+Detected person with confidence 0.988 at location [1.0, 46.01, 443.16, 362.29]
+Detected person with confidence 0.983 at location [394.98, 114.27, 449.95, 250.22]
+Detected person with confidence 0.948 at location [429.84, 105.87, 474.95, 252.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80436.png :
+Detected person with confidence 0.987 at location [74.02, 72.18, 518.57, 784.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80539.png :
+Detected sports ball with confidence 0.986 at location [364.45, 256.93, 433.07, 319.61]
+Detected dog with confidence 0.999 at location [75.93, 38.75, 406.68, 354.27]
+Detected sports ball with confidence 0.998 at location [265.29, 277.11, 338.0, 346.15]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80567.png :
+Detected person with confidence 0.981 at location [190.9, 55.66, 798.22, 336.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80591.png :
+Detected person with confidence 0.998 at location [1.63, 28.91, 431.11, 361.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80593.png :
+Detected person with confidence 0.999 at location [0.86, 1.32, 823.1, 542.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80613.png :
+Detected person with confidence 0.998 at location [9.2, 57.58, 318.65, 347.48]
+Detected person with confidence 0.991 at location [209.46, 84.59, 320.81, 348.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80615.png :
+Detected clock with confidence 0.957 at location [426.05, 180.83, 469.23, 228.06]
+Detected spoon with confidence 0.956 at location [607.74, 388.84, 678.72, 419.37]
+Detected bowl with confidence 0.985 at location [376.79, 488.15, 547.23, 547.0]
+Detected person with confidence 0.999 at location [-0.35, 105.11, 350.45, 543.06]
+Detected person with confidence 0.998 at location [321.62, 140.25, 604.58, 432.18]
+Detected bowl with confidence 0.978 at location [510.05, 393.76, 689.9, 496.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80627.png :
+Detected person with confidence 0.995 at location [59.0, 108.29, 205.34, 334.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80649.png :
+Detected dog with confidence 0.954 at location [0.61, 0.7, 758.14, 518.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80714.png :
+Detected person with confidence 1.0 at location [88.04, 104.3, 433.19, 519.79]
+Detected chair with confidence 0.997 at location [0.05, 278.18, 137.49, 511.41]
+Detected tie with confidence 0.997 at location [310.6, 296.15, 340.17, 454.74]
+Detected person with confidence 0.998 at location [387.4, 104.73, 638.46, 330.55]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80735.png :
+Detected car with confidence 0.996 at location [0.95, 141.58, 110.84, 201.59]
+Detected person with confidence 0.999 at location [414.02, 6.88, 687.13, 527.79]
+Detected backpack with confidence 0.985 at location [464.96, 152.79, 635.99, 467.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80736.png :
+Detected person with confidence 0.999 at location [130.54, 200.16, 303.56, 377.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80769.png :
+Detected sink with confidence 0.947 at location [617.52, 293.23, 761.12, 334.65]
+Detected person with confidence 0.933 at location [410.72, 46.84, 651.79, 545.48]
+Detected chair with confidence 0.96 at location [528.68, 444.66, 740.32, 547.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80925.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80932.png :
+Detected clock with confidence 0.944 at location [541.46, 397.19, 590.39, 433.2]
+Detected person with confidence 0.999 at location [163.95, 48.52, 679.36, 544.59]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80941.png :
+Detected person with confidence 0.999 at location [173.07, 74.48, 753.03, 528.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80954.png :
+Detected person with confidence 0.998 at location [83.43, 99.69, 295.36, 218.0]
+Detected dog with confidence 0.961 at location [145.5, 347.0, 322.23, 742.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\80957.png :
+Detected person with confidence 0.996 at location [214.55, 219.87, 270.75, 275.27]
+Detected person with confidence 0.996 at location [491.45, 330.55, 527.1, 406.01]
+Detected person with confidence 0.944 at location [485.01, 335.1, 512.19, 398.36]
+Detected person with confidence 0.959 at location [189.87, 217.1, 211.09, 260.61]
+Detected person with confidence 0.995 at location [513.44, 344.03, 549.99, 420.06]
+Detected person with confidence 0.978 at location [61.61, 147.8, 87.55, 209.81]
+Detected person with confidence 0.999 at location [3.02, 133.92, 79.8, 238.26]
+Detected person with confidence 0.997 at location [427.83, 288.84, 456.53, 404.4]
+Detected person with confidence 0.964 at location [520.9, 337.16, 536.84, 391.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81026.png :
+Detected tie with confidence 0.998 at location [157.82, 455.41, 204.55, 556.81]
+Detected laptop with confidence 0.964 at location [257.78, 118.47, 312.42, 154.15]
+Detected person with confidence 0.999 at location [108.63, 111.53, 290.5, 275.34]
+Detected person with confidence 0.997 at location [240.07, 32.72, 334.0, 159.92]
+Detected tie with confidence 0.997 at location [193.34, 177.78, 211.55, 258.7]
+Detected person with confidence 0.999 at location [53.94, 25.88, 173.84, 160.88]
+Detected tie with confidence 0.995 at location [105.65, 73.16, 118.73, 131.54]
+Detected person with confidence 0.999 at location [36.46, 312.22, 325.59, 559.35]
+Detected cup with confidence 0.982 at location [72.82, 155.51, 94.1, 181.41]
+Detected person with confidence 0.997 at location [47.33, 569.22, 343.06, 793.65]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81036.png :
+Detected bird with confidence 0.908 at location [78.97, 52.2, 272.34, 356.79]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81043.png :
+Detected person with confidence 0.901 at location [13.88, 74.66, 86.7, 188.88]
+Detected dog with confidence 0.903 at location [177.87, 255.47, 276.05, 321.63]
+Detected person with confidence 0.942 at location [43.5, 73.03, 87.38, 183.78]
+Detected person with confidence 0.978 at location [72.75, 241.02, 155.2, 317.26]
+Detected person with confidence 0.934 at location [9.43, 77.32, 41.74, 184.81]
+Detected person with confidence 0.928 at location [74.84, 100.22, 112.83, 167.77]
+Detected person with confidence 0.978 at location [200.16, 69.74, 253.24, 179.58]
+Detected dog with confidence 0.97 at location [107.14, 177.11, 252.87, 282.97]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81047.png :
+Detected person with confidence 0.999 at location [146.61, 81.75, 530.88, 791.51]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81054.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81063.png :
+Detected person with confidence 0.944 at location [29.08, 76.55, 259.96, 318.58]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81069.png :
+Detected person with confidence 0.953 at location [143.15, 47.16, 629.55, 444.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81093.png :
+Detected person with confidence 1.0 at location [0.09, 61.64, 584.64, 792.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81096.png :
+Detected apple with confidence 0.994 at location [503.13, 40.06, 708.39, 200.51]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81243.png :
+Detected person with confidence 0.983 at location [208.02, 62.65, 386.22, 432.21]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81254.png :
+Detected tie with confidence 0.998 at location [385.27, 349.53, 444.86, 634.85]
+Detected person with confidence 1.0 at location [44.33, 41.54, 596.45, 692.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81256.png :
+Detected cell phone with confidence 0.986 at location [223.53, 70.48, 361.49, 280.21]
+Detected person with confidence 0.999 at location [0.45, 1.75, 462.39, 387.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81257.png :
+Detected person with confidence 0.992 at location [142.51, 1.69, 714.44, 578.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81263.png :
+Detected person with confidence 0.994 at location [7.03, 56.97, 264.95, 399.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81273.png :
+Detected person with confidence 0.982 at location [168.51, 51.25, 748.41, 456.18]
+Detected motorcycle with confidence 0.98 at location [130.49, 129.54, 753.11, 516.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81293.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81296.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81304.png :
+Detected sheep with confidence 0.995 at location [32.75, 20.14, 247.38, 370.13]
+Detected person with confidence 0.99 at location [1.75, -0.16, 266.18, 372.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81320.png :
+Detected person with confidence 0.998 at location [73.35, 1.95, 823.13, 541.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81349.png :
+Detected person with confidence 0.965 at location [155.16, 136.36, 547.98, 359.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81359.png :
+Detected person with confidence 0.995 at location [257.84, 38.94, 538.02, 552.67]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81390.png :
+Detected sheep with confidence 0.998 at location [0.56, 33.03, 797.66, 788.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81394.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81403.png :
+Detected person with confidence 0.952 at location [376.68, 38.95, 549.73, 247.9]
+Detected person with confidence 0.947 at location [0.28, 39.62, 224.93, 356.02]
+Detected person with confidence 0.96 at location [232.39, 29.91, 379.38, 211.77]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81409.png :
+Detected giraffe with confidence 0.948 at location [46.31, -0.04, 825.38, 704.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81450.png :
+Detected dog with confidence 0.998 at location [72.88, 7.31, 471.95, 421.25]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81467.png :
+Detected dog with confidence 0.999 at location [21.29, 80.08, 775.7, 571.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81497.png :
+Detected person with confidence 0.94 at location [0.85, 109.95, 493.89, 527.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81509.png :
+Detected person with confidence 0.915 at location [477.35, 165.4, 521.86, 194.02]
+Detected car with confidence 0.999 at location [277.26, 140.41, 549.36, 302.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81532.png :
+Detected person with confidence 0.992 at location [38.95, 41.65, 289.7, 363.15]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81630.png :
+Detected person with confidence 1.0 at location [32.83, 39.72, 502.48, 335.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81645.png :
+Detected dog with confidence 0.997 at location [261.54, 60.73, 359.76, 186.61]
+Detected person with confidence 0.999 at location [79.58, 136.67, 406.01, 322.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81673.png :
+Detected person with confidence 0.999 at location [428.51, 123.72, 493.89, 262.57]
+Detected person with confidence 0.997 at location [499.72, 113.38, 546.37, 233.19]
+Detected person with confidence 0.949 at location [89.74, 179.49, 227.07, 312.42]
+Detected person with confidence 0.986 at location [40.55, 186.07, 55.6, 221.6]
+Detected person with confidence 0.906 at location [170.71, 164.13, 185.31, 188.67]
+Detected person with confidence 0.934 at location [88.1, 170.54, 173.96, 309.4]
+Detected person with confidence 0.983 at location [74.1, 177.46, 105.84, 244.31]
+Detected person with confidence 0.913 at location [91.5, 125.32, 444.0, 314.63]
+Detected person with confidence 0.972 at location [364.53, 145.71, 392.53, 210.74]
+Detected person with confidence 0.923 at location [242.61, 159.6, 267.19, 185.18]
+Detected person with confidence 0.989 at location [323.98, 143.12, 367.48, 225.72]
+Detected person with confidence 0.976 at location [475.92, 109.46, 502.38, 191.76]
+Detected person with confidence 0.903 at location [197.8, 124.09, 449.57, 323.18]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81679.png :
+Detected person with confidence 0.987 at location [717.65, 220.84, 797.88, 389.72]
+Detected person with confidence 0.999 at location [226.43, 66.49, 342.96, 414.8]
+Detected person with confidence 0.999 at location [67.19, 46.15, 212.97, 414.23]
+Detected person with confidence 0.998 at location [377.66, 28.39, 508.32, 495.15]
+Detected person with confidence 0.991 at location [639.4, 159.06, 703.09, 367.8]
+Detected person with confidence 0.996 at location [616.61, 112.97, 755.67, 443.02]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81720.png :
+Detected person with confidence 0.978 at location [318.85, 14.07, 549.56, 362.26]
+Detected person with confidence 0.918 at location [14.77, 76.06, 452.35, 363.56]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81734.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81764.png :
+Detected tie with confidence 0.919 at location [342.5, 603.86, 506.19, 738.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81934.png :
+Detected tie with confidence 0.99 at location [83.43, 662.91, 138.31, 767.46]
+Detected person with confidence 0.965 at location [0.3, 366.89, 311.33, 787.94]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81940.png :
+Detected person with confidence 1.0 at location [-0.1, 51.45, 526.83, 792.56]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81946.png :
+Detected person with confidence 0.997 at location [210.38, 240.36, 442.36, 567.57]
+Detected person with confidence 0.998 at location [664.89, 260.28, 800.13, 569.18]
+Detected person with confidence 0.999 at location [8.49, 260.44, 253.15, 553.97]
+Detected person with confidence 0.999 at location [441.49, 281.25, 655.11, 569.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81947.png :
+Detected person with confidence 0.999 at location [224.15, 161.41, 276.03, 287.87]
+Detected skateboard with confidence 0.915 at location [400.54, 266.97, 422.12, 272.98]
+Detected person with confidence 0.995 at location [465.12, 190.18, 506.7, 279.57]
+Detected person with confidence 0.981 at location [159.19, 218.12, 187.05, 270.76]
+Detected skateboard with confidence 0.952 at location [322.5, 268.99, 342.97, 275.14]
+Detected person with confidence 0.991 at location [24.37, 197.47, 69.2, 278.99]
+Detected person with confidence 0.995 at location [78.42, 211.99, 109.79, 273.05]
+Detected skateboard with confidence 0.976 at location [161.65, 265.65, 181.04, 271.32]
+Detected person with confidence 0.991 at location [400.67, 215.57, 426.08, 271.52]
+Detected skateboard with confidence 0.905 at location [470.41, 269.92, 501.33, 279.45]
+Detected person with confidence 0.984 at location [317.05, 208.69, 348.88, 274.94]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81950.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81962.png :
+Detected person with confidence 0.998 at location [173.66, 102.8, 637.98, 525.85]
+Detected tie with confidence 0.928 at location [384.07, 271.02, 441.52, 473.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\81972.png :
+Detected person with confidence 1.0 at location [-0.01, 80.74, 799.64, 793.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82014.png :
+Detected person with confidence 0.973 at location [0.07, 245.66, 101.15, 380.04]
+Detected person with confidence 0.983 at location [175.75, 34.01, 240.19, 121.02]
+Detected person with confidence 0.995 at location [412.54, 144.6, 546.52, 379.15]
+Detected person with confidence 0.991 at location [18.3, 56.26, 148.7, 226.52]
+Detected person with confidence 0.95 at location [0.34, 122.3, 126.35, 378.35]
+Detected person with confidence 0.908 at location [120.04, 20.03, 426.83, 306.41]
+Detected person with confidence 0.977 at location [395.6, 139.62, 449.58, 255.2]
+Detected person with confidence 0.995 at location [320.14, 53.02, 407.34, 192.72]
+Detected laptop with confidence 0.923 at location [120.65, 243.25, 420.71, 378.67]
+Detected tie with confidence 0.998 at location [265.95, 129.01, 283.37, 244.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82076.png :
+Detected cat with confidence 0.998 at location [142.4, 106.38, 285.45, 263.89]
+Detected oven with confidence 0.99 at location [0.49, 0.5, 374.29, 361.65]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82097.png :
+Detected person with confidence 0.999 at location [121.76, 35.35, 684.01, 519.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82156.png :
+Detected person with confidence 0.999 at location [25.99, 46.81, 121.08, 195.4]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82165.png :
+Detected cup with confidence 0.996 at location [506.91, 348.48, 589.99, 420.65]
+Detected refrigerator with confidence 0.934 at location [0.04, -0.19, 91.94, 270.41]
+Detected person with confidence 0.997 at location [0.08, 6.46, 508.89, 543.45]
+Detected laptop with confidence 0.96 at location [405.62, 260.48, 823.8, 544.1]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82169.png :
+Detected person with confidence 0.992 at location [141.93, 9.84, 189.08, 58.86]
+Detected person with confidence 0.965 at location [477.47, 402.56, 711.39, 793.04]
+Detected sheep with confidence 0.965 at location [109.91, 41.19, 236.86, 311.55]
+Detected sheep with confidence 0.984 at location [202.64, 53.38, 308.39, 311.13]
+Detected sheep with confidence 0.988 at location [293.13, 58.07, 393.15, 311.5]
+Detected person with confidence 0.906 at location [54.11, 444.04, 285.09, 781.93]
+Detected person with confidence 0.982 at location [185.06, 413.75, 561.78, 793.32]
+Detected sheep with confidence 0.985 at location [379.0, 43.35, 488.28, 297.19]
+Detected sheep with confidence 0.995 at location [461.22, 58.36, 633.07, 305.52]
+Detected person with confidence 0.99 at location [490.41, 31.68, 523.02, 65.9]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82310.png :
+Detected cow with confidence 0.999 at location [0.1, 459.62, 456.34, 798.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82346.png :
+Detected person with confidence 0.998 at location [294.12, 30.42, 812.69, 540.95]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82403.png :
+Detected tie with confidence 0.993 at location [378.47, 78.41, 393.04, 123.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82450.png :
+Detected sheep with confidence 0.962 at location [401.01, 63.25, 484.01, 160.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82476.png :
+Detected car with confidence 0.994 at location [232.63, 613.74, 384.5, 720.61]
+Detected car with confidence 0.998 at location [440.39, 135.38, 474.8, 160.74]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82501.png :
+Detected sheep with confidence 0.997 at location [96.74, 109.42, 711.42, 467.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82503.png :
+Detected person with confidence 0.959 at location [20.79, 37.74, 129.99, 311.53]
+Detected person with confidence 0.998 at location [106.08, 23.16, 244.26, 338.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82596.png :
+Detected person with confidence 0.935 at location [116.39, 20.9, 508.95, 454.67]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82603.png :
+Detected tie with confidence 0.994 at location [144.13, 73.12, 164.22, 100.06]
+Detected person with confidence 0.977 at location [78.93, 17.46, 210.9, 390.98]
+Detected bird with confidence 0.97 at location [204.7, 171.91, 229.21, 186.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82631.png :
+Detected person with confidence 0.989 at location [110.93, 75.01, 421.38, 398.15]
+Detected tie with confidence 0.991 at location [246.72, 297.83, 323.71, 391.31]
+Detected person with confidence 0.998 at location [6.9, 413.0, 493.42, 790.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82651.png :
+Detected cell phone with confidence 0.962 at location [149.33, 200.78, 162.82, 233.74]
+Detected person with confidence 0.996 at location [36.68, 108.28, 387.46, 477.41]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82657.png :
+Detected person with confidence 0.999 at location [7.73, 39.76, 265.27, 399.76]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82704.png :
+Detected person with confidence 0.974 at location [122.44, 43.97, 499.0, 353.94]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82916.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\82973.png :
+Detected cell phone with confidence 0.971 at location [218.11, 219.26, 322.59, 307.49]
+Detected person with confidence 0.995 at location [0.07, 1.3, 299.07, 361.56]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83014.png :
+Detected person with confidence 0.999 at location [0.02, 48.34, 519.7, 790.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83059.png :
+Detected person with confidence 0.998 at location [284.69, 27.56, 775.91, 568.11]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83074.png :
+Detected person with confidence 0.999 at location [115.97, 58.57, 723.6, 517.36]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83127.png :
+Detected clock with confidence 0.985 at location [497.64, 241.36, 519.02, 261.92]
+Detected person with confidence 0.999 at location [19.78, 28.25, 310.24, 362.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83145.png :
+Detected car with confidence 0.982 at location [436.62, 328.97, 505.37, 346.38]
+Detected person with confidence 0.982 at location [68.98, 97.62, 239.16, 321.65]
+Detected person with confidence 0.992 at location [225.43, 146.99, 347.2, 250.19]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83150.png :
+Detected person with confidence 1.0 at location [174.69, 61.19, 649.78, 544.91]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83170.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83175.png :
+Detected person with confidence 0.92 at location [430.64, 58.44, 495.6, 149.47]
+Detected person with confidence 0.943 at location [150.81, 66.81, 535.84, 542.91]
+Detected person with confidence 0.998 at location [373.85, 16.39, 823.92, 543.7]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83205.png :
+Detected bowl with confidence 0.991 at location [499.14, 424.74, 625.12, 496.56]
+Detected chair with confidence 0.986 at location [717.84, 343.94, 825.02, 459.37]
+Detected potted plant with confidence 0.929 at location [6.56, 89.89, 198.63, 255.57]
+Detected bowl with confidence 0.925 at location [426.94, 411.2, 551.93, 477.77]
+Detected cup with confidence 0.955 at location [74.79, 339.13, 154.22, 433.09]
+Detected bowl with confidence 0.998 at location [105.36, 420.05, 319.88, 493.65]
+Detected cup with confidence 0.96 at location [0.68, 343.28, 82.61, 422.1]
+Detected person with confidence 0.994 at location [9.94, 1.38, 393.39, 435.32]
+Detected person with confidence 0.986 at location [194.96, 125.86, 471.56, 423.25]
+Detected bowl with confidence 0.993 at location [0.0, 431.96, 96.57, 500.9]
+Detected potted plant with confidence 0.98 at location [517.51, 74.5, 616.37, 217.55]
+Detected potted plant with confidence 0.978 at location [604.32, 132.23, 675.16, 227.4]
+Detected bowl with confidence 0.994 at location [321.91, 419.16, 481.22, 498.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83216.png :
+Detected person with confidence 0.997 at location [24.34, 48.04, 574.18, 542.07]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83257.png :
+Detected person with confidence 0.993 at location [37.49, 21.17, 248.44, 379.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83295.png :
+Detected cell phone with confidence 0.946 at location [628.69, 220.49, 664.84, 283.76]
+Detected person with confidence 0.948 at location [432.46, 162.76, 576.88, 409.36]
+Detected person with confidence 0.978 at location [538.34, 22.58, 778.98, 526.8]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83296.png :
+Detected person with confidence 0.92 at location [0.38, 33.32, 799.01, 526.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83402.png :
+Detected person with confidence 0.998 at location [142.77, 523.46, 382.29, 793.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83461.png :
+Detected person with confidence 0.913 at location [286.91, 107.49, 315.98, 152.87]
+Detected boat with confidence 0.911 at location [47.38, 200.65, 131.13, 272.64]
+Detected person with confidence 0.937 at location [205.06, 161.36, 242.84, 221.32]
+Detected boat with confidence 0.982 at location [97.13, 71.84, 279.12, 136.98]
+Detected person with confidence 0.982 at location [178.75, 110.12, 219.74, 174.04]
+Detected person with confidence 0.997 at location [128.52, 177.21, 174.86, 330.68]
+Detected person with confidence 0.985 at location [0.89, 114.68, 65.64, 353.65]
+Detected person with confidence 0.997 at location [301.94, 98.15, 399.01, 273.3]
+Detected horse with confidence 0.949 at location [492.45, 128.28, 549.01, 272.76]
+Detected horse with confidence 0.985 at location [288.29, 114.01, 319.74, 197.97]
+Detected person with confidence 0.921 at location [468.02, 107.12, 507.11, 226.25]
+Detected horse with confidence 0.949 at location [336.07, 107.51, 402.6, 275.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83492.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83517.png :
+Detected toothbrush with confidence 0.929 at location [157.11, 156.59, 171.33, 200.42]
+Detected person with confidence 0.946 at location [150.4, 25.54, 298.84, 202.55]
+Detected person with confidence 0.912 at location [110.62, 197.72, 299.88, 398.4]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83560.png :
+Detected car with confidence 0.997 at location [706.72, 168.79, 824.89, 351.32]
+Detected person with confidence 0.967 at location [217.39, 128.12, 407.91, 476.13]
+Detected cell phone with confidence 0.971 at location [424.32, 306.67, 466.15, 335.02]
+Detected person with confidence 0.946 at location [214.42, 129.89, 407.53, 546.48]
+Detected person with confidence 0.965 at location [366.78, 122.36, 753.25, 544.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83571.png :
+Detected person with confidence 0.93 at location [18.54, 282.53, 48.6, 354.42]
+Detected person with confidence 0.999 at location [252.1, 37.01, 608.99, 528.0]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83607.png :
+Detected person with confidence 0.997 at location [94.33, 24.05, 549.26, 362.07]
+Detected sports ball with confidence 0.964 at location [230.1, 224.19, 243.81, 236.32]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83609.png :
+Detected person with confidence 1.0 at location [-0.03, 117.58, 627.83, 795.69]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83651.png :
+Detected person with confidence 0.998 at location [118.93, 95.49, 185.77, 319.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83692.png :
+Detected teddy bear with confidence 0.917 at location [166.81, 41.22, 350.3, 301.48]
+Detected cell phone with confidence 0.974 at location [429.7, 89.88, 444.36, 113.82]
+Detected person with confidence 0.997 at location [389.07, 55.38, 548.84, 301.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83701.png :
+Detected vase with confidence 0.901 at location [405.1, 185.4, 478.15, 326.77]
+Detected vase with confidence 0.901 at location [13.37, 163.49, 61.01, 268.95]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83704.png :
+Detected truck with confidence 0.976 at location [0.38, 1.03, 799.3, 527.06]
+Detected person with confidence 0.994 at location [237.41, 40.49, 485.75, 527.9]
+Detected truck with confidence 0.943 at location [483.63, 157.97, 799.45, 528.0]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83756.png :
+Detected person with confidence 0.973 at location [702.17, 322.24, 787.03, 796.43]
+Detected person with confidence 0.999 at location [-0.21, 120.23, 749.41, 794.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83765.png :
+Detected person with confidence 0.941 at location [0.07, 31.85, 549.72, 362.56]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83901.png :
+Detected person with confidence 0.998 at location [68.93, 13.39, 742.93, 645.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83941.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\83960.png :
+Detected hair drier with confidence 0.94 at location [97.09, 199.33, 269.73, 257.6]
+Detected person with confidence 0.994 at location [191.64, 53.43, 530.28, 360.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84021.png :
+Detected motorcycle with confidence 0.989 at location [0.56, 10.13, 549.07, 362.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84061.png :
+Detected person with confidence 0.999 at location [29.86, 51.27, 233.39, 345.08]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84076.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84091.png :
+Detected person with confidence 0.997 at location [76.7, 48.73, 176.48, 294.97]
+Detected tie with confidence 0.998 at location [223.83, 501.72, 270.02, 569.0]
+Detected person with confidence 0.995 at location [53.59, 311.24, 393.62, 586.25]
+Detected person with confidence 0.998 at location [247.09, 42.02, 361.71, 301.54]
+Detected person with confidence 0.998 at location [125.36, 592.12, 373.74, 794.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84120.png :
+Detected cat with confidence 0.999 at location [78.37, 84.23, 378.52, 478.11]
+Detected backpack with confidence 0.922 at location [117.52, 343.03, 314.62, 482.69]
+Detected cat with confidence 0.993 at location [79.89, 475.73, 399.39, 777.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84125.png :
+Detected person with confidence 1.0 at location [-0.07, 42.61, 299.92, 399.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84172.png :
+Detected chair with confidence 0.969 at location [-0.02, 426.88, 49.05, 556.86]
+Detected tie with confidence 0.999 at location [294.14, 283.34, 370.85, 544.9]
+Detected person with confidence 1.0 at location [73.22, 50.0, 735.41, 553.77]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84179.png :
+Detected person with confidence 0.99 at location [81.4, 44.97, 383.79, 478.78]
+Detected person with confidence 0.995 at location [151.66, 483.41, 360.07, 786.86]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84209.png :
+Detected person with confidence 0.996 at location [253.99, 40.67, 622.64, 453.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84219.png :
+Detected person with confidence 1.0 at location [0.08, 94.59, 584.72, 791.49]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84271.png :
+Detected cow with confidence 0.942 at location [217.43, 225.06, 402.27, 404.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84351.png :
+Detected cell phone with confidence 0.934 at location [207.1, 473.85, 255.85, 531.09]
+Detected person with confidence 0.999 at location [-0.08, 42.43, 632.78, 793.35]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84379.png :
+Detected person with confidence 0.997 at location [95.87, 15.4, 549.49, 361.35]
+Detected sports ball with confidence 0.974 at location [230.04, 224.02, 243.73, 235.9]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84719.png :
+Detected person with confidence 0.992 at location [198.87, 31.85, 815.31, 542.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84729.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84736.png :
+Detected person with confidence 0.983 at location [0.26, 80.91, 372.29, 362.74]
+Detected person with confidence 0.944 at location [96.96, 55.65, 549.73, 362.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\84951.png :
+Detected person with confidence 0.997 at location [25.36, 15.22, 174.77, 381.11]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85026.png :
+Detected person with confidence 0.984 at location [420.34, -0.43, 493.32, 179.03]
+Detected person with confidence 0.999 at location [48.96, 58.28, 288.1, 326.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85073.png :
+Detected person with confidence 1.0 at location [35.77, 2.07, 778.39, 527.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85092.png :
+Detected person with confidence 0.996 at location [202.38, 69.43, 681.5, 527.01]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85093.png :
+Detected person with confidence 0.912 at location [15.91, 204.89, 47.48, 271.29]
+Detected person with confidence 0.969 at location [35.54, 149.7, 80.02, 246.65]
+Detected person with confidence 0.934 at location [207.23, 153.51, 221.66, 174.44]
+Detected person with confidence 0.929 at location [15.3, 150.26, 40.44, 217.76]
+Detected person with confidence 0.935 at location [232.67, 151.72, 245.92, 168.97]
+Detected person with confidence 0.93 at location [239.49, 189.01, 264.56, 273.05]
+Detected person with confidence 0.951 at location [128.76, 108.89, 161.65, 156.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85094.png :
+Detected tie with confidence 0.997 at location [671.36, 187.2, 709.06, 475.87]
+Detected tie with confidence 0.98 at location [141.99, 187.7, 179.53, 278.13]
+Detected person with confidence 0.999 at location [23.41, 23.72, 300.56, 526.48]
+Detected person with confidence 0.999 at location [238.82, 101.5, 553.43, 449.98]
+Detected person with confidence 1.0 at location [549.18, 33.05, 799.46, 526.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85132.png :
+Detected person with confidence 0.995 at location [168.52, 156.06, 530.78, 527.95]
+Detected person with confidence 0.969 at location [444.92, 1.81, 799.56, 527.41]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85147.png :
+Detected person with confidence 0.984 at location [0.1, 20.24, 149.6, 395.61]
+Detected person with confidence 0.915 at location [0.27, 217.93, 149.55, 396.3]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85173.png :
+Detected person with confidence 0.994 at location [142.22, 10.61, 189.13, 58.56]
+Detected person with confidence 0.979 at location [477.35, 403.78, 711.45, 793.46]
+Detected sheep with confidence 0.982 at location [110.14, 41.71, 237.01, 309.62]
+Detected sheep with confidence 0.993 at location [203.06, 54.43, 307.88, 310.06]
+Detected sheep with confidence 0.991 at location [293.28, 59.53, 392.8, 307.42]
+Detected person with confidence 0.914 at location [53.35, 446.49, 285.5, 783.36]
+Detected person with confidence 0.982 at location [193.39, 415.63, 564.42, 794.07]
+Detected sheep with confidence 0.993 at location [378.78, 46.93, 487.96, 294.15]
+Detected sheep with confidence 0.995 at location [461.79, 59.97, 632.1, 303.87]
+Detected person with confidence 0.992 at location [490.58, 32.26, 522.99, 65.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85190.png :
+Detected person with confidence 0.999 at location [70.1, 2.6, 822.89, 593.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85192.png :
+Detected boat with confidence 0.964 at location [210.92, 208.27, 266.95, 267.07]
+Detected person with confidence 0.984 at location [5.59, 112.75, 213.32, 399.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85243.png :
+Detected person with confidence 0.972 at location [13.73, 48.21, 440.36, 499.59]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85261.png :
+Detected person with confidence 1.0 at location [0.97, 46.95, 634.59, 794.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85290.png :
+Detected person with confidence 0.999 at location [21.89, 5.72, 796.86, 617.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85329.png :
+Detected person with confidence 0.999 at location [719.72, 191.8, 756.05, 345.01]
+Detected person with confidence 0.95 at location [276.7, 257.2, 298.74, 301.95]
+Detected person with confidence 0.999 at location [162.74, 156.16, 297.32, 377.69]
+Detected person with confidence 0.993 at location [84.54, 178.6, 126.63, 334.32]
+Detected person with confidence 0.988 at location [584.42, 132.29, 674.25, 415.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85409.png :
+Detected car with confidence 0.998 at location [150.85, 176.15, 435.87, 403.09]
+Detected person with confidence 0.989 at location [606.99, 57.62, 626.4, 119.25]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85410.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85417.png :
+Detected person with confidence 0.999 at location [-0.18, 135.41, 355.22, 604.73]
+Detected wine glass with confidence 0.995 at location [16.89, 214.56, 76.89, 394.36]
+Detected wine glass with confidence 0.997 at location [693.99, 190.72, 771.77, 369.22]
+Detected person with confidence 0.999 at location [379.93, 61.47, 799.3, 604.26]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85421.png :
+Detected person with confidence 0.978 at location [421.08, 149.02, 496.28, 334.71]
+Detected person with confidence 0.943 at location [486.09, 247.24, 550.08, 340.73]
+Detected person with confidence 0.997 at location [346.69, 147.12, 423.58, 227.47]
+Detected person with confidence 0.916 at location [484.14, 153.56, 545.9, 255.31]
+Detected person with confidence 0.991 at location [96.43, 158.39, 164.35, 314.91]
+Detected person with confidence 0.936 at location [484.25, 153.74, 548.12, 360.76]
+Detected person with confidence 0.994 at location [147.71, 127.03, 243.91, 318.73]
+Detected person with confidence 0.987 at location [-0.02, 153.9, 47.26, 363.97]
+Detected person with confidence 0.965 at location [226.22, 138.54, 267.37, 215.41]
+Detected person with confidence 0.99 at location [33.64, 148.78, 113.47, 363.94]
+Detected person with confidence 0.965 at location [253.02, 139.39, 305.24, 224.3]
+Detected kite with confidence 0.997 at location [212.28, 161.04, 494.39, 362.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85426.png :
+Detected person with confidence 1.0 at location [181.08, 117.97, 358.7, 245.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85476.png :
+Detected person with confidence 0.984 at location [168.55, 53.07, 441.39, 363.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85492.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85614.png :
+Detected tie with confidence 0.995 at location [532.94, 111.31, 554.61, 189.95]
+Detected person with confidence 0.928 at location [422.22, 4.19, 645.16, 391.2]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85709.png :
+Detected person with confidence 0.994 at location [314.67, 38.14, 478.57, 348.35]
+Detected person with confidence 0.941 at location [0.59, 51.26, 243.07, 328.71]
+Detected bottle with confidence 0.966 at location [133.82, 252.93, 225.13, 302.94]
+Detected person with confidence 0.978 at location [211.2, 130.73, 347.49, 342.14]
+Detected pizza with confidence 1.0 at location [146.53, 554.98, 329.74, 716.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85710.png :
+Detected person with confidence 0.995 at location [95.85, 41.19, 549.69, 519.81]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85714.png :
+Detected vase with confidence 0.998 at location [112.9, 452.54, 203.28, 770.09]
+Detected person with confidence 1.0 at location [200.49, 31.69, 326.07, 409.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85729.png :
+Detected person with confidence 0.996 at location [104.69, 166.77, 358.19, 527.71]
+Detected person with confidence 0.931 at location [731.21, 17.58, 784.87, 115.91]
+Detected person with confidence 0.996 at location [1.97, 234.63, 128.9, 527.4]
+Detected person with confidence 0.988 at location [321.11, 143.54, 472.76, 408.01]
+Detected person with confidence 0.995 at location [426.12, 159.79, 792.41, 527.14]
+Detected person with confidence 0.928 at location [483.79, 1.56, 800.19, 526.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85902.png :
+Detected person with confidence 0.999 at location [231.69, 214.74, 284.7, 334.77]
+Detected car with confidence 0.999 at location [356.18, 246.64, 549.86, 338.91]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85920.png :
+Detected person with confidence 0.994 at location [86.24, 5.4, 549.59, 363.01]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85923.png :
+Detected bed with confidence 0.99 at location [-0.09, 1.28, 549.8, 362.12]
+Detected person with confidence 0.952 at location [2.23, 56.29, 508.28, 358.35]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85927.png :
+Detected person with confidence 0.999 at location [85.1, 83.0, 669.24, 528.01]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85960.png :
+Detected person with confidence 0.953 at location [330.44, 753.54, 406.47, 799.9]
+Detected person with confidence 0.976 at location [44.56, 128.63, 428.91, 483.01]
+Detected tie with confidence 0.947 at location [154.83, 664.09, 177.7, 687.71]
+Detected person with confidence 1.0 at location [7.52, 477.08, 448.36, 791.03]
+Detected tie with confidence 0.918 at location [155.47, 665.29, 221.16, 800.22]
+Detected tie with confidence 0.998 at location [222.72, 369.21, 286.52, 476.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85964.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\85967.png :
+Detected person with confidence 0.999 at location [-0.02, 66.93, 266.93, 397.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86013.png :
+Detected person with confidence 0.945 at location [130.0, 40.7, 446.55, 299.35]
+Detected person with confidence 0.976 at location [-0.53, 1.81, 447.13, 349.52]
+Detected cup with confidence 0.957 at location [318.5, 238.93, 358.17, 299.57]
+Detected cup with confidence 0.986 at location [393.79, 211.1, 452.01, 305.08]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86017.png :
+Detected person with confidence 0.999 at location [5.85, 27.42, 447.64, 369.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86041.png :
+Detected person with confidence 0.962 at location [290.24, 232.73, 343.09, 309.44]
+Detected tie with confidence 0.952 at location [432.21, 270.82, 439.12, 290.51]
+Detected tie with confidence 0.99 at location [317.92, 259.28, 325.81, 292.92]
+Detected person with confidence 0.997 at location [145.61, 142.15, 231.29, 341.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86051.png :
+Detected person with confidence 0.968 at location [234.7, 515.74, 284.58, 655.7]
+Detected person with confidence 0.999 at location [141.3, 541.22, 284.95, 784.0]
+Detected chair with confidence 0.98 at location [177.42, 683.69, 245.03, 744.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86054.png :
+Detected tie with confidence 0.999 at location [160.74, 308.28, 230.33, 675.18]
+Detected person with confidence 0.994 at location [0.36, 39.54, 325.76, 792.6]
+Detected person with confidence 0.997 at location [250.42, 127.06, 547.14, 794.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86127.png :
+Detected person with confidence 0.999 at location [93.91, 36.72, 286.65, 320.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86129.png :
+Detected horse with confidence 0.997 at location [283.67, 14.76, 450.95, 525.64]
+Detected person with confidence 0.999 at location [546.3, 190.74, 674.07, 596.01]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86143.png :
+Detected person with confidence 1.0 at location [254.6, 110.31, 783.1, 547.21]
+Detected chair with confidence 0.993 at location [751.05, 437.02, 825.02, 548.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86175.png :
+Detected person with confidence 0.999 at location [175.6, 59.39, 558.48, 545.23]
+Detected tie with confidence 0.981 at location [401.59, 271.98, 436.54, 482.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86194.png :
+Detected person with confidence 0.999 at location [29.18, 85.11, 784.74, 634.93]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86201.png :
+Detected person with confidence 0.999 at location [626.86, 114.48, 780.82, 479.95]
+Detected car with confidence 0.924 at location [730.46, 161.69, 781.77, 198.11]
+Detected person with confidence 0.985 at location [43.09, 227.64, 266.15, 376.41]
+Detected car with confidence 0.936 at location [757.88, 186.91, 799.95, 251.71]
+Detected person with confidence 0.999 at location [315.1, 23.15, 632.36, 479.52]
+Detected car with confidence 0.951 at location [-0.32, 77.54, 694.54, 456.15]
+Detected car with confidence 0.911 at location [735.17, 200.4, 799.9, 377.46]
+Detected book with confidence 0.939 at location [415.02, 249.8, 518.23, 294.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86203.png :
+Detected person with confidence 0.999 at location [0.04, 31.95, 106.6, 317.22]
+Detected dog with confidence 0.999 at location [294.94, 57.7, 548.63, 251.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86207.png :
+Detected sheep with confidence 0.996 at location [123.01, 121.09, 319.91, 265.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86237.png :
+Detected person with confidence 0.993 at location [197.26, 23.49, 799.16, 525.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86253.png :
+Detected person with confidence 0.998 at location [43.01, 55.98, 525.82, 753.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86257.png :
+Detected person with confidence 0.999 at location [309.97, 62.69, 435.55, 265.45]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86271.png :
+Detected tie with confidence 0.995 at location [485.03, 216.32, 510.41, 246.38]
+Detected person with confidence 0.939 at location [152.93, 147.23, 565.24, 565.88]
+Detected person with confidence 0.939 at location [437.56, 144.1, 569.06, 559.83]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86273.png :
+Detected person with confidence 0.968 at location [344.53, 138.97, 499.28, 433.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86293.png :
+Detected dog with confidence 0.998 at location [347.18, 180.73, 439.52, 258.52]
+Detected person with confidence 0.998 at location [377.32, 52.07, 497.29, 263.35]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86314.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86325.png :
+Detected person with confidence 0.996 at location [69.77, 5.58, 226.05, 397.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86354.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86391.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86401.png :
+Detected car with confidence 0.957 at location [-0.02, 0.96, 549.73, 362.3]
+Detected person with confidence 0.998 at location [66.64, 75.11, 435.94, 361.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86413.png :
+Detected dog with confidence 0.999 at location [69.07, 229.96, 785.32, 411.81]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86431.png :
+Detected tie with confidence 0.986 at location [384.39, 153.25, 396.82, 204.49]
+Detected person with confidence 0.968 at location [266.49, 113.01, 332.35, 273.3]
+Detected person with confidence 0.941 at location [203.51, 99.45, 269.98, 175.26]
+Detected person with confidence 0.983 at location [490.24, 274.79, 753.59, 668.73]
+Detected person with confidence 0.961 at location [537.67, 114.75, 589.15, 195.41]
+Detected tie with confidence 0.998 at location [543.98, 400.68, 567.84, 495.49]
+Detected person with confidence 0.99 at location [225.04, 383.98, 351.17, 594.33]
+Detected tie with confidence 0.996 at location [201.82, 555.22, 226.97, 665.16]
+Detected person with confidence 0.948 at location [188.91, 157.26, 279.91, 274.98]
+Detected tie with confidence 0.989 at location [254.64, 471.47, 273.1, 525.89]
+Detected tie with confidence 0.978 at location [482.77, 123.59, 493.23, 164.5]
+Detected person with confidence 0.989 at location [117.58, 339.1, 241.64, 556.85]
+Detected person with confidence 0.994 at location [329.14, 106.73, 440.67, 222.26]
+Detected person with confidence 0.996 at location [94.59, 433.12, 341.14, 671.82]
+Detected person with confidence 0.996 at location [-0.11, 347.3, 139.73, 667.04]
+Detected tie with confidence 0.997 at location [477.66, 551.09, 507.46, 654.99]
+Detected person with confidence 0.975 at location [476.27, 162.88, 570.16, 277.71]
+Detected tie with confidence 0.954 at location [190.49, 431.29, 206.13, 445.13]
+Detected person with confidence 0.962 at location [446.17, 81.17, 531.05, 274.54]
+Detected tie with confidence 0.997 at location [389.24, 458.87, 421.07, 559.71]
+Detected person with confidence 0.98 at location [333.59, 362.25, 468.28, 632.64]
+Detected person with confidence 0.993 at location [319.44, 419.31, 633.59, 668.02]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86452.png :
+Detected person with confidence 1.0 at location [-0.14, 49.97, 532.83, 796.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86453.png :
+Detected tie with confidence 0.99 at location [329.36, 258.84, 366.53, 319.87]
+Detected person with confidence 1.0 at location [1.15, 1.29, 509.16, 362.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86491.png :
+Detected person with confidence 0.986 at location [55.93, 0.74, 255.22, 199.84]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86504.png :
+Detected knife with confidence 0.916 at location [26.29, 138.29, 35.88, 200.76]
+Detected knife with confidence 0.927 at location [40.21, 140.98, 50.11, 199.91]
+Detected bottle with confidence 0.911 at location [741.25, 93.31, 757.12, 138.29]
+Detected bottle with confidence 0.952 at location [623.22, 182.41, 647.87, 229.64]
+Detected knife with confidence 0.947 at location [33.09, 140.16, 42.95, 200.52]
+Detected bottle with confidence 0.93 at location [721.36, 85.0, 739.61, 138.19]
+Detected knife with confidence 0.953 at location [39.5, 141.1, 48.87, 199.9]
+Detected potted plant with confidence 0.975 at location [792.51, 62.83, 824.94, 136.95]
+Detected knife with confidence 0.926 at location [54.02, 145.28, 63.73, 200.25]
+Detected bottle with confidence 0.981 at location [74.57, 176.42, 105.96, 274.37]
+Detected bottle with confidence 0.951 at location [777.57, 86.32, 798.21, 138.62]
+Detected person with confidence 1.0 at location [328.16, 153.19, 642.59, 550.63]
+Detected knife with confidence 0.944 at location [26.83, 139.22, 36.46, 201.08]
+Detected knife with confidence 0.915 at location [65.77, 149.37, 76.73, 202.31]
+Detected bowl with confidence 0.908 at location [745.3, 324.04, 784.72, 348.59]
+Detected person with confidence 0.964 at location [377.64, 69.7, 506.54, 504.56]
+Detected knife with confidence 0.946 at location [46.93, 142.21, 56.74, 200.18]
+Detected bottle with confidence 0.906 at location [716.02, 85.43, 733.8, 138.26]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86530.png :
+Detected bowl with confidence 0.919 at location [133.39, 453.39, 217.32, 484.59]
+Detected person with confidence 0.999 at location [40.85, 21.04, 814.58, 486.84]
+Detected tie with confidence 0.991 at location [492.97, 254.29, 566.59, 483.49]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86594.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86597.png :
+Detected person with confidence 0.915 at location [492.88, 52.48, 542.2, 113.58]
+Detected person with confidence 0.904 at location [29.65, 63.53, 67.9, 117.89]
+Detected person with confidence 0.924 at location [712.97, 84.43, 779.7, 212.18]
+Detected person with confidence 0.941 at location [210.93, 207.62, 329.32, 326.42]
+Detected person with confidence 0.921 at location [739.97, 114.83, 799.98, 324.85]
+Detected person with confidence 0.938 at location [718.05, 0.67, 799.39, 131.97]
+Detected person with confidence 0.951 at location [0.03, 159.82, 51.06, 289.19]
+Detected person with confidence 0.935 at location [48.35, 106.63, 92.68, 156.77]
+Detected person with confidence 0.905 at location [166.7, 61.55, 253.82, 168.24]
+Detected person with confidence 0.928 at location [131.4, 63.34, 179.38, 133.63]
+Detected person with confidence 0.944 at location [209.49, 83.1, 275.55, 156.35]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86741.png :
+Detected person with confidence 1.0 at location [243.66, 42.54, 501.44, 545.22]
+Detected truck with confidence 0.986 at location [495.33, 161.93, 824.33, 544.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86753.png :
+Detected spoon with confidence 0.928 at location [87.71, 239.9, 222.1, 354.97]
+Detected person with confidence 0.919 at location [-0.8, 22.83, 288.68, 399.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86907.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86934.png :
+Detected tie with confidence 0.996 at location [143.81, 147.86, 159.46, 197.28]
+Detected tie with confidence 0.996 at location [410.29, 145.56, 422.53, 192.97]
+Detected tie with confidence 0.997 at location [335.91, 135.57, 346.05, 172.04]
+Detected tie with confidence 0.991 at location [485.67, 148.31, 497.77, 181.04]
+Detected person with confidence 0.963 at location [464.84, 98.84, 549.87, 304.58]
+Detected person with confidence 0.976 at location [168.78, 85.17, 267.18, 275.95]
+Detected tie with confidence 0.996 at location [265.11, 210.58, 282.58, 263.36]
+Detected person with confidence 0.988 at location [3.59, 125.49, 69.6, 289.18]
+Detected tie with confidence 0.998 at location [273.25, 142.23, 283.93, 174.32]
+Detected person with confidence 0.988 at location [251.55, 98.91, 298.14, 174.92]
+Detected person with confidence 0.986 at location [142.66, 70.17, 197.46, 148.54]
+Detected person with confidence 0.992 at location [70.78, 89.02, 173.54, 281.51]
+Detected person with confidence 0.996 at location [199.76, 150.47, 337.99, 283.47]
+Detected person with confidence 0.942 at location [321.93, 87.19, 395.64, 277.66]
+Detected tie with confidence 0.981 at location [32.01, 157.29, 39.36, 176.13]
+Detected tie with confidence 0.997 at location [219.43, 135.79, 233.98, 195.96]
+Detected person with confidence 0.991 at location [375.12, 96.45, 471.42, 277.77]
+Detected person with confidence 0.932 at location [286.03, 89.42, 344.65, 175.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86947.png :
+Detected dog with confidence 0.986 at location [146.96, 108.56, 259.41, 274.74]
+Detected dog with confidence 0.981 at location [518.26, 144.44, 669.21, 264.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\86954.png :
+Detected sheep with confidence 0.995 at location [142.92, 66.64, 546.28, 473.68]
+Detected sheep with confidence 0.996 at location [285.07, 153.16, 751.31, 463.76]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87024.png :
+Detected tie with confidence 0.989 at location [247.73, 213.29, 274.94, 286.91]
+Detected person with confidence 0.994 at location [83.05, 35.83, 485.0, 790.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87043.png :
+Detected person with confidence 0.943 at location [735.68, 69.23, 799.89, 208.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87049.png :
+Detected couch with confidence 0.913 at location [517.07, 345.14, 802.79, 545.94]
+Detected cup with confidence 0.967 at location [354.39, 509.62, 391.87, 528.47]
+Detected cup with confidence 0.993 at location [457.02, 497.6, 500.71, 544.08]
+Detected person with confidence 0.994 at location [522.49, 0.3, 799.5, 176.58]
+Detected tie with confidence 0.995 at location [348.68, 218.43, 385.91, 499.36]
+Detected cup with confidence 0.966 at location [318.45, 508.75, 353.87, 527.12]
+Detected person with confidence 0.999 at location [153.9, 70.81, 570.41, 535.9]
+Detected dining table with confidence 0.909 at location [144.66, 512.73, 584.39, 548.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87052.png :
+Detected person with confidence 0.935 at location [301.16, 310.36, 331.63, 367.73]
+Detected person with confidence 0.998 at location [463.91, 471.67, 553.42, 762.73]
+Detected tie with confidence 0.982 at location [485.66, 517.64, 498.04, 554.84]
+Detected person with confidence 0.956 at location [471.35, 346.07, 516.43, 396.9]
+Detected person with confidence 0.906 at location [61.84, 319.72, 102.97, 393.14]
+Detected handbag with confidence 0.984 at location [388.88, 569.2, 427.11, 622.04]
+Detected person with confidence 0.97 at location [90.88, 319.45, 139.94, 395.74]
+Detected person with confidence 0.963 at location [380.25, 319.35, 420.76, 370.12]
+Detected person with confidence 0.945 at location [446.44, 298.93, 479.19, 387.27]
+Detected person with confidence 0.991 at location [409.02, 489.4, 499.16, 716.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87053.png :
+Detected laptop with confidence 0.999 at location [198.85, 339.17, 441.34, 474.5]
+Detected person with confidence 0.999 at location [195.52, 16.41, 538.82, 462.1]
+Detected backpack with confidence 0.947 at location [767.53, 350.51, 825.05, 428.76]
+Detected dog with confidence 0.995 at location [410.65, 232.68, 693.72, 499.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87120.png :
+Detected tie with confidence 0.997 at location [226.8, 210.16, 262.1, 269.77]
+Detected person with confidence 0.998 at location [79.16, 41.82, 327.28, 275.21]
+Detected person with confidence 0.997 at location [65.3, 315.26, 413.9, 789.31]
+Detected tie with confidence 0.999 at location [219.0, 592.53, 288.12, 793.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87126.png :
+Detected person with confidence 0.964 at location [360.45, 187.63, 382.38, 207.43]
+Detected car with confidence 0.938 at location [319.83, 204.4, 422.21, 325.15]
+Detected person with confidence 0.926 at location [540.55, 120.5, 581.17, 181.87]
+Detected person with confidence 1.0 at location [84.81, 34.48, 358.97, 544.49]
+Detected person with confidence 0.985 at location [32.88, 162.26, 121.06, 497.43]
+Detected person with confidence 0.958 at location [459.35, 136.95, 538.13, 337.56]
+Detected person with confidence 1.0 at location [474.6, 13.4, 752.63, 544.97]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87146.png :
+Detected person with confidence 0.986 at location [186.74, 560.89, 242.93, 786.39]
+Detected person with confidence 0.974 at location [284.27, 565.93, 349.84, 786.52]
+Detected person with confidence 0.999 at location [520.46, 94.36, 664.23, 507.03]
+Detected person with confidence 0.998 at location [159.02, 77.82, 239.13, 500.01]
+Detected person with confidence 0.987 at location [228.92, 571.66, 295.1, 792.37]
+Detected person with confidence 0.996 at location [226.49, 93.05, 346.35, 502.89]
+Detected person with confidence 0.954 at location [339.38, 573.82, 386.12, 648.05]
+Detected person with confidence 0.999 at location [70.67, 98.67, 181.82, 508.79]
+Detected person with confidence 0.993 at location [318.7, 98.56, 440.46, 507.28]
+Detected person with confidence 0.927 at location [366.84, 553.87, 459.16, 787.11]
+Detected person with confidence 0.996 at location [412.56, 88.67, 538.69, 496.5]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87196.png :
+Detected person with confidence 0.927 at location [259.39, 123.73, 755.04, 484.58]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87241.png :
+Detected car with confidence 0.989 at location [147.0, 219.48, 186.04, 279.43]
+Detected car with confidence 0.997 at location [404.6, 185.09, 549.58, 329.65]
+Detected car with confidence 0.995 at location [369.49, 201.53, 430.51, 295.1]
+Detected car with confidence 0.916 at location [204.79, 228.08, 226.57, 263.26]
+Detected handbag with confidence 0.912 at location [203.34, 222.45, 252.57, 304.02]
+Detected car with confidence 0.972 at location [306.6, 222.77, 334.46, 269.82]
+Detected car with confidence 0.929 at location [181.18, 221.12, 213.16, 270.32]
+Detected car with confidence 0.975 at location [305.45, 223.07, 334.67, 269.14]
+Detected car with confidence 0.999 at location [0.23, 170.89, 128.34, 330.62]
+Detected person with confidence 1.0 at location [228.29, 64.4, 334.2, 371.02]
+Detected car with confidence 0.992 at location [81.58, 176.62, 157.69, 294.5]
+Detected car with confidence 0.976 at location [527.7, 206.75, 550.02, 337.36]
+Detected car with confidence 0.995 at location [321.91, 221.49, 374.27, 275.33]
+Detected handbag with confidence 0.966 at location [302.12, 170.89, 346.56, 213.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87290.png :
+Detected person with confidence 0.956 at location [305.65, 668.64, 460.12, 764.87]
+Detected tie with confidence 0.998 at location [261.82, 637.95, 289.44, 711.87]
+Detected cat with confidence 0.999 at location [112.32, 85.37, 322.32, 393.33]
+Detected person with confidence 0.992 at location [62.09, 584.02, 243.09, 766.07]
+Detected person with confidence 0.934 at location [228.89, 466.89, 415.56, 727.56]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87326.png :
+Detected person with confidence 0.992 at location [70.77, 85.23, 478.01, 793.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87351.png :
+Detected person with confidence 1.0 at location [42.38, 27.56, 411.46, 408.7]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87401.png :
+Detected tie with confidence 0.985 at location [318.53, 115.57, 336.84, 124.61]
+Detected hair drier with confidence 0.901 at location [263.62, 83.05, 320.72, 109.03]
+Detected person with confidence 1.0 at location [285.78, 80.87, 375.63, 290.02]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87406.png :
+Detected person with confidence 1.0 at location [0.37, 79.79, 590.26, 788.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87416.png :
+Detected person with confidence 0.988 at location [619.35, 0.6, 824.55, 353.41]
+Detected person with confidence 0.966 at location [437.02, 95.34, 491.59, 267.87]
+Detected person with confidence 0.973 at location [116.06, 103.29, 321.0, 374.09]
+Detected person with confidence 0.954 at location [740.72, 0.24, 824.87, 150.67]
+Detected person with confidence 0.945 at location [6.38, 183.41, 202.46, 372.11]
+Detected person with confidence 0.918 at location [72.8, 178.6, 206.25, 370.37]
+Detected person with confidence 0.954 at location [306.7, 161.35, 332.26, 205.19]
+Detected backpack with confidence 0.915 at location [326.77, 130.5, 421.93, 306.04]
+Detected person with confidence 0.931 at location [418.13, 38.83, 649.32, 378.42]
+Detected backpack with confidence 0.941 at location [485.03, 40.02, 577.95, 156.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87425.png :
+Detected person with confidence 0.913 at location [535.67, 103.98, 797.96, 404.99]
+Detected person with confidence 0.973 at location [1.1, 153.91, 272.48, 528.46]
+Detected person with confidence 0.994 at location [235.35, 23.5, 798.66, 526.72]
+Detected person with confidence 0.935 at location [537.1, 1.4, 799.41, 412.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87451.png :
+Detected person with confidence 0.99 at location [479.13, 190.4, 823.6, 535.57]
+Detected person with confidence 0.908 at location [231.72, 158.1, 550.43, 543.61]
+Detected person with confidence 0.946 at location [448.74, 179.09, 559.61, 281.79]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87461.png :
+Detected person with confidence 0.999 at location [50.8, 54.26, 531.52, 792.19]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87504.png :
+Detected person with confidence 0.999 at location [-0.15, 3.33, 799.6, 794.03]
+Detected tie with confidence 0.902 at location [-0.12, 1.23, 799.69, 659.65]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87521.png :
+Detected tie with confidence 0.952 at location [177.98, 369.44, 260.32, 713.73]
+Detected person with confidence 1.0 at location [0.24, 57.99, 518.46, 792.49]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87530.png :
+Detected person with confidence 0.957 at location [78.45, 45.55, 579.54, 514.17]
+Detected person with confidence 0.983 at location [0.58, 234.89, 195.68, 515.03]
+Detected cell phone with confidence 0.948 at location [666.87, 211.14, 799.93, 481.26]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87541.png :
+Detected person with confidence 0.999 at location [195.95, 59.67, 550.14, 485.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87596.png :
+Detected person with confidence 1.0 at location [0.15, 41.58, 531.59, 793.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87619.png :
+Detected handbag with confidence 0.964 at location [340.29, 415.07, 402.55, 637.2]
+Detected person with confidence 0.998 at location [106.55, 26.04, 455.64, 782.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87649.png :
+Detected dog with confidence 0.996 at location [86.74, -0.45, 252.79, 216.36]
+Detected dog with confidence 0.999 at location [78.11, 102.49, 344.62, 410.14]
+Detected dog with confidence 0.999 at location [387.11, 169.47, 549.78, 384.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87691.png :
+Detected person with confidence 0.999 at location [510.65, 158.85, 824.35, 545.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\87936.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89043.png :
+Detected person with confidence 0.994 at location [186.36, 33.49, 517.72, 363.7]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89063.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89073.png :
+Detected person with confidence 1.0 at location [-0.02, 50.89, 575.7, 791.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89152.png :
+Detected person with confidence 0.986 at location [396.81, 318.08, 508.5, 723.15]
+Detected person with confidence 0.998 at location [141.09, 310.86, 301.55, 761.16]
+Detected person with confidence 0.999 at location [178.89, 82.87, 493.44, 751.68]
+Detected cell phone with confidence 0.977 at location [247.17, 440.11, 281.85, 454.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89153.png :
+Detected tie with confidence 0.999 at location [380.64, 242.26, 429.96, 423.6]
+Detected person with confidence 0.977 at location [5.06, 69.01, 809.4, 539.63]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89154.png :
+Detected car with confidence 0.983 at location [-0.13, 1.11, 799.79, 526.35]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89160.png :
+Detected tie with confidence 0.998 at location [106.02, 156.13, 132.63, 248.39]
+Detected person with confidence 0.999 at location [5.91, 40.75, 259.3, 398.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89306.png :
+Detected tie with confidence 0.988 at location [141.81, 113.98, 165.72, 272.5]
+Detected person with confidence 0.959 at location [-0.06, 37.21, 138.13, 399.97]
+Detected person with confidence 0.929 at location [122.85, 43.31, 269.28, 399.25]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89320.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89356.png :
+Detected cell phone with confidence 0.974 at location [303.87, 103.68, 350.39, 131.01]
+Detected person with confidence 0.997 at location [50.52, 41.32, 340.32, 361.34]
+Detected person with confidence 0.982 at location [244.52, 56.97, 429.0, 360.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89367.png :
+Detected tie with confidence 0.992 at location [99.61, 316.41, 287.91, 519.53]
+Detected person with confidence 0.997 at location [0.82, 2.37, 435.79, 518.64]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89375.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89407.png :
+Detected tie with confidence 0.967 at location [364.64, 433.0, 486.58, 795.72]
+Detected person with confidence 1.0 at location [0.25, 24.97, 485.87, 790.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89436.png :
+Detected person with confidence 0.969 at location [70.28, 26.44, 550.27, 364.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89465.png :
+Detected person with confidence 0.973 at location [203.22, 166.9, 630.78, 491.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89471.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89475.png :
+Detected person with confidence 0.999 at location [60.26, 30.85, 474.9, 771.67]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89507.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89527.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89534.png :
+Detected dog with confidence 0.933 at location [1.0, 31.33, 817.57, 520.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89540.png :
+Detected elephant with confidence 0.989 at location [205.4, 31.85, 799.52, 503.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89542.png :
+Detected person with confidence 0.999 at location [134.69, 98.84, 557.79, 479.8]
+Detected truck with confidence 0.98 at location [3.95, 125.28, 819.5, 545.5]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89567.png :
+Detected person with confidence 0.954 at location [19.6, 433.64, 246.57, 595.26]
+Detected person with confidence 0.999 at location [216.27, 107.32, 492.66, 617.63]
+Detected person with confidence 0.976 at location [532.49, 330.63, 571.82, 427.08]
+Detected person with confidence 0.9 at location [450.74, 331.04, 488.08, 426.35]
+Detected person with confidence 0.977 at location [492.44, 339.01, 527.69, 427.69]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89574.png :
+Detected person with confidence 0.914 at location [171.99, 28.34, 825.22, 549.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89602.png :
+Detected person with confidence 1.0 at location [288.38, 84.29, 590.89, 419.28]
+Detected chair with confidence 0.992 at location [291.36, 126.86, 629.16, 314.87]
+Detected cake with confidence 0.966 at location [194.77, 315.45, 730.92, 459.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89615.png :
+Detected toothbrush with confidence 0.998 at location [238.37, 335.0, 338.5, 384.83]
+Detected person with confidence 0.992 at location [0.96, 63.45, 368.43, 541.8]
+Detected toothbrush with confidence 0.965 at location [448.18, 253.24, 543.89, 340.32]
+Detected person with confidence 0.976 at location [338.92, 84.49, 824.47, 542.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89675.png :
+Detected person with confidence 0.997 at location [386.66, 523.94, 556.04, 672.06]
+Detected person with confidence 0.958 at location [29.41, 49.78, 230.12, 407.84]
+Detected person with confidence 0.973 at location [-0.24, 490.87, 340.14, 709.88]
+Detected person with confidence 0.944 at location [148.26, 86.02, 332.97, 394.98]
+Detected person with confidence 0.992 at location [5.67, 484.31, 225.07, 711.55]
+Detected person with confidence 0.974 at location [218.92, 92.21, 350.88, 373.94]
+Detected car with confidence 0.995 at location [0.53, 397.55, 598.19, 789.97]
+Detected person with confidence 0.963 at location [323.13, 220.98, 412.03, 363.51]
+Detected person with confidence 0.992 at location [396.06, 237.49, 443.78, 362.03]
+Detected person with confidence 0.994 at location [319.16, 499.78, 423.6, 675.83]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89726.png :
+Detected donut with confidence 0.953 at location [120.76, 154.98, 184.87, 224.22]
+Detected person with confidence 0.997 at location [0.81, 63.04, 258.12, 524.41]
+Detected person with confidence 0.987 at location [230.06, 66.41, 468.41, 523.2]
+Detected person with confidence 0.985 at location [385.33, 56.95, 679.05, 483.58]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89750.png :
+Detected cell phone with confidence 0.999 at location [106.55, 143.65, 163.81, 252.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\89756.png :
+Detected person with confidence 0.998 at location [0.48, 40.45, 531.11, 789.4]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90138.png :
+Detected tie with confidence 0.995 at location [339.94, 492.86, 508.06, 608.67]
+Detected person with confidence 0.991 at location [275.01, 163.05, 542.49, 743.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90148.png :
+Detected person with confidence 0.998 at location [224.98, 46.42, 659.94, 543.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90165.png :
+Detected person with confidence 0.996 at location [400.32, 63.22, 492.15, 327.5]
+Detected person with confidence 0.965 at location [285.92, 76.46, 348.96, 166.36]
+Detected tie with confidence 0.98 at location [398.24, 110.67, 411.91, 132.84]
+Detected person with confidence 0.964 at location [379.58, 60.79, 431.39, 135.38]
+Detected tie with confidence 0.995 at location [317.98, 110.68, 332.92, 162.12]
+Detected person with confidence 0.987 at location [123.18, 65.3, 240.53, 327.15]
+Detected person with confidence 0.927 at location [222.08, 73.9, 329.4, 326.67]
+Detected tie with confidence 0.992 at location [236.2, 104.37, 245.71, 127.71]
+Detected chair with confidence 0.963 at location [477.91, 195.04, 540.71, 276.15]
+Detected person with confidence 0.997 at location [321.8, 77.83, 442.32, 326.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90251.png :
+Detected person with confidence 0.999 at location [45.45, 53.8, 239.89, 398.94]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90257.png :
+Detected person with confidence 1.0 at location [260.49, 164.86, 369.41, 364.83]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90286.png :
+Detected person with confidence 1.0 at location [0.29, 1.45, 823.51, 529.65]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90315.png :
+Detected tie with confidence 0.986 at location [269.08, 241.26, 302.68, 286.17]
+Detected potted plant with confidence 0.997 at location [470.13, 239.63, 532.79, 331.1]
+Detected potted plant with confidence 0.996 at location [0.14, 157.73, 203.29, 389.27]
+Detected person with confidence 0.934 at location [169.81, 126.75, 383.96, 624.84]
+Detected toilet with confidence 0.917 at location [284.4, 288.54, 401.51, 415.78]
+Detected person with confidence 0.918 at location [168.9, 127.34, 455.94, 627.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90318.png :
+Detected scissors with confidence 0.948 at location [311.73, 160.46, 360.9, 177.38]
+Detected person with confidence 0.942 at location [65.92, 18.33, 737.83, 483.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90321.png :
+Detected person with confidence 0.982 at location [250.78, 147.9, 339.32, 275.61]
+Detected person with confidence 0.92 at location [426.42, 235.58, 545.31, 365.52]
+Detected person with confidence 0.973 at location [491.79, 176.26, 550.02, 359.5]
+Detected person with confidence 0.942 at location [466.75, 141.8, 515.59, 233.1]
+Detected cell phone with confidence 0.944 at location [83.12, 136.62, 96.61, 153.69]
+Detected person with confidence 0.937 at location [100.29, 68.09, 277.38, 361.7]
+Detected person with confidence 0.996 at location [0.04, 82.15, 120.82, 330.39]
+Detected person with confidence 0.97 at location [380.54, 149.06, 427.17, 220.93]
+Detected person with confidence 0.992 at location [319.77, 140.38, 394.54, 251.37]
+Detected person with confidence 0.993 at location [268.35, 240.61, 356.85, 365.51]
+Detected person with confidence 0.901 at location [372.62, 167.89, 501.48, 345.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90342.png :
+Detected tie with confidence 0.98 at location [383.94, 147.59, 416.23, 256.13]
+Detected person with confidence 0.998 at location [218.66, 43.25, 597.38, 275.69]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90345.png :
+Detected person with confidence 0.991 at location [0.33, 91.04, 548.25, 543.79]
+Detected person with confidence 0.923 at location [280.41, 155.65, 376.68, 268.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90417.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90461.png :
+Detected cat with confidence 0.998 at location [128.18, 166.68, 378.62, 653.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90463.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90534.png :
+Detected baseball bat with confidence 0.987 at location [372.35, 50.69, 683.99, 114.52]
+Detected person with confidence 0.999 at location [506.92, 11.66, 632.06, 292.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90541.png :
+Detected person with confidence 1.0 at location [0.01, 70.47, 266.95, 397.75]
+Detected tie with confidence 0.96 at location [104.19, 218.84, 131.1, 327.21]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90568.png :
+Detected person with confidence 0.926 at location [81.91, 1.22, 637.56, 527.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90576.png :
+Detected person with confidence 0.999 at location [14.73, 51.82, 623.66, 792.18]
+Detected tie with confidence 0.998 at location [295.72, 345.59, 374.74, 450.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90582.png :
+Detected person with confidence 0.999 at location [266.5, 54.35, 506.6, 378.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90612.png :
+Detected person with confidence 0.951 at location [287.72, 86.73, 798.13, 514.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90681.png :
+Detected bottle with confidence 0.905 at location [126.32, 498.11, 202.35, 626.53]
+Detected clock with confidence 0.938 at location [329.63, 477.25, 350.19, 502.63]
+Detected bottle with confidence 0.912 at location [793.7, 297.3, 822.0, 373.73]
+Detected spoon with confidence 0.982 at location [221.72, 260.47, 245.62, 378.74]
+Detected refrigerator with confidence 0.997 at location [0.03, 9.7, 116.2, 556.53]
+Detected spoon with confidence 0.974 at location [666.67, 262.65, 698.59, 372.95]
+Detected sandwich with confidence 0.925 at location [443.42, 453.2, 532.2, 483.85]
+Detected bottle with confidence 0.957 at location [791.51, 242.73, 808.82, 290.7]
+Detected person with confidence 1.0 at location [255.54, 20.88, 532.35, 580.07]
+Detected cup with confidence 0.992 at location [780.46, 538.7, 825.02, 622.86]
+Detected dining table with confidence 0.957 at location [-0.23, 552.15, 823.57, 630.32]
+Detected oven with confidence 0.968 at location [461.2, 393.81, 644.01, 547.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90742.png :
+Detected sports ball with confidence 0.999 at location [400.51, 667.7, 432.95, 693.04]
+Detected person with confidence 0.989 at location [174.55, 132.76, 470.59, 792.74]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90756.png :
+Detected person with confidence 0.924 at location [795.52, 318.05, 824.97, 547.98]
+Detected person with confidence 0.98 at location [215.02, 45.77, 419.14, 545.39]
+Detected person with confidence 0.987 at location [320.4, 43.08, 758.55, 545.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90768.png :
+Detected backpack with confidence 0.955 at location [684.55, 405.95, 744.53, 486.36]
+Detected person with confidence 0.999 at location [745.78, 224.41, 824.77, 509.05]
+Detected person with confidence 0.999 at location [213.42, 207.23, 385.61, 521.73]
+Detected person with confidence 0.995 at location [161.05, 207.04, 237.19, 503.46]
+Detected kite with confidence 0.95 at location [0.4, 97.45, 302.45, 331.88]
+Detected person with confidence 0.999 at location [85.6, 207.77, 184.41, 514.34]
+Detected kite with confidence 0.96 at location [395.23, 154.22, 464.15, 198.61]
+Detected person with confidence 0.998 at location [475.12, 215.72, 592.52, 505.92]
+Detected person with confidence 0.999 at location [568.14, 209.35, 715.52, 512.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90834.png :
+Detected person with confidence 1.0 at location [27.68, 30.45, 799.89, 653.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90836.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90842.png :
+Detected person with confidence 0.913 at location [10.03, 38.01, 388.98, 282.97]
+Detected laptop with confidence 0.93 at location [260.13, 454.42, 375.31, 530.64]
+Detected tie with confidence 0.979 at location [233.71, 639.1, 249.56, 693.86]
+Detected person with confidence 0.924 at location [158.74, 38.51, 390.67, 277.32]
+Detected person with confidence 0.995 at location [19.87, 300.67, 363.33, 527.76]
+Detected person with confidence 0.996 at location [174.51, 551.2, 336.65, 775.99]
+Detected tie with confidence 0.994 at location [226.73, 151.81, 252.51, 228.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90846.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90847.png :
+Detected person with confidence 0.977 at location [83.89, 55.01, 581.38, 408.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\90864.png :
+Detected bowl with confidence 0.936 at location [66.91, 63.49, 169.85, 126.53]
+Detected person with confidence 0.994 at location [151.45, 57.99, 239.8, 119.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91026.png :
+Detected car with confidence 0.995 at location [168.46, 283.92, 296.36, 368.26]
+Detected car with confidence 0.995 at location [555.66, 296.93, 656.2, 422.41]
+Detected car with confidence 0.928 at location [760.0, 183.82, 800.02, 217.53]
+Detected car with confidence 0.997 at location [639.59, 283.27, 779.58, 400.67]
+Detected car with confidence 0.995 at location [657.28, 213.76, 799.95, 295.21]
+Detected car with confidence 0.95 at location [292.45, 234.86, 340.53, 287.41]
+Detected car with confidence 0.992 at location [203.87, 301.48, 364.58, 378.8]
+Detected car with confidence 0.933 at location [610.83, 238.55, 671.05, 286.64]
+Detected car with confidence 0.995 at location [0.05, 307.1, 82.27, 438.62]
+Detected car with confidence 0.968 at location [415.34, 255.21, 589.09, 426.32]
+Detected truck with confidence 0.928 at location [237.09, 187.02, 337.38, 243.41]
+Detected traffic light with confidence 0.965 at location [386.47, 76.36, 416.84, 136.95]
+Detected person with confidence 0.997 at location [451.92, 188.56, 484.89, 262.56]
+Detected car with confidence 0.995 at location [341.42, 282.05, 445.77, 373.45]
+Detected traffic light with confidence 0.944 at location [425.54, 87.41, 453.31, 141.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91037.png :
+Detected person with confidence 1.0 at location [0.03, 50.39, 531.65, 791.64]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91072.png :
+Detected person with confidence 0.978 at location [149.13, 157.06, 407.66, 532.19]
+Detected person with confidence 0.982 at location [417.0, 149.37, 756.16, 487.85]
+Detected horse with confidence 0.936 at location [416.71, 308.21, 799.92, 628.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91083.png :
+Detected bottle with confidence 0.925 at location [320.8, 194.64, 340.59, 224.06]
+Detected bowl with confidence 0.95 at location [-0.01, 298.62, 132.73, 364.99]
+Detected spoon with confidence 0.975 at location [82.97, 289.73, 98.68, 333.68]
+Detected person with confidence 0.981 at location [387.51, 39.26, 549.7, 308.37]
+Detected bowl with confidence 0.995 at location [385.89, 262.42, 508.92, 307.56]
+Detected bowl with confidence 0.949 at location [408.59, 317.18, 549.87, 365.26]
+Detected bowl with confidence 0.958 at location [145.65, 256.01, 239.73, 286.35]
+Detected cup with confidence 0.993 at location [141.61, 188.23, 184.99, 240.59]
+Detected cup with confidence 0.947 at location [396.3, 200.34, 420.63, 234.66]
+Detected spoon with confidence 0.953 at location [418.58, 230.78, 446.49, 245.27]
+Detected bottle with confidence 0.988 at location [343.43, 158.4, 369.33, 231.53]
+Detected person with confidence 0.995 at location [134.98, 66.87, 281.56, 251.09]
+Detected spoon with confidence 0.94 at location [177.42, 244.82, 220.31, 269.22]
+Detected cup with confidence 0.995 at location [427.55, 93.16, 468.36, 149.2]
+Detected spoon with confidence 0.96 at location [177.3, 337.17, 223.25, 365.98]
+Detected person with confidence 0.996 at location [0.5, 74.2, 179.25, 305.81]
+Detected dining table with confidence 0.909 at location [40.11, 234.1, 544.14, 362.13]
+Detected spoon with confidence 0.994 at location [315.12, 299.4, 435.93, 339.25]
+Detected bowl with confidence 0.997 at location [388.66, 234.37, 463.43, 258.82]
+Detected spoon with confidence 0.987 at location [451.26, 249.17, 472.91, 286.54]
+Detected bowl with confidence 0.997 at location [301.62, 268.83, 384.16, 321.78]
+Detected bowl with confidence 0.988 at location [362.54, 236.73, 385.84, 264.95]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91208.png :
+Detected person with confidence 0.999 at location [5.73, 38.17, 294.48, 399.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91236.png :
+Detected person with confidence 0.98 at location [557.24, 1.88, 824.62, 543.68]
+Detected motorcycle with confidence 0.976 at location [390.94, 152.44, 698.49, 486.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91240.png :
+Detected person with confidence 0.998 at location [72.16, 307.56, 179.75, 547.81]
+Detected clock with confidence 0.932 at location [130.81, 664.56, 146.47, 682.37]
+Detected person with confidence 0.999 at location [40.41, 589.34, 312.66, 794.03]
+Detected person with confidence 0.928 at location [24.85, 12.47, 379.18, 296.24]
+Detected tie with confidence 0.961 at location [186.13, 223.03, 238.89, 284.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91268.png :
+Detected bird with confidence 0.997 at location [64.57, 94.66, 641.56, 426.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91284.png :
+Detected person with confidence 0.969 at location [336.76, 90.89, 796.62, 527.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91286.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91308.png :
+Detected person with confidence 0.987 at location [393.26, 166.54, 549.97, 364.08]
+Detected person with confidence 0.984 at location [216.06, 79.51, 310.99, 234.83]
+Detected person with confidence 0.976 at location [99.31, 197.15, 205.59, 329.54]
+Detected person with confidence 0.969 at location [93.91, 31.39, 205.86, 220.35]
+Detected person with confidence 0.975 at location [-0.11, 32.71, 134.33, 364.1]
+Detected person with confidence 0.919 at location [186.53, 184.54, 313.03, 365.04]
+Detected person with confidence 0.976 at location [330.15, 160.8, 408.11, 271.12]
+Detected person with confidence 0.972 at location [166.87, 153.77, 241.32, 325.67]
+Detected person with confidence 0.996 at location [282.41, 230.15, 454.14, 364.51]
+Detected person with confidence 0.924 at location [297.45, 147.36, 350.02, 247.97]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91348.png :
+Detected person with confidence 0.999 at location [-0.04, 46.65, 265.94, 398.4]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91374.png :
+Detected person with confidence 0.929 at location [332.57, 83.94, 368.83, 143.15]
+Detected person with confidence 0.999 at location [441.98, 69.68, 549.98, 357.98]
+Detected person with confidence 0.908 at location [412.31, 89.72, 466.21, 168.65]
+Detected person with confidence 0.995 at location [146.6, 132.71, 191.71, 158.29]
+Detected person with confidence 0.993 at location [-0.04, 127.75, 310.94, 358.26]
+Detected person with confidence 0.948 at location [153.64, 64.02, 449.97, 357.46]
+Detected person with confidence 0.906 at location [360.63, 26.54, 475.72, 357.84]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91402.png :
+Detected person with confidence 0.999 at location [1.34, 80.86, 821.25, 543.36]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91436.png :
+Detected person with confidence 0.99 at location [0.2, 0.96, 549.15, 361.52]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91453.png :
+Detected person with confidence 0.962 at location [-0.7, 2.95, 446.98, 361.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91457.png :
+Detected chair with confidence 0.967 at location [34.38, 212.09, 81.06, 364.44]
+Detected chair with confidence 0.996 at location [477.53, 157.09, 506.79, 236.1]
+Detected person with confidence 0.995 at location [58.01, 66.58, 214.84, 362.57]
+Detected tie with confidence 0.995 at location [137.6, 159.31, 168.56, 234.53]
+Detected person with confidence 0.998 at location [161.79, 119.21, 415.3, 363.55]
+Detected dining table with confidence 0.951 at location [291.21, 210.55, 547.51, 362.79]
+Detected person with confidence 0.999 at location [320.95, 59.85, 488.77, 235.79]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91482.png :
+Detected person with confidence 0.997 at location [0.3, 109.74, 799.42, 778.6]
+Detected tie with confidence 0.996 at location [289.5, 496.17, 608.77, 782.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91483.png :
+Detected tie with confidence 0.908 at location [292.67, 492.23, 351.46, 529.16]
+Detected person with confidence 0.995 at location [0.48, 41.29, 611.78, 783.11]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91540.png :
+Detected person with confidence 0.999 at location [55.02, 198.34, 169.11, 395.74]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91547.png :
+Detected wine glass with confidence 0.965 at location [180.83, 210.12, 269.45, 385.03]
+Detected person with confidence 0.966 at location [108.08, 14.37, 574.13, 526.74]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91562.png :
+Detected person with confidence 0.993 at location [142.14, 10.52, 189.06, 58.55]
+Detected person with confidence 0.976 at location [477.66, 403.4, 711.44, 793.13]
+Detected sheep with confidence 0.984 at location [110.27, 41.74, 236.99, 309.58]
+Detected sheep with confidence 0.99 at location [202.52, 54.27, 307.9, 311.04]
+Detected sheep with confidence 0.991 at location [293.07, 59.47, 392.83, 305.7]
+Detected person with confidence 0.917 at location [53.52, 445.53, 285.48, 773.36]
+Detected person with confidence 0.985 at location [194.21, 414.82, 563.27, 794.09]
+Detected sheep with confidence 0.991 at location [378.67, 46.95, 488.0, 294.95]
+Detected sheep with confidence 0.995 at location [461.59, 59.39, 632.47, 301.48]
+Detected person with confidence 0.992 at location [490.43, 32.31, 522.89, 65.77]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91627.png :
+Detected person with confidence 1.0 at location [14.07, 125.12, 643.03, 788.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91708.png :
+Detected person with confidence 0.999 at location [103.87, 110.76, 439.5, 763.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91753.png :
+Detected person with confidence 0.997 at location [167.55, 71.62, 459.71, 286.02]
+Detected tie with confidence 0.998 at location [291.86, 165.98, 316.01, 274.26]
+Detected person with confidence 0.914 at location [149.03, 492.33, 447.24, 791.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91768.png :
+Detected person with confidence 1.0 at location [-0.07, 8.6, 276.92, 398.24]
+Detected tie with confidence 0.969 at location [142.47, 284.17, 220.75, 399.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91802.png :
+Detected person with confidence 0.991 at location [127.71, 463.11, 537.52, 793.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91827.png :
+Detected person with confidence 0.923 at location [221.05, 83.42, 267.74, 404.98]
+Detected person with confidence 0.995 at location [6.49, 33.71, 258.45, 411.06]
+Detected person with confidence 0.999 at location [2.27, 398.51, 264.21, 785.36]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91845.png :
+Detected person with confidence 0.998 at location [51.01, 176.03, 206.84, 235.74]
+Detected surfboard with confidence 0.926 at location [57.29, 221.87, 157.53, 238.34]
+Detected person with confidence 0.999 at location [298.5, 149.46, 398.39, 232.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91856.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\91872.png :
+Detected cell phone with confidence 0.998 at location [441.18, 315.95, 671.95, 488.51]
+Detected cell phone with confidence 0.996 at location [116.27, 319.87, 345.84, 497.84]
+Detected person with confidence 0.989 at location [0.57, 362.86, 310.18, 537.87]
+Detected person with confidence 0.997 at location [521.87, 355.79, 824.54, 531.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92013.png :
+Detected person with confidence 0.989 at location [169.06, 65.07, 459.09, 363.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92067.png :
+Detected kite with confidence 0.947 at location [138.85, 61.3, 302.94, 174.66]
+Detected kite with confidence 0.924 at location [0.45, 57.86, 390.42, 361.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92075.png :
+Detected person with confidence 0.993 at location [224.44, 120.62, 598.6, 542.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92085.png :
+Detected dog with confidence 0.937 at location [654.63, 221.53, 824.78, 483.88]
+Detected person with confidence 0.996 at location [8.33, 39.02, 827.01, 492.1]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92143.png :
+Detected person with confidence 0.999 at location [284.0, 109.05, 607.35, 528.18]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92157.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92167.png :
+Detected person with confidence 0.995 at location [425.98, 113.81, 549.8, 363.48]
+Detected person with confidence 0.999 at location [91.38, 44.22, 430.44, 362.72]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92185.png :
+Detected car with confidence 0.974 at location [488.82, 0.97, 538.75, 35.49]
+Detected dog with confidence 0.928 at location [41.41, 57.23, 421.09, 286.98]
+Detected dog with confidence 0.996 at location [231.04, 69.76, 520.52, 318.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92187.png :
+Detected sports ball with confidence 0.997 at location [379.12, 345.2, 426.28, 393.75]
+Detected person with confidence 1.0 at location [229.99, 96.51, 431.95, 581.1]
+Detected baseball glove with confidence 0.981 at location [223.08, 351.13, 298.22, 437.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92341.png :
+Detected bear with confidence 0.998 at location [369.84, 123.23, 603.24, 372.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92354.png :
+Detected person with confidence 0.955 at location [53.53, 189.31, 256.2, 744.32]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92405.png :
+Detected person with confidence 0.999 at location [0.58, 39.31, 531.87, 791.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92413.png :
+Detected tie with confidence 0.999 at location [373.52, 346.2, 432.58, 492.31]
+Detected person with confidence 0.999 at location [250.82, 55.55, 736.23, 561.55]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92453.png :
+Detected cup with confidence 0.996 at location [49.73, 417.05, 142.08, 525.93]
+Detected person with confidence 0.936 at location [480.31, 18.79, 799.12, 527.48]
+Detected tie with confidence 0.999 at location [347.91, 248.41, 387.9, 397.26]
+Detected person with confidence 0.989 at location [144.45, 46.9, 562.96, 526.7]
+Detected cup with confidence 0.987 at location [74.22, 357.27, 144.08, 419.96]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92457.png :
+Detected person with confidence 0.96 at location [218.1, 47.23, 266.06, 315.91]
+Detected bottle with confidence 0.908 at location [1.32, 287.73, 17.3, 317.1]
+Detected bottle with confidence 0.964 at location [23.37, 134.96, 44.24, 160.02]
+Detected person with confidence 0.998 at location [18.66, 26.96, 250.51, 378.86]
+Detected tie with confidence 0.999 at location [115.31, 156.76, 157.4, 339.15]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92467.png :
+Detected person with confidence 0.999 at location [1.01, 67.88, 532.27, 792.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92514.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92534.png :
+Detected person with confidence 0.967 at location [1.99, 2.04, 548.23, 309.63]
+Detected bed with confidence 0.928 at location [0.49, 89.54, 548.97, 362.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92568.png :
+Detected person with confidence 0.963 at location [318.67, -0.06, 392.32, 78.07]
+Detected person with confidence 0.943 at location [77.21, 6.09, 501.53, 378.81]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92571.png :
+Detected car with confidence 0.964 at location [634.07, 302.69, 799.85, 510.42]
+Detected car with confidence 0.95 at location [1.23, 85.02, 733.16, 527.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92573.png :
+Detected person with confidence 0.99 at location [103.53, 370.41, 408.84, 790.07]
+Detected person with confidence 0.977 at location [40.78, 14.8, 415.64, 355.68]
+Detected tie with confidence 0.995 at location [260.94, 567.72, 298.38, 790.15]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92603.png :
+Detected person with confidence 0.999 at location [-0.01, 46.14, 534.7, 791.75]
+Detected tie with confidence 0.995 at location [162.11, 618.23, 425.96, 764.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92608.png :
+Detected person with confidence 0.995 at location [7.98, 48.72, 786.79, 513.39]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92610.png :
+Detected car with confidence 0.997 at location [493.94, 163.57, 549.92, 215.13]
+Detected person with confidence 0.998 at location [145.64, 54.17, 416.03, 398.5]
+Detected car with confidence 0.999 at location [360.73, 159.41, 431.34, 194.55]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92613.png :
+Detected person with confidence 0.9 at location [0.14, 151.64, 146.73, 400.06]
+Detected person with confidence 0.971 at location [117.67, 157.58, 265.45, 399.32]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92670.png :
+Detected person with confidence 0.994 at location [58.64, 43.42, 539.02, 521.8]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92671.png :
+Detected person with confidence 0.905 at location [197.75, 2.17, 750.5, 544.1]
+Detected person with confidence 0.934 at location [363.86, 2.5, 751.62, 543.62]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92708.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92710.png :
+Detected person with confidence 0.998 at location [4.28, 70.63, 575.12, 788.21]
+Detected tie with confidence 0.989 at location [238.47, 325.34, 485.74, 719.98]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92743.png :
+Detected person with confidence 0.999 at location [281.33, 142.61, 447.18, 661.19]
+Detected person with confidence 0.999 at location [510.82, 167.05, 647.85, 701.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92831.png :
+Detected tie with confidence 0.999 at location [153.41, 221.07, 197.17, 412.98]
+Detected person with confidence 0.998 at location [25.86, 7.69, 471.03, 787.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92845.png :
+Detected person with confidence 0.992 at location [141.68, 10.38, 194.1, 58.55]
+Detected person with confidence 0.979 at location [477.48, 402.38, 711.4, 793.01]
+Detected sheep with confidence 0.947 at location [109.39, 43.15, 237.74, 310.0]
+Detected sheep with confidence 0.909 at location [380.32, 61.88, 488.89, 295.89]
+Detected sheep with confidence 0.95 at location [198.21, 60.62, 310.49, 310.08]
+Detected sheep with confidence 0.984 at location [291.39, 62.17, 394.59, 312.4]
+Detected person with confidence 0.921 at location [53.4, 446.31, 285.26, 769.8]
+Detected person with confidence 0.986 at location [194.23, 414.27, 565.82, 793.8]
+Detected sheep with confidence 0.939 at location [77.06, 59.24, 174.46, 324.04]
+Detected sheep with confidence 0.986 at location [466.74, 62.55, 632.37, 303.91]
+Detected person with confidence 0.989 at location [490.6, 29.28, 523.07, 66.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92867.png :
+Detected horse with confidence 0.908 at location [140.81, 325.59, 316.89, 497.66]
+Detected person with confidence 0.99 at location [30.27, 522.81, 317.08, 794.12]
+Detected person with confidence 0.999 at location [0.45, 99.72, 227.84, 312.7]
+Detected person with confidence 0.962 at location [215.1, 7.41, 469.57, 314.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\92874.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93042.png :
+Detected car with confidence 0.959 at location [32.97, 270.98, 91.34, 291.44]
+Detected person with confidence 0.96 at location [15.46, 254.68, 37.12, 290.25]
+Detected person with confidence 0.934 at location [232.07, 76.86, 396.54, 485.03]
+Detected person with confidence 0.983 at location [306.7, 91.65, 607.3, 512.65]
+Detected person with confidence 0.922 at location [442.57, 201.36, 600.76, 414.83]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93068.png :
+Detected person with confidence 0.962 at location [586.47, 1.53, 799.36, 526.48]
+Detected person with confidence 0.999 at location [237.08, 51.58, 476.97, 528.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93071.png :
+Detected person with confidence 0.955 at location [467.41, 62.38, 798.61, 275.53]
+Detected person with confidence 0.968 at location [276.76, 201.84, 499.66, 416.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93082.png :
+Detected person with confidence 1.0 at location [0.31, 42.74, 525.39, 790.9]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93085.png :
+Detected person with confidence 1.0 at location [8.07, 57.59, 566.29, 795.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93087.png :
+Detected tie with confidence 0.972 at location [342.28, 405.9, 435.55, 545.39]
+Detected person with confidence 0.983 at location [66.26, 56.68, 273.43, 415.47]
+Detected person with confidence 0.939 at location [0.12, 16.63, 95.17, 324.46]
+Detected person with confidence 0.999 at location [43.79, 32.17, 630.04, 540.25]
+Detected person with confidence 0.94 at location [0.05, 302.5, 92.66, 544.82]
+Detected person with confidence 0.959 at location [467.8, 56.05, 775.83, 482.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93126.png :
+Detected person with confidence 0.999 at location [67.21, 33.36, 322.27, 499.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93127.png :
+Detected person with confidence 1.0 at location [0.31, 59.4, 824.46, 542.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93146.png :
+Detected person with confidence 0.998 at location [0.64, 161.52, 391.08, 526.67]
+Detected cell phone with confidence 0.997 at location [304.76, 182.99, 627.42, 341.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93147.png :
+Detected dog with confidence 1.0 at location [94.16, 162.26, 659.81, 795.1]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93152.png :
+Detected potted plant with confidence 0.992 at location [8.2, 13.64, 244.39, 243.29]
+Detected person with confidence 0.999 at location [247.37, 48.25, 486.86, 446.65]
+Detected book with confidence 0.973 at location [328.26, 310.21, 411.33, 385.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93164.png :
+Detected person with confidence 0.996 at location [332.78, 110.74, 549.46, 253.97]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93168.png :
+Detected bear with confidence 0.999 at location [22.08, 98.02, 501.3, 757.9]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93184.png :
+Detected person with confidence 1.0 at location [57.83, 44.76, 222.31, 435.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93186.png :
+Detected tie with confidence 0.944 at location [310.79, 154.0, 320.64, 179.37]
+Detected person with confidence 0.982 at location [221.97, 146.05, 252.37, 199.45]
+Detected person with confidence 0.956 at location [251.56, 170.65, 294.63, 278.42]
+Detected person with confidence 0.917 at location [357.9, 169.04, 464.52, 260.71]
+Detected person with confidence 0.987 at location [337.7, 249.01, 468.06, 364.43]
+Detected person with confidence 0.967 at location [474.49, 115.36, 524.41, 168.62]
+Detected person with confidence 0.982 at location [459.84, 108.29, 506.0, 162.81]
+Detected person with confidence 0.973 at location [200.83, 204.03, 251.89, 288.25]
+Detected person with confidence 0.931 at location [192.55, 140.13, 218.91, 176.77]
+Detected person with confidence 0.979 at location [267.73, 147.98, 310.95, 229.68]
+Detected person with confidence 0.976 at location [160.29, 146.24, 194.13, 206.8]
+Detected person with confidence 0.967 at location [122.59, 162.45, 172.28, 285.48]
+Detected person with confidence 0.943 at location [327.82, 170.3, 389.89, 261.34]
+Detected person with confidence 0.929 at location [296.61, 137.33, 348.49, 218.01]
+Detected person with confidence 0.957 at location [252.85, 238.92, 355.82, 364.54]
+Detected person with confidence 0.974 at location [355.84, 150.66, 459.3, 235.26]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93215.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93245.png :
+Detected tie with confidence 0.98 at location [375.97, 187.63, 397.86, 263.79]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93260.png :
+Detected person with confidence 1.0 at location [208.93, 86.27, 549.59, 364.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93271.png :
+Detected person with confidence 1.0 at location [200.93, 44.38, 547.06, 742.67]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93286.png :
+Detected person with confidence 0.969 at location [0.01, 204.43, 166.95, 391.25]
+Detected person with confidence 0.948 at location [51.26, 39.62, 264.78, 240.3]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93401.png :
+Detected person with confidence 0.994 at location [170.45, 43.84, 411.72, 327.22]
+Detected person with confidence 0.997 at location [362.25, 1.53, 549.61, 363.84]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93410.png :
+Detected person with confidence 0.999 at location [188.51, 65.78, 336.71, 512.56]
+Detected suitcase with confidence 0.996 at location [298.12, 332.49, 371.93, 467.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93416.png :
+Detected person with confidence 0.908 at location [-0.04, 44.27, 451.08, 367.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93471.png :
+Detected person with confidence 0.905 at location [140.8, 201.27, 709.39, 464.49]
+Detected laptop with confidence 0.988 at location [0.75, 0.93, 822.72, 540.48]
+Detected keyboard with confidence 0.969 at location [143.07, 330.78, 676.6, 523.45]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93502.png :
+Detected person with confidence 0.999 at location [140.29, 138.59, 242.43, 399.95]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93506.png :
+Detected carrot with confidence 0.973 at location [420.92, 201.42, 437.11, 227.52]
+Detected spoon with confidence 0.97 at location [51.32, 30.37, 200.67, 137.3]
+Detected bowl with confidence 0.998 at location [210.61, 30.39, 490.92, 297.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93524.png :
+Detected person with confidence 0.98 at location [593.59, 4.19, 824.48, 583.37]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93568.png :
+Detected boat with confidence 0.965 at location [302.08, 103.37, 319.36, 124.03]
+Detected person with confidence 0.932 at location [501.4, 207.35, 510.96, 223.38]
+Detected person with confidence 0.92 at location [477.25, 205.16, 486.34, 220.22]
+Detected person with confidence 0.998 at location [18.62, 124.59, 547.98, 362.86]
+Detected umbrella with confidence 0.911 at location [485.33, 254.15, 522.12, 270.87]
+Detected boat with confidence 0.969 at location [359.19, 127.48, 375.24, 132.95]
+Detected umbrella with confidence 0.901 at location [343.98, 238.41, 372.56, 258.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93586.png :
+Detected person with confidence 0.965 at location [0.32, 389.88, 409.19, 792.36]
+Detected person with confidence 0.935 at location [1.12, 50.28, 477.44, 408.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93614.png :
+Detected toothbrush with confidence 0.952 at location [358.71, 144.83, 373.7, 154.06]
+Detected person with confidence 0.998 at location [121.54, 39.88, 465.16, 360.49]
+Detected toothbrush with confidence 0.981 at location [188.23, 221.43, 219.48, 234.34]
+Detected person with confidence 0.997 at location [329.37, 1.14, 549.31, 359.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93615.png :
+Detected cake with confidence 0.954 at location [206.69, 129.98, 310.7, 230.51]
+Detected person with confidence 0.918 at location [59.44, 2.48, 533.39, 344.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93647.png :
+Detected person with confidence 1.0 at location [-0.14, 48.85, 532.82, 795.7]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93650.png :
+Detected person with confidence 0.938 at location [28.28, 1.21, 823.38, 346.14]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93671.png :
+Detected person with confidence 0.999 at location [277.9, 94.05, 781.2, 790.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93687.png :
+Detected person with confidence 0.977 at location [117.72, 386.23, 358.75, 760.6]
+Detected person with confidence 0.964 at location [262.03, 411.26, 543.87, 743.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93702.png :
+Detected bed with confidence 0.919 at location [0.26, 276.57, 102.23, 476.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93750.png :
+Detected person with confidence 0.995 at location [349.34, 68.19, 728.89, 474.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93764.png :
+Detected person with confidence 0.999 at location [147.51, 115.11, 679.65, 526.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93827.png :
+Detected person with confidence 0.999 at location [78.22, 51.42, 403.05, 484.9]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93852.png :
+Detected person with confidence 0.979 at location [415.24, 126.01, 530.91, 327.49]
+Detected person with confidence 0.964 at location [182.7, 68.56, 269.28, 331.14]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\93861.png :
+Detected person with confidence 0.979 at location [652.64, 132.15, 824.66, 595.42]
+Detected person with confidence 0.972 at location [0.02, 138.39, 86.04, 596.95]
+Detected person with confidence 0.994 at location [11.9, 139.27, 299.59, 593.63]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94062.png :
+Detected person with confidence 0.999 at location [-0.03, 23.11, 265.9, 398.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94081.png :
+Detected person with confidence 0.915 at location [99.23, 48.43, 536.04, 363.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94108.png :
+Detected person with confidence 0.924 at location [480.77, 194.57, 507.06, 214.53]
+Detected person with confidence 0.955 at location [278.91, 154.09, 402.91, 496.06]
+Detected person with confidence 0.967 at location [522.3, 175.14, 574.59, 315.07]
+Detected person with confidence 0.988 at location [17.63, 218.07, 48.07, 270.72]
+Detected person with confidence 0.976 at location [268.12, 215.83, 311.52, 269.15]
+Detected person with confidence 1.0 at location [99.68, 132.42, 311.19, 529.33]
+Detected person with confidence 0.929 at location [66.98, 212.33, 90.08, 264.94]
+Detected person with confidence 0.995 at location [363.89, 107.74, 528.09, 527.13]
+Detected person with confidence 0.904 at location [702.03, 250.19, 747.27, 385.18]
+Detected person with confidence 0.979 at location [462.72, 2.16, 798.09, 529.79]
+Detected person with confidence 0.929 at location [516.63, 173.52, 554.53, 233.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94132.png :
+Detected person with confidence 0.999 at location [0.48, 1.24, 796.1, 526.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94150.png :
+Detected person with confidence 0.954 at location [143.95, 290.94, 187.9, 358.05]
+Detected person with confidence 0.974 at location [128.89, 226.37, 140.59, 264.86]
+Detected person with confidence 0.938 at location [167.45, 230.46, 179.59, 267.18]
+Detected person with confidence 0.954 at location [138.31, 229.38, 150.25, 266.05]
+Detected person with confidence 0.924 at location [20.43, 284.56, 64.1, 372.92]
+Detected person with confidence 0.986 at location [54.03, 258.7, 164.11, 340.27]
+Detected person with confidence 0.96 at location [148.19, 229.01, 162.76, 264.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94158.png :
+Detected bear with confidence 0.945 at location [244.41, 48.9, 440.6, 388.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94162.png :
+Detected chair with confidence 0.996 at location [448.93, 169.4, 549.85, 316.45]
+Detected book with confidence 0.969 at location [61.3, 126.9, 152.89, 249.37]
+Detected cell phone with confidence 0.943 at location [81.56, 303.99, 246.46, 337.82]
+Detected person with confidence 0.992 at location [96.83, 95.77, 409.22, 340.74]
+Detected dining table with confidence 0.935 at location [0.09, 296.13, 549.47, 361.17]
+Detected chair with confidence 0.934 at location [129.23, 161.36, 424.31, 264.49]
+Detected teddy bear with confidence 0.938 at location [334.02, 262.98, 415.9, 341.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94205.png :
+Detected person with confidence 0.909 at location [66.49, 404.74, 167.62, 509.43]
+Detected person with confidence 0.999 at location [49.2, 79.1, 259.64, 583.7]
+Detected person with confidence 0.999 at location [301.14, 9.97, 521.03, 692.31]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94256.png :
+Detected dog with confidence 0.998 at location [72.09, 58.52, 768.62, 635.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94278.png :
+Detected bowl with confidence 0.959 at location [667.19, 433.49, 748.01, 468.96]
+Detected bottle with confidence 0.995 at location [769.14, 405.21, 807.42, 547.98]
+Detected cup with confidence 0.96 at location [712.32, 411.42, 752.57, 448.78]
+Detected cup with confidence 0.973 at location [708.5, 377.29, 749.6, 407.09]
+Detected potted plant with confidence 0.98 at location [754.69, 281.74, 824.92, 400.64]
+Detected person with confidence 0.904 at location [248.65, 71.75, 580.57, 544.52]
+Detected cup with confidence 0.933 at location [686.27, 389.54, 713.39, 431.72]
+Detected oven with confidence 0.987 at location [0.05, 229.86, 143.42, 435.18]
+Detected person with confidence 0.993 at location [379.52, 87.57, 588.41, 544.25]
+Detected sink with confidence 0.988 at location [537.95, 515.22, 742.04, 548.97]
+Detected scissors with confidence 0.998 at location [551.72, 327.33, 584.64, 369.86]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94287.png :
+Detected cat with confidence 0.998 at location [116.24, 422.61, 462.92, 750.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94325.png :
+Detected person with confidence 0.981 at location [553.35, 55.13, 799.76, 523.89]
+Detected person with confidence 0.945 at location [162.16, 90.38, 327.52, 512.08]
+Detected tie with confidence 0.926 at location [259.78, 232.75, 296.41, 295.24]
+Detected person with confidence 0.996 at location [0.69, 54.41, 230.96, 523.25]
+Detected person with confidence 0.912 at location [275.11, 32.52, 526.17, 425.17]
+Detected person with confidence 0.92 at location [343.84, 42.79, 799.7, 523.76]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94356.png :
+Detected person with confidence 0.997 at location [64.23, 148.42, 197.67, 378.8]
+Detected person with confidence 0.998 at location [173.03, 30.11, 266.91, 202.01]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94501.png :
+Detected person with confidence 0.998 at location [312.8, 228.4, 404.0, 491.8]
+Detected person with confidence 0.998 at location [218.48, 199.62, 329.16, 521.95]
+Detected person with confidence 0.965 at location [268.78, 141.46, 384.09, 287.45]
+Detected person with confidence 0.997 at location [82.16, 140.6, 236.24, 537.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94506.png :
+Detected potted plant with confidence 0.906 at location [516.37, 375.3, 799.55, 490.24]
+Detected person with confidence 0.983 at location [665.2, 329.35, 745.81, 406.25]
+Detected person with confidence 0.941 at location [381.14, 224.88, 605.23, 457.2]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94586.png :
+Detected person with confidence 0.999 at location [412.85, 86.7, 549.82, 382.72]
+Detected person with confidence 0.966 at location [409.13, 105.86, 479.04, 331.92]
+Detected car with confidence 0.98 at location [393.14, 140.18, 434.61, 173.28]
+Detected person with confidence 0.958 at location [510.67, 93.14, 550.03, 161.35]
+Detected person with confidence 0.917 at location [4.01, 55.74, 199.48, 269.24]
+Detected car with confidence 0.922 at location [7.58, 131.33, 78.02, 185.24]
+Detected person with confidence 0.998 at location [164.07, 86.81, 334.36, 379.6]
+Detected person with confidence 0.909 at location [0.11, 263.34, 43.68, 384.11]
+Detected person with confidence 0.92 at location [304.78, 87.26, 413.91, 341.32]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94605.png :
+Detected person with confidence 0.965 at location [108.52, 175.57, 169.3, 342.62]
+Detected person with confidence 0.953 at location [8.85, 192.84, 75.96, 323.57]
+Detected person with confidence 0.975 at location [202.42, 196.28, 293.02, 313.2]
+Detected person with confidence 0.936 at location [21.43, 165.16, 98.27, 238.34]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94610.png :
+Detected person with confidence 0.921 at location [441.82, 109.09, 526.69, 237.05]
+Detected boat with confidence 0.982 at location [396.42, 176.03, 428.75, 182.26]
+Detected boat with confidence 0.991 at location [304.6, 181.63, 330.58, 187.65]
+Detected dog with confidence 0.959 at location [73.63, 102.75, 269.23, 362.42]
+Detected boat with confidence 0.982 at location [195.98, 163.48, 205.89, 167.44]
+Detected boat with confidence 0.952 at location [398.63, 186.54, 418.23, 191.76]
+Detected person with confidence 0.959 at location [443.59, 154.62, 527.31, 236.97]
+Detected boat with confidence 0.997 at location [232.62, 195.53, 261.53, 208.79]
+Detected boat with confidence 0.994 at location [333.98, 188.58, 366.43, 195.33]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94617.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94638.png :
+Detected person with confidence 0.999 at location [5.68, 27.85, 294.79, 398.49]
+Detected cell phone with confidence 0.968 at location [128.18, 336.85, 148.85, 363.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94650.png :
+Detected sports ball with confidence 0.988 at location [377.47, 144.65, 429.54, 190.7]
+Detected person with confidence 0.999 at location [115.27, 130.44, 426.29, 734.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94675.png :
+Detected person with confidence 0.932 at location [528.76, 197.18, 550.03, 228.52]
+Detected person with confidence 0.999 at location [52.12, 121.73, 193.87, 351.92]
+Detected person with confidence 0.983 at location [135.07, 67.55, 487.07, 363.33]
+Detected person with confidence 0.9 at location [346.42, 136.53, 492.06, 361.06]
+Detected bottle with confidence 0.991 at location [56.88, 233.62, 70.32, 277.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94678.png :
+Detected person with confidence 0.918 at location [167.63, 39.4, 824.36, 544.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94720.png :
+Detected bowl with confidence 0.934 at location [121.85, 293.39, 302.04, 365.01]
+Detected person with confidence 0.995 at location [157.77, 70.66, 350.38, 298.23]
+Detected cake with confidence 0.918 at location [290.94, 273.53, 546.9, 364.61]
+Detected person with confidence 0.998 at location [251.1, 93.3, 549.49, 311.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94723.png :
+Detected person with confidence 1.0 at location [-0.11, 39.93, 553.81, 793.59]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94731.png :
+Detected person with confidence 0.999 at location [0.47, 108.33, 276.86, 362.75]
+Detected bench with confidence 0.992 at location [-2.14, 213.08, 486.23, 363.47]
+Detected person with confidence 0.996 at location [226.6, 73.42, 479.66, 362.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94786.png :
+Detected person with confidence 0.998 at location [384.42, 5.04, 798.12, 526.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94802.png :
+Detected car with confidence 0.943 at location [0.02, 148.2, 157.21, 254.64]
+Detected motorcycle with confidence 0.915 at location [0.0, 146.3, 188.0, 397.25]
+Detected motorcycle with confidence 0.916 at location [-0.02, 252.82, 187.96, 397.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94815.png :
+Detected person with confidence 0.988 at location [142.41, 22.37, 549.71, 364.0]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94836.png :
+Detected person with confidence 0.968 at location [294.63, 615.85, 408.86, 728.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94850.png :
+Detected person with confidence 0.99 at location [142.05, 10.5, 193.13, 58.7]
+Detected person with confidence 0.974 at location [478.1, 401.37, 711.46, 792.94]
+Detected sheep with confidence 0.933 at location [108.93, 51.93, 252.37, 312.17]
+Detected sheep with confidence 0.989 at location [381.92, 63.91, 488.85, 297.01]
+Detected sheep with confidence 0.968 at location [110.85, 56.92, 310.11, 318.01]
+Detected sheep with confidence 0.982 at location [291.02, 65.91, 394.75, 311.35]
+Detected person with confidence 0.916 at location [53.31, 445.62, 285.48, 775.96]
+Detected person with confidence 0.984 at location [194.55, 414.27, 565.58, 794.0]
+Detected sheep with confidence 0.934 at location [76.96, 58.72, 175.85, 323.3]
+Detected sheep with confidence 0.996 at location [464.94, 58.87, 632.75, 304.33]
+Detected person with confidence 0.987 at location [488.05, 31.1, 523.52, 66.25]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94860.png :
+Detected person with confidence 0.993 at location [1.15, 38.24, 756.78, 523.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94872.png :
+Detected person with confidence 0.999 at location [0.31, 55.64, 265.15, 547.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94873.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\94876.png :
+Detected person with confidence 0.926 at location [718.26, 280.45, 799.86, 529.97]
+Detected person with confidence 0.968 at location [247.34, 54.12, 740.61, 526.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95021.png :
+Detected person with confidence 0.981 at location [434.73, 190.7, 537.03, 363.89]
+Detected kite with confidence 0.96 at location [0.73, 1.8, 548.09, 326.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95031.png :
+Detected umbrella with confidence 0.903 at location [88.04, 457.21, 162.5, 507.02]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95034.png :
+Detected person with confidence 0.97 at location [169.4, 44.38, 375.91, 277.78]
+Detected person with confidence 0.933 at location [170.44, 36.76, 435.38, 279.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95048.png :
+Detected boat with confidence 0.975 at location [-0.02, 3.45, 549.75, 354.64]
+Detected person with confidence 0.999 at location [235.73, 22.25, 450.41, 361.6]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95064.png :
+Detected person with confidence 1.0 at location [35.14, 65.18, 647.02, 794.07]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95067.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95071.png :
+Detected car with confidence 0.92 at location [-0.13, 0.19, 549.81, 424.3]
+Detected person with confidence 0.984 at location [149.74, 75.16, 549.91, 422.47]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95087.png :
+Detected person with confidence 0.996 at location [461.94, 82.91, 550.12, 363.76]
+Detected person with confidence 0.984 at location [413.44, 188.69, 500.71, 364.21]
+Detected person with confidence 0.973 at location [112.91, 165.04, 157.09, 210.39]
+Detected person with confidence 0.908 at location [0.26, 176.78, 35.96, 236.05]
+Detected person with confidence 0.901 at location [154.43, 154.65, 181.96, 185.56]
+Detected person with confidence 0.961 at location [17.6, 150.06, 48.8, 177.71]
+Detected person with confidence 0.998 at location [138.67, 111.42, 258.65, 363.45]
+Detected person with confidence 0.921 at location [87.74, 138.61, 121.93, 180.81]
+Detected person with confidence 0.98 at location [23.31, 172.91, 110.24, 257.62]
+Detected tie with confidence 0.966 at location [325.08, 228.07, 340.25, 259.23]
+Detected person with confidence 0.98 at location [59.82, 146.13, 108.43, 213.72]
+Detected person with confidence 0.966 at location [266.27, 159.52, 373.67, 323.66]
+Detected person with confidence 0.993 at location [192.38, 190.1, 305.04, 364.27]
+Detected person with confidence 0.994 at location [283.38, 144.55, 449.44, 363.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95102.png :
+Detected tie with confidence 0.998 at location [325.57, 345.89, 370.9, 427.29]
+Detected person with confidence 0.984 at location [65.47, 49.81, 716.11, 643.82]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95130.png :
+Detected person with confidence 0.999 at location [22.42, 23.92, 379.0, 362.28]
+Detected couch with confidence 0.904 at location [-0.75, 273.71, 456.63, 364.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95163.png :
+Detected person with confidence 0.974 at location [0.1, 34.77, 549.66, 410.79]
+Detected suitcase with confidence 0.973 at location [249.17, 68.89, 549.79, 415.21]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95184.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95186.png :
+Detected person with confidence 0.959 at location [0.35, 1.7, 484.51, 418.6]
+Detected bed with confidence 0.987 at location [-0.11, 2.68, 824.58, 545.38]
+Detected person with confidence 0.985 at location [303.2, 96.43, 825.32, 531.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95208.png :
+Detected person with confidence 0.997 at location [133.77, 236.59, 347.63, 528.01]
+Detected person with confidence 0.964 at location [140.31, 106.6, 719.99, 527.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95214.png :
+Detected bird with confidence 0.965 at location [31.4, 36.47, 780.56, 434.12]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95247.png :
+Detected tie with confidence 0.951 at location [676.59, 300.19, 714.16, 417.2]
+Detected person with confidence 0.968 at location [664.42, 288.13, 799.96, 528.63]
+Detected person with confidence 0.983 at location [-0.05, 117.46, 197.18, 527.14]
+Detected person with confidence 0.995 at location [204.23, 106.55, 693.3, 527.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95264.png :
+Detected person with confidence 0.998 at location [1.01, 45.83, 532.85, 791.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95401.png :
+Detected person with confidence 0.993 at location [142.36, 10.4, 189.27, 58.69]
+Detected person with confidence 0.98 at location [477.45, 402.19, 711.43, 794.15]
+Detected sheep with confidence 0.944 at location [110.87, 43.35, 237.78, 311.82]
+Detected sheep with confidence 0.99 at location [202.17, 53.54, 307.54, 283.73]
+Detected sheep with confidence 0.994 at location [294.01, 58.98, 393.16, 245.56]
+Detected person with confidence 0.975 at location [194.23, 415.51, 566.47, 794.81]
+Detected sheep with confidence 0.986 at location [379.18, 46.73, 487.15, 249.03]
+Detected sheep with confidence 0.993 at location [463.46, 57.9, 632.28, 302.36]
+Detected person with confidence 0.991 at location [490.69, 32.04, 522.87, 65.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95417.png :
+Detected bear with confidence 0.971 at location [219.15, 131.11, 532.83, 680.4]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95482.png :
+Detected person with confidence 0.991 at location [536.38, 1.66, 799.61, 525.55]
+Detected person with confidence 0.96 at location [246.36, 55.72, 377.12, 381.05]
+Detected person with confidence 0.999 at location [21.8, 70.85, 354.05, 527.9]
+Detected person with confidence 0.994 at location [335.7, 63.41, 653.69, 527.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95683.png :
+Detected person with confidence 0.999 at location [742.47, 355.89, 799.35, 464.76]
+Detected person with confidence 0.919 at location [514.36, 354.11, 538.04, 392.24]
+Detected person with confidence 0.999 at location [330.93, 348.26, 363.72, 455.69]
+Detected person with confidence 0.919 at location [513.7, 354.49, 542.07, 439.4]
+Detected person with confidence 0.995 at location [553.68, 361.84, 578.97, 440.36]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95684.png :
+Detected tie with confidence 1.0 at location [364.91, 298.48, 447.09, 548.19]
+Detected person with confidence 1.0 at location [107.56, 58.65, 806.8, 543.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95783.png :
+Detected person with confidence 0.946 at location [0.44, 30.76, 174.58, 298.72]
+Detected person with confidence 0.958 at location [156.13, 26.9, 371.65, 297.66]
+Detected person with confidence 0.985 at location [275.77, 37.69, 549.08, 362.16]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95814.png :
+Detected person with confidence 0.954 at location [12.83, 37.6, 756.41, 556.15]
+Detected person with confidence 0.916 at location [218.82, 39.99, 780.26, 555.38]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95817.png :
+Detected person with confidence 0.97 at location [142.91, 292.31, 187.86, 374.35]
+Detected person with confidence 0.957 at location [167.46, 230.87, 179.23, 267.14]
+Detected person with confidence 0.99 at location [37.49, 1.76, 104.23, 150.42]
+Detected person with confidence 0.982 at location [128.75, 226.56, 140.14, 265.35]
+Detected person with confidence 0.924 at location [175.35, 234.23, 188.07, 268.29]
+Detected person with confidence 0.97 at location [53.77, 257.47, 163.22, 339.47]
+Detected person with confidence 0.946 at location [138.22, 229.7, 149.59, 266.99]
+Detected person with confidence 0.983 at location [148.26, 229.47, 162.36, 263.51]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95872.png :
+Detected person with confidence 0.974 at location [0.27, 140.64, 226.7, 790.09]
+Detected person with confidence 0.923 at location [72.16, 44.55, 554.71, 789.71]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\95874.png :
+Detected mouse with confidence 0.995 at location [272.87, 641.36, 333.25, 685.91]
+Detected oven with confidence 0.966 at location [93.13, 279.61, 238.51, 629.63]
+Detected person with confidence 0.999 at location [137.05, 117.44, 495.25, 664.28]
+Detected laptop with confidence 0.99 at location [345.53, 461.17, 742.1, 716.73]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96023.png :
+Detected cat with confidence 0.975 at location [71.75, 83.99, 495.05, 321.19]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96034.png :
+Detected chair with confidence 0.925 at location [407.06, 161.55, 467.51, 221.47]
+Detected chair with confidence 0.986 at location [0.94, 312.22, 207.45, 528.05]
+Detected person with confidence 0.996 at location [650.55, 277.38, 758.67, 409.41]
+Detected chair with confidence 0.994 at location [480.57, 304.62, 715.44, 527.62]
+Detected person with confidence 0.97 at location [456.44, 247.55, 579.57, 383.0]
+Detected book with confidence 0.917 at location [291.9, 352.04, 356.53, 437.29]
+Detected chair with confidence 0.907 at location [615.81, 222.01, 759.11, 361.5]
+Detected person with confidence 0.981 at location [163.49, 196.09, 246.81, 290.55]
+Detected person with confidence 0.995 at location [35.55, 210.33, 131.52, 307.11]
+Detected chair with confidence 0.938 at location [419.92, 186.38, 489.46, 267.15]
+Detected person with confidence 1.0 at location [217.6, 152.82, 466.11, 431.53]
+Detected chair with confidence 0.904 at location [90.04, 230.73, 210.36, 342.8]
+Detected person with confidence 0.994 at location [438.49, 165.61, 551.19, 279.22]
+Detected chair with confidence 0.98 at location [549.12, 185.01, 656.09, 305.66]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96037.png :
+Detected person with confidence 0.985 at location [176.96, 168.43, 213.59, 228.7]
+Detected backpack with confidence 0.913 at location [26.24, 159.47, 55.7, 202.69]
+Detected person with confidence 0.969 at location [103.49, 178.39, 159.51, 281.9]
+Detected person with confidence 0.98 at location [24.98, 142.63, 99.06, 267.57]
+Detected person with confidence 0.996 at location [135.93, 73.3, 426.86, 348.2]
+Detected person with confidence 0.948 at location [358.83, 164.88, 386.47, 219.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96071.png :
+Detected person with confidence 0.988 at location [191.69, 462.7, 398.39, 794.35]
+Detected couch with confidence 0.962 at location [37.53, 532.85, 187.24, 637.92]
+Detected potted plant with confidence 0.988 at location [34.73, 413.84, 116.83, 560.19]
+Detected person with confidence 0.973 at location [297.09, 533.52, 597.9, 798.76]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96078.png :
+Detected person with confidence 0.992 at location [142.07, 9.52, 188.63, 58.81]
+Detected person with confidence 0.976 at location [478.37, 401.72, 711.39, 791.23]
+Detected sheep with confidence 0.962 at location [109.55, 40.55, 237.75, 312.37]
+Detected sheep with confidence 0.976 at location [203.21, 54.31, 308.46, 311.59]
+Detected sheep with confidence 0.989 at location [293.13, 57.17, 393.77, 311.51]
+Detected person with confidence 0.963 at location [54.49, 445.45, 285.25, 783.18]
+Detected person with confidence 0.986 at location [199.04, 414.82, 561.29, 792.39]
+Detected sheep with confidence 0.982 at location [375.47, 48.26, 488.75, 297.78]
+Detected sheep with confidence 0.996 at location [459.61, 56.4, 633.21, 305.66]
+Detected person with confidence 0.989 at location [489.99, 31.32, 523.42, 66.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96083.png :
+Detected clock with confidence 0.962 at location [331.14, 386.66, 389.95, 445.06]
+Detected clock with confidence 0.985 at location [256.69, 405.26, 331.88, 462.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96120.png :
+Detected person with confidence 0.998 at location [128.56, 97.86, 455.75, 757.66]
+Detected person with confidence 0.992 at location [427.46, 185.85, 637.36, 589.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96150.png :
+Detected person with confidence 0.977 at location [657.99, 102.25, 799.83, 450.88]
+Detected person with confidence 0.98 at location [336.99, 78.22, 538.02, 515.8]
+Detected tie with confidence 0.976 at location [379.35, 214.56, 410.06, 267.63]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96182.png :
+Detected person with confidence 0.987 at location [124.0, 45.33, 543.49, 361.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96280.png :
+Detected cell phone with confidence 0.995 at location [263.32, 94.6, 290.72, 130.58]
+Detected umbrella with confidence 0.963 at location [440.45, 185.32, 517.89, 277.98]
+Detected person with confidence 0.999 at location [252.17, 14.07, 405.14, 361.76]
+Detected handbag with confidence 0.93 at location [261.11, 186.2, 293.8, 251.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96317.png :
+Detected person with confidence 0.998 at location [592.12, 122.92, 799.59, 290.64]
+Detected person with confidence 0.935 at location [0.38, 1.25, 523.37, 557.3]
+Detected person with confidence 0.982 at location [247.68, 97.46, 645.6, 427.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96340.png :
+Detected person with confidence 0.956 at location [22.39, 173.44, 156.09, 251.93]
+Detected person with confidence 0.992 at location [23.43, 154.57, 91.19, 248.55]
+Detected person with confidence 0.991 at location [103.15, 44.2, 199.77, 134.69]
+Detected person with confidence 0.997 at location [4.19, 33.55, 109.87, 136.08]
+Detected person with confidence 0.999 at location [0.1, 280.28, 80.84, 400.08]
+Detected remote with confidence 0.998 at location [5.9, 246.99, 36.26, 254.74]
+Detected couch with confidence 0.962 at location [-0.01, 307.89, 199.94, 398.65]
+Detected person with confidence 0.978 at location [42.42, 173.82, 156.58, 252.62]
+Detected person with confidence 0.998 at location [36.3, 299.03, 167.02, 399.78]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96381.png :
+Detected person with confidence 0.963 at location [142.78, 32.97, 367.34, 286.36]
+Detected person with confidence 0.982 at location [7.39, 380.62, 60.11, 557.15]
+Detected person with confidence 0.992 at location [81.72, 299.55, 408.19, 564.79]
+Detected person with confidence 0.969 at location [67.85, 590.25, 399.88, 794.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96417.png :
+Detected dog with confidence 0.992 at location [115.17, 77.59, 439.61, 439.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96420.png :
+Detected chair with confidence 0.984 at location [607.83, 216.84, 799.89, 526.08]
+Detected person with confidence 0.962 at location [0.18, 181.49, 56.0, 529.49]
+Detected tie with confidence 0.994 at location [173.03, 177.47, 226.93, 322.75]
+Detected tie with confidence 0.998 at location [416.04, 194.2, 451.65, 285.09]
+Detected person with confidence 0.997 at location [48.33, 18.84, 336.92, 527.28]
+Detected person with confidence 0.986 at location [318.84, 46.05, 611.75, 527.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96421.png :
+Detected person with confidence 0.928 at location [-0.29, 19.11, 279.43, 362.67]
+Detected person with confidence 0.975 at location [0.15, 35.91, 463.04, 363.54]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96423.png :
+Detected banana with confidence 0.978 at location [136.33, 173.9, 362.56, 555.69]
+Detected banana with confidence 0.972 at location [291.79, 152.53, 453.6, 453.1]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96431.png :
+Detected bed with confidence 0.962 at location [1.45, 316.33, 308.23, 546.83]
+Detected person with confidence 0.999 at location [279.08, 15.03, 814.16, 546.49]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96471.png :
+Detected person with confidence 1.0 at location [0.24, 43.97, 620.42, 791.98]
+Detected tie with confidence 1.0 at location [249.61, 706.31, 336.48, 799.76]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96508.png :
+Detected person with confidence 0.992 at location [456.32, 263.25, 525.81, 350.05]
+Detected tie with confidence 0.947 at location [464.76, 303.63, 479.94, 344.12]
+Detected person with confidence 0.943 at location [481.26, 193.22, 540.02, 305.41]
+Detected tie with confidence 0.966 at location [527.41, 225.83, 540.01, 271.2]
+Detected person with confidence 0.999 at location [112.85, 40.24, 416.89, 795.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96510.png :
+Detected person with confidence 0.994 at location [-0.08, 151.25, 55.42, 223.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96531.png :
+Detected person with confidence 0.997 at location [14.77, 517.64, 85.05, 619.89]
+Detected person with confidence 0.903 at location [0.17, 153.13, 113.33, 319.54]
+Detected person with confidence 0.992 at location [159.17, 522.53, 234.29, 651.56]
+Detected bowl with confidence 0.962 at location [161.84, 493.03, 194.66, 511.16]
+Detected person with confidence 0.984 at location [188.75, 376.25, 238.85, 484.57]
+Detected person with confidence 0.991 at location [173.1, 186.22, 214.0, 265.42]
+Detected spoon with confidence 0.943 at location [15.5, 500.63, 39.29, 534.55]
+Detected person with confidence 0.981 at location [157.36, 183.22, 184.2, 250.48]
+Detected spoon with confidence 0.918 at location [38.66, 495.07, 52.6, 529.97]
+Detected person with confidence 0.99 at location [49.89, 182.98, 125.2, 287.93]
+Detected person with confidence 0.99 at location [0.52, 321.27, 102.87, 455.65]
+Detected person with confidence 0.996 at location [64.4, 495.8, 178.15, 626.89]
+Detected bowl with confidence 0.944 at location [6.33, 621.59, 30.99, 642.63]
+Detected bowl with confidence 0.966 at location [197.02, 498.6, 232.05, 516.45]
+Detected person with confidence 0.988 at location [102.12, 179.54, 139.99, 247.13]
+Detected person with confidence 0.993 at location [102.85, 366.91, 148.69, 426.26]
+Detected person with confidence 0.988 at location [164.2, 358.07, 205.39, 436.65]
+Detected person with confidence 0.989 at location [136.46, 195.32, 161.32, 251.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96541.png :
+Detected person with confidence 0.999 at location [29.21, 94.33, 551.72, 790.22]
+Detected book with confidence 0.995 at location [8.05, 400.05, 429.22, 744.71]
+Detected person with confidence 0.983 at location [258.44, 598.19, 331.31, 697.15]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96573.png :
+Detected bottle with confidence 0.993 at location [249.2, 123.63, 262.02, 155.51]
+Detected person with confidence 0.998 at location [139.14, 94.2, 209.06, 273.39]
+Detected person with confidence 0.999 at location [202.03, 58.59, 304.75, 261.79]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96708.png :
+Detected person with confidence 0.999 at location [153.16, 400.08, 328.01, 782.64]
+Detected person with confidence 0.969 at location [134.78, 32.25, 521.47, 369.89]
+Detected person with confidence 0.998 at location [270.4, 373.93, 405.25, 793.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96730.png :
+Detected person with confidence 0.997 at location [36.06, 110.77, 346.01, 362.24]
+Detected dog with confidence 0.998 at location [138.51, 132.28, 394.17, 322.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96735.png :
+Detected train with confidence 0.998 at location [0.1, 9.9, 485.03, 363.45]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96810.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96820.png :
+Detected cup with confidence 0.997 at location [259.7, 446.69, 342.71, 539.89]
+Detected handbag with confidence 0.913 at location [313.94, 323.61, 359.16, 449.27]
+Detected potted plant with confidence 0.992 at location [48.88, 216.25, 121.88, 399.57]
+Detected person with confidence 0.999 at location [337.56, 32.33, 601.7, 486.44]
+Detected dining table with confidence 0.927 at location [4.62, 476.68, 804.77, 546.0]
+Detected laptop with confidence 1.0 at location [408.36, 305.28, 771.66, 534.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96857.png :
+Detected cell phone with confidence 0.924 at location [127.94, 338.92, 146.81, 366.27]
+Detected person with confidence 0.999 at location [5.66, 34.72, 294.65, 398.78]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\96873.png :
+Detected person with confidence 0.97 at location [2.25, 46.81, 690.3, 792.12]
+Detected person with confidence 0.907 at location [677.2, 448.84, 799.93, 796.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97023.png :
+Detected person with confidence 1.0 at location [0.14, 41.79, 549.55, 790.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97041.png :
+Detected person with confidence 0.961 at location [459.21, 388.24, 530.97, 542.27]
+Detected person with confidence 0.999 at location [-0.07, 81.71, 530.86, 794.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97045.png :
+Detected person with confidence 0.988 at location [437.73, 123.54, 799.09, 526.19]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97108.png :
+Detected cell phone with confidence 0.997 at location [110.49, 551.56, 173.82, 682.48]
+Detected person with confidence 0.998 at location [25.8, 282.39, 384.44, 788.2]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97142.png :
+Detected person with confidence 0.997 at location [456.88, 208.46, 510.94, 445.95]
+Detected teddy bear with confidence 0.908 at location [429.56, 135.25, 492.01, 279.95]
+Detected person with confidence 0.994 at location [104.44, 228.3, 210.73, 595.09]
+Detected person with confidence 0.985 at location [-0.13, 260.75, 41.43, 402.47]
+Detected person with confidence 0.999 at location [34.59, 224.2, 119.21, 486.33]
+Detected person with confidence 0.945 at location [325.52, 254.36, 389.62, 473.37]
+Detected person with confidence 0.997 at location [370.98, 196.75, 443.58, 455.81]
+Detected person with confidence 0.969 at location [360.35, 232.78, 381.72, 284.18]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97162.png :
+Detected person with confidence 0.992 at location [142.06, 9.74, 189.12, 58.93]
+Detected person with confidence 0.972 at location [478.0, 402.13, 711.39, 792.03]
+Detected sheep with confidence 0.965 at location [109.7, 40.99, 236.74, 311.88]
+Detected sheep with confidence 0.98 at location [202.71, 52.98, 308.66, 311.52]
+Detected sheep with confidence 0.987 at location [292.97, 58.05, 393.67, 311.48]
+Detected person with confidence 0.912 at location [54.62, 445.24, 284.51, 766.15]
+Detected person with confidence 0.981 at location [188.33, 415.13, 560.49, 792.82]
+Detected sheep with confidence 0.989 at location [377.69, 44.86, 488.92, 297.18]
+Detected sheep with confidence 0.996 at location [461.63, 57.42, 633.11, 305.35]
+Detected person with confidence 0.989 at location [488.78, 30.95, 523.58, 66.23]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97183.png :
+Detected tie with confidence 0.996 at location [374.27, 229.6, 433.26, 305.55]
+Detected person with confidence 0.999 at location [0.38, 45.36, 380.16, 543.3]
+Detected person with confidence 0.97 at location [258.73, 53.95, 557.43, 489.43]
+Detected person with confidence 0.997 at location [265.78, 76.62, 822.79, 543.14]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97210.png :
+Detected person with confidence 0.993 at location [11.28, 32.99, 345.41, 524.44]
+Detected vase with confidence 0.951 at location [752.23, 264.51, 799.97, 337.52]
+Detected person with confidence 0.996 at location [238.46, 55.1, 600.02, 524.21]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97258.png :
+Detected person with confidence 0.999 at location [171.1, 42.94, 483.4, 572.99]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97283.png :
+Detected person with confidence 0.956 at location [17.78, 141.37, 530.91, 789.81]
+Detected tie with confidence 0.995 at location [225.51, 479.3, 302.32, 542.43]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97301.png :
+Detected bird with confidence 0.999 at location [3.57, 84.18, 381.04, 326.96]
+Detected person with confidence 0.998 at location [135.53, 389.26, 424.3, 737.75]
+Detected bird with confidence 0.981 at location [284.89, 112.74, 554.84, 321.92]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97314.png :
+Detected knife with confidence 0.995 at location [347.5, 106.41, 419.44, 198.52]
+Detected person with confidence 0.976 at location [212.62, 0.91, 548.61, 361.13]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97345.png :
+Detected person with confidence 1.0 at location [-0.08, 9.28, 296.89, 398.53]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97403.png :
+Detected person with confidence 0.996 at location [27.85, 30.17, 281.73, 398.88]
+Detected clock with confidence 0.945 at location [120.87, 180.91, 134.32, 194.69]
+Detected sports ball with confidence 0.986 at location [181.35, 62.23, 191.27, 72.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97413.png :
+Detected person with confidence 0.905 at location [16.13, 277.46, 745.87, 527.29]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97426.png :
+Detected person with confidence 0.965 at location [52.6, 370.13, 172.11, 503.3]
+Detected dog with confidence 0.999 at location [121.88, 54.34, 273.74, 246.66]
+Detected person with confidence 0.982 at location [41.94, 614.69, 266.0, 796.21]
+Detected dog with confidence 0.93 at location [157.35, 618.06, 250.48, 764.36]
+Detected dog with confidence 0.998 at location [152.81, 355.36, 359.18, 513.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97465.png :
+Detected person with confidence 0.998 at location [51.34, 7.59, 524.52, 364.75]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97501.png :
+Detected person with confidence 0.999 at location [306.23, 19.06, 793.49, 543.78]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97502.png :
+Detected baseball glove with confidence 0.99 at location [437.11, 395.82, 645.39, 623.22]
+Detected person with confidence 0.999 at location [125.97, 32.36, 266.76, 347.15]
+Detected person with confidence 0.907 at location [243.2, 21.3, 525.11, 335.77]
+Detected baseball bat with confidence 0.98 at location [108.81, 586.1, 254.29, 750.5]
+Detected person with confidence 0.998 at location [70.52, 364.68, 678.29, 793.09]
+Detected person with confidence 0.937 at location [245.1, 20.56, 583.7, 342.42]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97510.png :
+Detected pizza with confidence 0.947 at location [0.46, 55.81, 549.4, 325.98]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97523.png :
+Detected bear with confidence 0.933 at location [178.45, 145.18, 380.27, 297.95]
+Detected person with confidence 0.999 at location [202.16, 477.32, 452.26, 786.84]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97542.png :
+Detected person with confidence 0.993 at location [142.33, 10.81, 189.07, 58.52]
+Detected person with confidence 0.97 at location [477.27, 403.84, 711.47, 793.28]
+Detected sheep with confidence 0.973 at location [109.63, 41.32, 236.74, 303.02]
+Detected sheep with confidence 0.99 at location [202.91, 53.96, 307.96, 297.21]
+Detected sheep with confidence 0.992 at location [292.89, 59.49, 393.06, 302.32]
+Detected person with confidence 0.92 at location [53.29, 446.03, 285.49, 773.37]
+Detected person with confidence 0.986 at location [193.66, 415.03, 564.26, 794.12]
+Detected sheep with confidence 0.99 at location [378.63, 46.75, 488.11, 291.97]
+Detected sheep with confidence 0.996 at location [461.28, 59.19, 632.38, 299.1]
+Detected person with confidence 0.989 at location [490.57, 32.37, 522.87, 65.69]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97543.png :
+Detected tie with confidence 0.998 at location [204.61, 223.43, 230.12, 325.79]
+Detected person with confidence 0.999 at location [646.92, 145.32, 799.88, 493.04]
+Detected tie with confidence 0.994 at location [392.33, 348.82, 408.74, 377.97]
+Detected tie with confidence 0.998 at location [593.57, 253.79, 613.32, 335.56]
+Detected person with confidence 0.996 at location [381.78, 209.64, 431.33, 257.0]
+Detected person with confidence 0.969 at location [102.32, 177.77, 125.88, 235.11]
+Detected person with confidence 0.998 at location [0.25, 127.99, 125.59, 495.53]
+Detected person with confidence 0.995 at location [555.74, 210.13, 587.74, 259.77]
+Detected person with confidence 0.993 at location [92.67, 131.63, 339.52, 445.94]
+Detected tie with confidence 0.983 at location [714.61, 238.49, 734.41, 290.43]
+Detected person with confidence 0.995 at location [276.36, 251.5, 496.2, 478.06]
+Detected person with confidence 0.994 at location [296.16, 221.07, 377.6, 322.23]
+Detected person with confidence 0.997 at location [420.36, 170.89, 554.44, 381.99]
+Detected tie with confidence 0.996 at location [478.09, 247.02, 497.07, 314.85]
+Detected person with confidence 0.995 at location [533.75, 177.95, 701.12, 397.06]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97564.png :
+Detected person with confidence 0.994 at location [-0.3, 4.58, 338.77, 613.24]
+Detected person with confidence 0.996 at location [500.15, 12.34, 824.85, 614.67]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97583.png :
+Detected person with confidence 0.998 at location [135.51, 19.92, 798.88, 526.32]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97610.png :
+Detected person with confidence 0.979 at location [48.65, 45.24, 441.25, 533.0]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97625.png :
+Detected person with confidence 0.999 at location [58.31, 41.68, 823.51, 544.09]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97628.png :
+Detected person with confidence 0.995 at location [356.13, 14.28, 532.27, 339.58]
+Detected bed with confidence 0.934 at location [0.75, 242.4, 191.45, 789.32]
+Detected person with confidence 0.999 at location [60.9, 238.0, 413.29, 715.46]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97683.png :
+Detected person with confidence 0.933 at location [285.51, 116.78, 317.31, 183.77]
+Detected tie with confidence 0.933 at location [169.45, 99.99, 178.47, 129.63]
+Detected person with confidence 0.916 at location [451.07, 112.64, 497.46, 180.02]
+Detected cup with confidence 0.95 at location [446.82, 121.54, 460.81, 139.52]
+Detected bottle with confidence 0.912 at location [463.66, 288.45, 483.87, 345.57]
+Detected person with confidence 0.952 at location [249.47, 119.17, 284.61, 191.81]
+Detected person with confidence 0.94 at location [0.74, 177.56, 75.36, 273.17]
+Detected person with confidence 1.0 at location [93.3, 22.35, 312.44, 306.18]
+Detected person with confidence 0.945 at location [411.08, 95.68, 449.89, 182.28]
+Detected person with confidence 0.951 at location [52.9, 165.62, 112.07, 249.26]
+Detected bottle with confidence 0.975 at location [506.93, 179.57, 517.85, 212.5]
+Detected person with confidence 0.92 at location [329.79, 113.47, 365.09, 180.59]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97685.png :
+Detected person with confidence 0.999 at location [210.77, 34.1, 512.09, 527.19]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97804.png :
+Detected person with confidence 0.999 at location [166.05, 594.45, 378.1, 764.54]
+Detected dog with confidence 0.999 at location [55.87, 547.37, 277.18, 769.46]
+Detected dog with confidence 0.999 at location [177.33, 105.76, 346.44, 249.88]
+Detected person with confidence 0.996 at location [40.27, 33.57, 185.62, 254.59]
+Detected person with confidence 0.999 at location [40.45, 299.33, 186.0, 516.45]
+Detected bed with confidence 0.954 at location [0.48, 524.07, 409.81, 787.17]
+Detected dog with confidence 1.0 at location [174.13, 365.05, 346.64, 508.22]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97821.png :
+Detected person with confidence 0.981 at location [158.86, 32.8, 481.42, 701.07]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97823.png :
+Detected person with confidence 1.0 at location [0.07, 82.57, 584.7, 792.78]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97824.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97826.png :
+Detected person with confidence 0.948 at location [570.64, 127.25, 727.53, 275.74]
+Detected person with confidence 0.968 at location [43.61, 78.5, 444.21, 526.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\97831.png :
+Detected person with confidence 0.999 at location [16.94, 106.35, 520.89, 325.69]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98023.png :
+Detected person with confidence 0.99 at location [111.82, 81.31, 204.56, 148.26]
+Detected person with confidence 0.978 at location [326.06, 26.93, 489.56, 149.28]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98047.png :
+Detected person with confidence 0.998 at location [0.13, 74.35, 150.49, 364.14]
+Detected person with confidence 0.996 at location [197.6, 21.22, 486.51, 363.04]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98067.png :
+Detected bear with confidence 0.999 at location [21.78, 115.35, 501.89, 756.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98072.png :
+Detected tie with confidence 0.999 at location [292.24, 407.02, 375.39, 532.14]
+Detected person with confidence 0.998 at location [24.77, 32.15, 641.78, 526.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98105.png :
+Detected handbag with confidence 0.987 at location [19.87, 272.85, 69.5, 400.49]
+Detected person with confidence 0.986 at location [231.81, 241.15, 279.49, 387.53]
+Detected person with confidence 0.996 at location [36.55, 213.34, 90.64, 280.89]
+Detected person with confidence 0.99 at location [268.88, 240.23, 295.01, 391.52]
+Detected person with confidence 0.981 at location [0.17, 199.78, 157.48, 398.41]
+Detected person with confidence 0.996 at location [21.36, 28.31, 154.28, 189.51]
+Detected person with confidence 0.989 at location [0.03, 238.59, 20.52, 389.44]
+Detected person with confidence 0.982 at location [0.55, 204.75, 268.47, 398.91]
+Detected person with confidence 0.973 at location [5.09, 217.94, 42.45, 306.61]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98154.png :
+Detected cell phone with confidence 0.997 at location [99.58, 91.03, 125.84, 129.02]
+Detected person with confidence 0.999 at location [35.87, 9.67, 178.3, 307.41]
+Detected chair with confidence 0.937 at location [150.59, 197.94, 199.87, 261.85]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98157.png :
+Detected person with confidence 0.942 at location [239.66, 111.86, 486.88, 422.3]
+Detected person with confidence 0.998 at location [260.01, 477.62, 465.17, 731.9]
+Detected person with confidence 0.968 at location [248.04, 30.69, 628.03, 421.87]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98176.png :
+Detected car with confidence 0.996 at location [86.66, 160.38, 751.52, 447.81]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98243.png :
+Detected person with confidence 0.927 at location [337.45, 45.79, 715.34, 546.78]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98245.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98246.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98256.png :
+Detected person with confidence 0.999 at location [0.46, 114.97, 538.07, 791.34]
+Detected tie with confidence 1.0 at location [225.43, 586.65, 316.33, 798.77]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98305.png :
+Detected person with confidence 0.992 at location [68.7, 79.38, 788.61, 544.19]
+Detected tie with confidence 0.928 at location [425.24, 500.87, 534.22, 548.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98314.png :
+Detected person with confidence 0.975 at location [371.53, 457.46, 408.53, 493.53]
+Detected person with confidence 0.954 at location [439.89, 454.35, 465.79, 484.41]
+Detected person with confidence 0.906 at location [327.24, 359.66, 368.4, 433.9]
+Detected person with confidence 0.977 at location [121.35, 423.83, 174.37, 492.31]
+Detected tie with confidence 0.981 at location [211.12, 632.46, 230.95, 706.65]
+Detected person with confidence 0.983 at location [396.66, 420.93, 452.53, 492.88]
+Detected person with confidence 0.929 at location [404.23, 354.57, 449.13, 412.08]
+Detected person with confidence 0.996 at location [157.05, 6.3, 381.61, 208.48]
+Detected person with confidence 0.97 at location [84.55, 259.92, 329.4, 374.34]
+Detected person with confidence 0.956 at location [80.54, 446.25, 123.63, 491.14]
+Detected person with confidence 0.905 at location [0.06, 363.27, 34.37, 441.51]
+Detected person with confidence 0.996 at location [117.41, 568.11, 306.91, 795.33]
+Detected person with confidence 0.996 at location [328.52, 405.34, 387.61, 484.64]
+Detected person with confidence 0.901 at location [41.55, 416.7, 96.09, 474.99]
+Detected person with confidence 0.943 at location [377.38, 366.45, 438.81, 458.66]
+Detected person with confidence 0.997 at location [319.16, 576.16, 443.01, 716.24]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98316.png :
+Detected person with confidence 0.996 at location [78.3, 67.47, 334.62, 292.73]
+Detected tie with confidence 0.97 at location [197.7, 210.99, 236.33, 286.49]
+Detected person with confidence 0.999 at location [88.18, 527.15, 281.19, 781.36]
+Detected person with confidence 0.995 at location [128.0, 307.8, 346.02, 527.48]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98346.png :
+Detected person with confidence 1.0 at location [249.87, 60.97, 388.85, 363.64]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98351.png :
+Detected bottle with confidence 0.96 at location [228.64, 82.6, 237.59, 113.91]
+Detected person with confidence 0.999 at location [242.79, 73.9, 420.91, 364.33]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98364.png :
+Detected dog with confidence 0.983 at location [159.6, 37.51, 799.73, 528.27]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98416.png :
+Detected tie with confidence 0.955 at location [303.88, 568.83, 423.14, 756.07]
+Detected person with confidence 0.999 at location [14.99, 44.25, 577.74, 790.33]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98426.png :
+Detected dog with confidence 0.999 at location [90.84, 96.29, 517.7, 773.57]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98463.png :
+Detected person with confidence 0.99 at location [230.96, 248.73, 291.65, 396.66]
+Detected tie with confidence 0.916 at location [251.12, 280.66, 261.94, 301.12]
+Detected person with confidence 0.915 at location [510.77, 230.93, 550.05, 398.59]
+Detected person with confidence 0.986 at location [186.6, 272.13, 250.2, 396.49]
+Detected person with confidence 0.978 at location [0.04, 215.2, 75.52, 362.11]
+Detected person with confidence 0.993 at location [92.86, 237.56, 164.61, 398.73]
+Detected person with confidence 0.97 at location [73.84, 211.39, 137.49, 352.49]
+Detected tie with confidence 0.954 at location [111.43, 253.66, 121.08, 277.63]
+Detected person with confidence 0.979 at location [283.4, 238.19, 342.37, 372.3]
+Detected person with confidence 0.99 at location [320.98, 223.94, 404.87, 370.17]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98501.png :
+Detected cell phone with confidence 0.982 at location [149.8, 48.96, 196.92, 113.29]
+Detected person with confidence 0.999 at location [11.07, 9.08, 273.65, 333.88]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98506.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98514.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98517.png :
+Detected person with confidence 0.992 at location [141.9, 9.91, 189.04, 58.84]
+Detected person with confidence 0.963 at location [476.95, 403.34, 711.45, 793.27]
+Detected sheep with confidence 0.963 at location [109.75, 41.33, 236.48, 312.01]
+Detected sheep with confidence 0.99 at location [378.77, 42.97, 487.78, 296.8]
+Detected sheep with confidence 0.982 at location [201.9, 51.7, 308.68, 311.54]
+Detected sheep with confidence 0.983 at location [293.3, 58.09, 393.64, 311.82]
+Detected person with confidence 0.916 at location [54.23, 444.62, 285.19, 755.14]
+Detected person with confidence 0.981 at location [190.71, 413.86, 562.61, 793.08]
+Detected sheep with confidence 0.996 at location [460.95, 57.91, 633.11, 305.62]
+Detected person with confidence 0.989 at location [488.52, 31.07, 523.06, 65.89]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98526.png :
+Detected person with confidence 0.983 at location [64.39, 269.35, 151.11, 365.1]
+Detected cell phone with confidence 0.969 at location [119.29, 118.86, 139.33, 148.75]
+Detected person with confidence 0.987 at location [426.92, 207.93, 541.1, 354.3]
+Detected person with confidence 0.952 at location [48.06, 74.84, 119.84, 155.23]
+Detected cell phone with confidence 0.995 at location [455.67, 189.51, 474.87, 224.92]
+Detected person with confidence 0.978 at location [479.96, 307.56, 537.44, 353.06]
+Detected person with confidence 0.91 at location [137.67, 175.27, 198.79, 293.72]
+Detected person with confidence 0.929 at location [1.1, 100.89, 36.19, 134.24]
+Detected person with confidence 0.933 at location [100.7, 151.11, 160.45, 250.91]
+Detected cell phone with confidence 0.937 at location [396.68, 174.63, 414.62, 204.06]
+Detected cell phone with confidence 0.943 at location [369.3, 278.96, 401.6, 298.34]
+Detected person with confidence 0.978 at location [140.09, 293.98, 198.78, 365.81]
+Detected person with confidence 0.951 at location [82.82, 212.76, 174.95, 314.58]
+Detected tie with confidence 0.997 at location [267.69, 115.65, 292.73, 281.73]
+Detected person with confidence 0.999 at location [191.44, 61.44, 349.9, 362.84]
+Detected person with confidence 0.976 at location [361.66, 151.35, 432.91, 274.55]
+Detected person with confidence 0.995 at location [309.01, 263.49, 451.33, 362.05]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98537.png :
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98542.png :
+Detected person with confidence 0.99 at location [645.09, 210.89, 688.99, 410.68]
+Detected person with confidence 0.919 at location [636.65, 224.82, 662.37, 261.6]
+Detected stop sign with confidence 0.992 at location [659.62, 100.68, 742.25, 180.26]
+Detected person with confidence 0.997 at location [330.62, 196.97, 375.08, 287.44]
+Detected person with confidence 0.998 at location [248.56, 242.57, 395.14, 457.41]
+Detected person with confidence 0.999 at location [338.72, 273.85, 475.54, 489.79]
+Detected person with confidence 0.986 at location [546.89, 203.25, 594.01, 411.75]
+Detected person with confidence 0.995 at location [487.65, 219.16, 551.31, 408.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98561.png :
+Detected sink with confidence 0.976 at location [0.44, 453.68, 245.83, 546.55]
+Detected bottle with confidence 0.949 at location [746.79, 445.51, 782.97, 538.66]
+Detected bottle with confidence 0.918 at location [723.58, 465.18, 746.14, 531.67]
+Detected bottle with confidence 0.938 at location [776.43, 463.79, 811.63, 541.6]
+Detected person with confidence 0.999 at location [204.18, 45.25, 468.23, 500.87]
+Detected cell phone with confidence 0.915 at location [489.03, 297.59, 537.86, 368.41]
+Detected person with confidence 0.998 at location [447.52, 197.06, 643.99, 532.41]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98567.png :
+Detected dog with confidence 1.0 at location [11.93, 12.81, 544.27, 397.93]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98571.png :
+Detected person with confidence 0.99 at location [7.45, 82.52, 188.88, 244.87]
+Detected bottle with confidence 0.967 at location [237.77, 384.73, 255.21, 427.03]
+Detected bottle with confidence 0.99 at location [216.04, 382.83, 233.95, 426.4]
+Detected tie with confidence 0.999 at location [168.93, 607.93, 186.07, 679.85]
+Detected cell phone with confidence 0.94 at location [79.47, 691.76, 113.93, 706.39]
+Detected sandwich with confidence 0.995 at location [84.8, 64.04, 256.59, 178.36]
+Detected person with confidence 0.998 at location [92.48, 266.05, 255.07, 523.23]
+Detected person with confidence 0.914 at location [67.14, 323.86, 88.75, 413.99]
+Detected person with confidence 0.999 at location [89.03, 543.52, 270.53, 753.68]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98624.png :
+Detected bird with confidence 0.91 at location [44.51, 81.35, 531.71, 742.03]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98627.png :
+Detected backpack with confidence 0.923 at location [173.8, 622.78, 288.27, 771.96]
+Detected person with confidence 0.992 at location [206.94, 374.39, 430.44, 766.44]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98731.png :
+Detected person with confidence 0.998 at location [-0.07, 30.71, 280.92, 399.0]
+Detected tie with confidence 0.999 at location [90.8, 299.06, 197.43, 352.0]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98751.png :
+Detected person with confidence 0.998 at location [237.15, 47.7, 484.7, 527.97]
+Detected truck with confidence 0.983 at location [482.44, 157.46, 799.12, 526.86]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98752.png :
+Detected dog with confidence 0.981 at location [90.41, 94.84, 574.58, 716.94]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98762.png :
+Detected dog with confidence 0.994 at location [20.27, 199.43, 135.84, 234.04]
+Detected person with confidence 0.997 at location [201.88, 48.19, 436.09, 326.98]
+
+Image - C:\Users\soumi\Desktop\precog\img\validation_data\not_hateful_memes\98764.png :
+Detected person with confidence 0.996 at location [38.46, 113.78, 210.69, 399.74]
+
