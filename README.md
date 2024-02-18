@@ -1,6 +1,10 @@
 # Analyzing-Hateful-Memes
 Submission for Precog Recruitment **`Task 2:`** Analyzing Hateful Memes
 
+## Summary
+This codebase uses various computer vision techniques to qualitatively and quantitatively analyze the different aspects that include and revolve around hateful memes. The analysis gives a very interesting insight into patterns, context and visual cues, all of which affect the way we pervieve memes. The project also highlights the difficulties faced in idenitfying whether a meme can be classified as hateful or not.
+
+## How to Run
 The codebase has been divided into folders corresponding to the subtasks of the main task.
 
 **`IMPORTANT`** Before you begin, you should download the Dataset from this ([Google Drive Link](https://drive.google.com/drive/folders/1rdxxt48MBHTHIkINuIVXeGYEFFqqrP6p?usp=drive_link)) and extract it into the main folder. If you wish to use your own dataset, feel free to do so, but make sure to follow the same directory setup as the one in the link.
@@ -21,3 +25,24 @@ All the codes and outputs related to this task can be found in the [Bonus Task](
 
 ## Paper Reading Task
 The PDF Report for the paper reading task can be found [here.](Reading_Task_Report.pdf)
+
+## Required Libraries
+The following libraries need to be installed in order to run this submission
+
+```
+Python 3.10 or above
+cv2
+pytesseract
+torch
+os
+string
+numpy
+keras_ocr
+tensorflow
+matplotlib
+```
+
+Run the following command in your terminal to install the required dependencies:
+```python
+pip install - matplotlib os torch cv2 numpy keras_ocr pyterrseract tensorflow string
+```
